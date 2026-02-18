@@ -1,0 +1,418 @@
+version,build,date,bullet_text,BUFF,NERF,BUG_FIX,NEW_CONTENT,QOL,GAMEPLAY,label_count,OTHER
+2.5.3,70356,"January 28, 2026",This affix will be re-enabled with the release of this patch.,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",The Tower and Leaderboards,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Tower now unlocks Tiers the same way the Pit does.,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Removed the delay between when a Pylon Cage is destroyed and when a Pylon can be used.,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Pylon of Power,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Damage from 4[x] to 3[x].,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Pylon of Speed,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Player can Knockdown enemies they pass through.,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026","Pylon of Channeling, Shrine of Channeling",0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026","If the orb drops close enough to the player, orbs will appear closer to you to avoid backtracking. If you are too far, orbs will drop at the corpse of the enemy that dropped it.",0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Spinning hazards in certain areas in the Vault of the Crucible dungeon have been removed.,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Various updates to The Tower.,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",This part of the power will be re-enabled with the release of this patch.,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026","When attempting to sanctify items that cannot be sanctified, you’ll now be better informed why it can’t be sanctified.",0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Critical Strike Damage,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Damage to Vulnerable enemies,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Rampant Crushing Hand,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",Dungeons and The Pit,0,0,0,0,0,0,0,1
+2.5.2,70156,"January 12, 2026",User Interface and User Experience,0,0,0,0,0,0,0,1
+2.5.1,69864,"December 18, 2025",Call of the Paladin,0,0,0,0,0,0,0,1
+2.5.1,69864,"December 18, 2025",could have progression blocked if the associated monsters were slain by nearby NPCs.,0,0,0,0,0,0,0,1
+2.5.1,69864,"December 18, 2025",Deeds of a Champion,0,0,0,0,0,0,0,1
+2.5.1,69864,"December 18, 2025",quest would shift the quest pin location incorrectly.,0,0,0,0,0,0,0,1
+2.5.1,69864,"December 18, 2025",These effects has been disabled entirely.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Additional changes made since the PTR’s conclusion are highlighted in,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Updates from PTR,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Upgrading an affix to a Greater Affix can now also occur on non-ancestral items.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Indestructible affix replaced by adding 5-25 Quality ranks.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","To sanctify an item, it only needs to have an item power of 750 or higher in Torment difficulties, rather than being Ancestral.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Purified Gifts now grant 2 levels instead of one.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Azmodan has been granted resilience to bring him more in line with other World Bosses.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Mythic Unique Items,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Ahavarion, Spear of Lycander",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Melted Heart of Selig,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Width of the hitbox has been doubled.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Reverted Fury cap from PTR.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Anger Management,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: While above 55-40 Fury, you are Berserk, but 2 Fury Drains per second.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",The shorter cooldown for the last Brawling skill used before re-enabling all of them now scales based on attack speed.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Fields of Crimson,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Hemorrhage Legendary Node,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Blood Rage Legendary Node,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Carnage Legendary Node,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Decimator Legendary Node,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Weapons Master Legendary Node,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Affixes Removed: Damage while War Cry is Active.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Resource Generations with Two-Handed Bludgeoning Weapons,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Resource Generations with Dual Wielded Weapons,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Resource Generations with Two-Handed Slashing Weapons,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Rampaging Werebeast,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Rabid,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Changed to Aspect of the Rabid Beast.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: While Grizzly Rage is active, your direct damage is converted into Poison damage, you deal x[40 - 80]% more Poison damage, and you passively spread Rabies.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now: Deal 40-80%[x] more Poison Damage. While Shapeshifted, your direct damage is converted into Poison damage.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous (PTR): Damaging [200 - 100] Enemies with Storm Skills grants a charge. Casting any Defensive Skill will grant Max Movement Speed and Unhindered for 1 second for each charge used. While Charged, enemies you run into are Immobilized for 1 second.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Damaging 150-100 Enemies with Nature Magic Skills grants Max Movement Speed and Unhindered for 4-8 seconds. Enemies you run through are Immobilized for 1 second.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Book of the Dead,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Reverted Essence cap from PTR.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Shielding Storm,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Consuming a Corpse now contributes 3 souls to Vampiric Curse, up from 1.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ring of Mendeln,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Bone Golem's combo attack of two swings now counts as a single attack for the purposes of Ring of Mendeln, rather than two separate attacks.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Resource Generation with Two-Handed Weapons.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Resource Generation while Wielding a Shield.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Reverted Energy cap from PTR.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Deathmask of Nirmitruq,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ranks to Stutter Step,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Adjusted the description to specify that it invokes Teleport and doesn't Cast it.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous (PTR): Teleport Dazes enemies at its end point for 1.5 seconds.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous: Casting a Skill grants 3%[+] All Resistance and 2%[+] Maximum Resistance to that Skill's Element for 9 seconds.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Casting a Skill grants 3%[+] All Resistance and 5%[+] Resistance to that Skill's Element for 9 seconds.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Mind's Awakening,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Reverted Mana cap from Season of Infernal Chaos.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Biting Cold,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous: When you Freeze an enemy there is a [25-45%] chance they become Vulnerable for 3 seconds.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous (PTR): Casting Teleport grants a stack of Galvanization, increasing its damage by 30-50% for 8 seconds. Becoming Injured Teleports you to a random location.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Raiment of the Infinite,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous (PTR): After Casting Teleport, Close enemies are Pulled Inwards and it has a 10-30% chance to reset from each enemy it kills.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Teleport pulls Close enemies to you and grants 10-30% Damage Reduction.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ranks to Elemental Attunement replaced with All Resistance.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ranks to Shocking Impact replaced with 30-40% Teleport CDR.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ranks to Conduction,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Frost Critical Strike Chance,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Reverted Vigor cap from PTR.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Poised Rushing Claw,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Forest Power,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Rod of Kepeleke,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Reverted Vigor cap from PTR.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Dodge chance changed to Dexterity.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Maximum quality is now 25, up from 20.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Fully Masterworking an item now gives a 50% upgrade to a random affix, which can be a Tempering Affix.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Masterworking cost has been adjusted, and scales exponentially with Item Quality.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Item Quality 0: 10 Obducite,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Item Quality 5: 25 Obducite,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Item Quality 15: 66 Obducite,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Item Quality 25: 100 Obducite,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",There is now a chance a tempered affix gets applied as a Greater Affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Adjusted Tempering Recipes to remove affixes from Class-specific Manuals that were extraneous due to existing in Generic Manuals, or unused.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Some class wide affixes have been adjusted,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Movement Speed changed from 16-25% to 15-25%.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Casting Ultimate Skills Restores Primary Resource.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","When comparing items, the Armor or resistance difference between items will now display as percentage of Toughness difference instead of just displaying the flat Armor difference.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Toughness is now displayed in the Character Stats window.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Fortify and Barrier Generation are now a part of the general defensive pool of affixes that can appear on items.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Monster power has been tuned down slightly in early Torment tiers.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",More items now drop from levels 1-15.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Cooldown Reduction can now naturally appear on rings, gloves, and shields.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Various tuning to Capstone Dungeon encounters.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Various other minor updates and tweaks to Sanctification and Seasonal Activities.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Vessel of Hatred,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Path of the Emissary: Unique Boots,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+30% Movement Speed (Inherent),0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+16-25% Movement speed,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+155-200% Core Skill damage,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+1-2 Core Skill ranks,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+26.5-40% Impairment Reduction,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Every 12-4 meters you move, invoke a Core Skill from your primary Spirit Hall.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Associated Lair Boss:,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Adaptable Concussive Stomp,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: When enemies recover from Concussive Stomp, you dodge their next 3 attacks.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now: When enemies recover from a Concussive Stomp that you Cast, you block their next 3 attacks.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now consumes up to 500 Vigor.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ring of the Midday Hunt,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ring of Writhing Moon,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Band of First Breath,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Max Life percentage has been replaced with additive Max Life.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Critical Strike Chance replaced with Resolve generation rate.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Rod of Kepeleke,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Can now only consume up to 500 Vigor.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Harmony of Ebewaka,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction affix replaced with Dexterity affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction affix replaced with Dexterity affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction from Poisoned Enemies affix replaced with Armor affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Armor percentage affix replaced with All Resistance affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction while Injured affix replaced with Dexterity affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Protection of the Prime,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction while Standing Still affix replaced with Armor affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",All main Spirit Hall potency affixes changed to main Spirit Hall Damage.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: Every 15th time you deal direct damage to an enemy with a Jaguar Skill, unleash additional slashes dealing 20% of the damage you have dealt to them in the last 0.5 seconds. All Skills are now also Jaguar Skills.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now: Every 15th time you deal direct damage with a Jaguar Skill, unleash a Beast Strike for (100% Weapon damage), increasing all damage you deal by 3% and doubling Beast Strike's damage, stacking 5 times. You lose all stacks when you stop attacking for 1 second.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now scales damage rather than Vulnerable duration.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now only scales Thorns damage.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now scales damage rather than Slow and Damage reduction.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Sapping Legendary Node,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Vigor Restoration changed from 15% to 15 Vigor.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Mystic Circle Potency moved from Jaguar Finesse (Offensive) to Plains Augments (Weapon).,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Taste of Flesh,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","The Undercity comes bearing gifts, despite Andariel's corruption! Most rewards in the Undercity have been buffed, with a particular focus on ensuring that both rarer and pre-Torment Tributes are more rewarding.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Darm The Bloom Warden,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",in Chakhir wouldn't engage in combat with the player.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Chainscourged Mail (Unique Pants),0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+51-65 All Stats,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+424-457 Maximum Life,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",8.1-8.8% Cooldown Reduction,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+2-3 to Brawling Skills,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Associated Lair Boss,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Khamsin Steppewalkers (Unique Boots),0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+16.5-25.0% Movement Speed,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+41.5-55.0% Crowd Control Duration,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",16-25% Nature Magic Cooldown Reduction,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+2-3 to Bad Omen,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damaging 150-100 Enemies with Nature Magic Skills grants maximum Movement Speed and Unhindered for 4-8 seconds. Enemies you run through are Immobilized for 1 second.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Damaging 200-100 Enemies with Storm Skills grants a charge. Casting any Defensive Skill will grant Max Movement Speed and Unhindered for 1 second for each charge used. While Charged, enemies you run into are Immobilized for 1 second.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Associated Lair Boss,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Grigoire, the Galvanic Saint",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Gravebloom (Unique One-Handed Mace),0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Inherent Affix: 10% Attack Speed,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+521-561 Maximum Life,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+36.5-50% Chance for Golem to Hit Twice,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+1-2 Golem Mastery,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Associated Lair Boss,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Best in Ice,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Death's Pavane (Unique Pants),0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Inherent: +15% Dodge Chance while Channeling Dance of Knives,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+9.0-11.0% Critical Strike Chance,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+16.0-25.0% Movement Speed,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+2-3 to Dance of Knives,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+62.5-85.0% Agility Damage,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Associated Lair Bosses,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Orsivane (Unique One-Handed Mace),0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+424-457 Maximum Life,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+57.0-75.0% Non-Physical Damage,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",+3-4 to Core Skills,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Associated Lair Boss,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Melted heart of Selig,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Note that taking damage during the 3 second regeneration phase does not cancel the full regeneration.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction affix replaced with +% of primary stat.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Tassets of the Dawning Sky,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Resistance per element replaced with 20-40% Resistance per element.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Resistance to All Elements affix replaced with All Resistance %.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",All Resistance updated to 80 All Resistance.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Resistance affix replaced with Resistance % affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Inherent Poison Resistance affix removed.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Poison Resistance affix replaced with 666 Poison Resistance affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction while Healthy affix replaced with Armor affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Life % affix replaced with Maximum Life affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction while Healthy affix replaced with Armor % affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Life affix replaced with Critical Strike Chance affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction while Unstoppable affix replaced with Attack Speed affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Inherent Evade grants Movement Speed affix removed.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction from Close affix replaced with Life affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Lightning Resistance affix replaced with All Resistance affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Banished Lord's Talisman,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Life % affix replaced with Life affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Elements,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Renamed to ""Of Elemental Fate"".",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Fire, Lightning, and Physical.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Cold, Poison, and Shadow.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Fire, Lightning, and Physical.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Cold, Poison, and Shadow.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Inevitable Fate,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Sly Steps,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Dark Dance,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Creeping Death,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Prudent Heat,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now scales with Attack Speed.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Can now be cancelled slightly earlier with another skill.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Ground Stomp generates 60 Fury and Pulls in enemies.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Call of the Ancients,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Strategic Iron Skin,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Strategic Rallying Cry,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Veteran Brawler,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Dire Whirlwind,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Numbing Wrath,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous: Each point of Fury generated while at Maximum Fury grants 4-28 Fortify.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Every 100 Fury generated while at Maximum Fury grants 2-3% Max Life Fortify.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Steadfast Berserker's Aspect,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Tempering Blows,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Anger Management,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Fortress,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Bane of Ahjad-Den,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Weapons Master Legendary Node,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous: Swapping Weapons restores 8% of your maximum Fury.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Swapping Weapons restores 12 Fury.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Warbringer Legendary Node,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Preserving Earthen Bulwark,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Fierce Earth Spike,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Supreme Grizzly Rage,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ferocious Wolf Pack,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now also calls Lightning Strikes when applying Immobilize and Stun.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 Spirit instead of fully restoring Spirit when the effect is activated.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 spirit instead of fully restoring Spirit.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 Spirit instead of fully restoring Spirit when the effect is activated.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 spirit instead of fully restoring Spirit.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now: When you use a Shapeshifting Skill that changes your form, Fortify for 2-3% of your Maximum Life.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Calm Breeze,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 Spirit in your resource meter instead of fully restoring Spirit when the effect is activated.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 spirit instead of fully restoring Spirit.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Spirt Bond Aspect,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 Spirit in your resource meter instead of fully restoring Spirit when the effect is activated.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 500 spirit instead of fully restoring Spirit.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Book of the Dead,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","If the Golem's active ability targets an enemy, your Skeletal Warriors and Mages will focus their attacks on that target.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Skeleton Mage, Bone",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Blighted Corpse Explosion,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now will only consume up to 500 Essence.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Supernatural Blood Surge,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: Hemorrhage grants 1.6% of your Maximum Life as Fortify each time it hits an enemy, and has a 1.5% chance per enemy hit to Fortify you for 100% of your Maximum Life.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now: Hemorrhage grants 1% of your Maximum Life as Fortify, and has a 3% chance to Fortify you for 100% of your Maximum Life.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Hungry Blood,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: Each Cast of Blood Lance will launch an additional Blood Lance at a Nearby enemy when it first hits an enemy that is already lanced, dealing 60-100% of normal damage.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now: Each Cast of Blood Lance will launch an additional Blood Lance at a Nearby enemy when it first hits an enemy, dealing 60-100% of normal damage.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Cursed Aura,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Life % affix replaced with Maximum Life affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction from Enemies affected by Blood Skills replaced with Intelligence affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Inherent Blood Wave Fortifies affix removed.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction while Fortified affix replaced with Intelligence affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Bone Spear deals 20-40% additional damage and is a Blood Skill. Casting Bone Spear will launch another Bone Spear if it can consume a nearby Corpse and 5% of your Maximum Life.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction while Injured affix replaced with Intelligence affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Life % affix replaced with Life.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Greaves of the Empty Tomb,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction from Corrupted Enemies affix replaced with Intelligence.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction while you have a Barrier affix replaced with Cooldown Reduction.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Life % affix replaced with Intelligence.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Shadow Clone's copied skills will now more consistently target the initial target of the skill.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Star Shards,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Galvanized Slasher's Aspect,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 current Energy in your resource meter instead of fully restoring Energy when the effect is activated.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 100 energy instead of full restoring.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now can only consume up to 500 Energy.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction from Trapped Enemies affix replaced with Dexterity.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Eyes in the Dark,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction from Trapped Enemies affix replaced with Dexterity.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Bands of Ichorous Rose,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Maximum Poison Resistance affix replaced with Dexterity.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Teleport generates 3 Charges of Crackling Energy.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Teleport Dazes enemies at its end point for 1.5 seconds.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Frozen Orb's explosion deals 50% more damage.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Shimmering Frost Nova,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 20 mana per enemy instead of 10% per enemy.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now restores 200 mana instead of fully restoring mana when hitting a boss.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect Of Tenuous Destruction,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Changed from an Offensive to a Defensive Aspect.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Renamed to Aspect of Tenuous Survival.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of Tenuous Agility,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous: Casting Ice Armor makes you Unstoppable and grants 25% Damage Reduction for 3.5-5.5 seconds.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Ice Armor makes you Unstoppable and grants 200-400 Armor.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Free-casted Defensive Skills will now interact with this aspect.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Aspect of the Firebird,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Winter Touch Aspect,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now has 21 ranks, up from 16.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: 55% Teleport Nova Size.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Casting Teleport grants a stack of Galvanization, increasing its damage by 30-50% for 8 seconds.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Becoming Injured Teleports you to a random location.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",This option has been treated as mandatory for too long. We're reducing the frequency of its procs and cutting away some of its synergies to allow the Teleport Skill to be your premiere source of mobility and utility.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ranks of Primordial Binding changed to 2-4 Skill Ranks of Frozen Orb.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Frozen Orbs deal 4-8% more damage per active Summon and have a 65% chance to create a random Conjuration when Cast. Lucky Hit: Your Summons have up to a 90% chance to launch a Frozen Orb at a Nearby enemy.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Raiment of the Infinite,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now: After Casting Teleport, Close enemies are Pulled Inwards and it has a 10-30% chance to reset from each enemy it kills.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Resource Generation and Maximum affix replaced with Resource Generation.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction affix replaced with Intelligence affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction for each Active Ball Lightning affix replaced with Intelligence.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Esadora's Overflowing Cameo,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage Reduction per Crackling Energy charge affix replaced with Cooldown Reduction affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Helm of Verglas,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Inherent Maximum Cold Resistance affix removed.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ice Armor Enchantment,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: Upon getting hit, you have a 5% chance to apply Ice Armor.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Healing Potions apply Ice Armor and have a 25% chance to refund themselves.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Frost Nova Enchantment,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous: Lucky Hit: Your Conjuration Skills have up to a 35% chance to unleash a Frost Nova when hitting enemies.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Lucky Hit: Up to a 10% chance to unleash a Frost Nova after hitting an enemy.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous: Evade is replaced with a short range Teleport on a 17 second Cooldown. This version does not make you Unstoppable.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",This option has been treated as mandatory for too long. We're reducing the frequency of its procs and cutting away some of its synergies to allow the Teleport Skill to be your premiere source of mobility and utility.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Frozen Orb Enchantment,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: Whenever you Cast a non-Basic Skill, you have a 30% chance to launch a Frozen Orb at a Nearby enemy.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: Casting a Skill has a 30% chance to launch a Frozen Orb at a Nearby enemy.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","For more details on Monster changes, please see the section above.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","With the changes to Renown, the pace of the early leveling journey is a fair bit slower. With the longer time to level, players were spending long periods of time where only one rarity of item was dropping. To combat this, we adjusted the level-over-level shift in item frequency to be more gradual for Normal, Legendary, and Rare Items.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Normal Items will continue dropping for longer while leveling.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Rare Items will be rarer before Level 30.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",The legendary rate is unchanged for a Level 60 character.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Legendary Items have an additional Affix for a total of 4.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","In addition to dropping Gem Fragments, Monsters have a chance of dropping a level-appropriate Gem.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Altars of Lilith,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Instead, discovering a statue for the first time will award a small amount of gem fragments, obols, and gold.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Crafting Costs will generally never cost more than two types of crafting materials.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Enrich Scrap: Convert Rawhide and Iron Chunks into Veiled Crystals.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Refine Materials: Convert Veiled Crystals into Forgotten Souls or Legendary Salvage.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Material cost for Imprinting has been adjusted.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Rare: 5-10 Common Salvage (Iron Chunk, Silver Ore/Superior Leather, Rawhide), 3-7 Veiled Crystals, 0-3 Legendary Salvage (Abstruse Sigil/Baleful Fragment/Coiling Ward), and 5,000-200,000 gold.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Ancestral Legendary: 25 Common Salvage, 15 Veiled Crystals, 8 Legendary Salvage, 5 Forgotten Souls, and 325,000 gold.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Rare: 5 Veiled Crystals and 5,000-200,000 gold.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Ancestral Legendary: 5 Forgotten Souls and 1,000,000 gold.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Material cost for Enchanting has been adjusted.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Yields for Item Salvage have been adjusted.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Salvaging a Rare item provides 1 Common Salvage (Iron Chunk, Silver Ore/Superior Leather, Rawhide) and 2 Veiled Crystals.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Salvaging an Ancestral Legendary Item provides 10 Common Salvage, 10 Veiled Crystals, and 10 Legendary Salvage (Abstruse Sigil/Baleful Fragment/Coiling Ward).",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Salvaging a Mythic Unique provides 100 Common Salvage, 100 Veiled Crystals, 100 Legendary Salvage, and a Resplendent Spark.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Salvaging a Rare item provides 5 Common Salvage and 2 Veiled Crystals.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Salvaging an Ancestral Legendary Item provides 5 Legendary Salvage and 1 Forgotten Soul.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Salvaging a Mythic Unique provides 1,000 legendary Salvage, 100 Forgotten Souls, and a Resplendent Spark.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",The number of Temper rolls available on an item has changed.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Previous: 5 Tempers,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Now: 1 Temper,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Legendary and beyond,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Previous: 5 Tempers, plus one per Greater Affix.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Now: 3 Tempers, plus one per Greater Affix.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Scrolls of Restoration have been redesigned.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",There is no limit to the number of times a Scroll of Restoration can be used on an item.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Material cost for Tempering has been adjusted.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Rare: 10-25 Common Salvage and 2-5 Veiled Crystals.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Legendary: 10-25 Common Salvage, 2-10 Veiled Crystals, and 0-1 Legendary Salvage.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Ancestral Legendary: 40 Common Salvage, 15 Veiled Crystals, 2 Legendary Salvage, and 1 Forgotten Soul.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Rare: 25 Common Salvage and 5 Veiled Crystals.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Legendary: 15 Veiled Crystals and 5 Legendary Salvage.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Ancestral Legendary: 25 Legendary Salvage and 25 Forgotten Souls.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Once at the cap, the item is considered Masterworked.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",A Chest item with 100 armor,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Refinement 0% = 100 Armor,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Refinement 5% = 105 Armor,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Refinement 20% = 120 Armor,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",A Masterworked item can be refined one more time to upgrade an affix to a Greater Affix.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Healing Potion Changes,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Potion charges will refill once every 30,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Healing Affix Changes,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Potion Count affix can now be found on leg armor.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","""Greater"" Life Regen available on Amulet, Rings, and Gloves.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Life on Kill,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","""Greater"" available on Amulet, Rings, Gloves, and Weapons.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Life Per Hit,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","Available on Chest, Helm, Legs, Boots, Amulet, Rings, and Shields.",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Duration has been doubled.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage has been doubled.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Walls now block player projectiles.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Damage now ramps up the longer you stand in the puddle.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",The suppressor field now lasts until the monster is killed.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Instances of single element resistance affixes can now roll higher values than instances of All Resistance affixes.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",The following elixirs and incenses have been updated:,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Elixir of Iron Barbs I,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Elixir of Iron Barbs II,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Elixir of Fortitude I,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Elixir of Fortitude II,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Song of the Mountain Incense,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Updated from 300 flat armor to +10% armor.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Rare tempering manuals now start dropping at level 30 instead of at level 45.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Characters that skip either campaign now unlock all non-stronghold waypoints for their respective region.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Tempering affixes now have greater variance now that you aren't limited to how many times you can re-temper.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Resistance and Armor values from affixes have been broadly adjusted to account for the introduction of Toughness.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025",Renown has been removed on the Seasonal Realm. All previous rewards related to Renown have either been made obsolete or have shifted into the Season Journey.,0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","For more details on Season Rank, please read the section detailing it in the Season of Divine Intervention overview blog",0,0,0,0,0,0,0,1
+2.5.0,69713,"December 11, 2025","For more details, you can read more in the Season of Divine Intervention overview blog",0,0,0,0,0,0,0,1
