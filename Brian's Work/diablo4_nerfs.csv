@@ -1,0 +1,110 @@
+bullet_id,version,date,bullet_text,label_reason
+2.5.2_70156_5,2.5.2,"January 12, 2026",Pylon health has been reduced in an effort to make them less tanky.,player_decrease
+2.5.0_69713_1,2.5.0,"December 11, 2025",Affixes on Ancestral Unique or Mythic Items can no longer be replaced.,player_decrease
+2.5.0_69713_6,2.5.0,"December 11, 2025",Reduced item quality rewards in pre-Torment difficulties.,player_decrease
+2.5.0_69713_10,2.5.0,"December 11, 2025",Andariel no longer regenerates Health if you die.,player_decrease
+2.5.0_69713_14,2.5.0,"December 11, 2025",Shrines no longer disappear when fighting Azmodan.,player_decrease
+2.5.0_69713_16,2.5.0,"December 11, 2025",Lesser Evil events in the Overworld now reward unique items from Lair Boss reward pools.,enemy_increase
+2.5.0_69713_18,2.5.0,"December 11, 2025",Primary resource generation reduced to 50%.,player_decrease
+2.5.0_69713_19,2.5.0,"December 11, 2025","Previous (PTR): Each point in your Primary Stat increases your Primary Resource by 3% but you have 75% reduced life. Any damage you would take is dealt to your Primary Resource before your life. If you have not taken damage in 6 seconds, your Resource regenerates to full over 3 seconds.",player_decrease
+2.5.0_69713_26,2.5.0,"December 11, 2025","Fury generation per enemy hit increased from 3% to 10%, up to 10 stacks.",enemy_increase
+2.5.0_69713_39,2.5.0,"December 11, 2025",No longer available.,player_decrease
+2.5.0_69713_44,2.5.0,"December 11, 2025",Cooldown reduced from 50 to 35 seconds.,player_decrease
+2.5.0_69713_49,2.5.0,"December 11, 2025",Damage against immobilized enemies increased from 15%[x] to 25%[x].,enemy_increase
+2.5.0_69713_56,2.5.0,"December 11, 2025","Previous (PTR): Damaging [200 - 100] Enemies with Storm Skills grants a charge. Casting any Defensive Skill will grant Max Movement Speed and Unhindered for 1 second for each charge used. While Charged, enemies you run into are Immobilized for 1 second.",enemy_increase
+2.5.0_69713_57,2.5.0,"December 11, 2025",Now: Damaging 150-100 Enemies with Nature Magic Skills grants Max Movement Speed and Unhindered for 4-8 seconds. Enemies you run through are Immobilized for 1 second.,enemy_increase
+2.5.0_69713_61,2.5.0,"December 11, 2025",Previous: Nature Magic Skills deal 35%[x] increased damage to Poisoned enemies. Lucky Hit: Nature Magic Skills have up to a 40% chance to Poison the enemy for 800% damage over 4 seconds.,enemy_increase
+2.5.0_69713_62,2.5.0,"December 11, 2025",Now: Deal 40%[x] increased damage to Poisoned enemies. Lucky Hit: Nature Magic Skills have up to a 40% chance to Poison the enemy for 1000% damage over 4 seconds.,enemy_increase
+2.5.0_69713_67,2.5.0,"December 11, 2025",Timer for Overpower reduced from 15 to 10 seconds.,player_decrease
+2.5.0_69713_68,2.5.0,"December 11, 2025",Barrier reduced from 1-8% to 1-3% of Maximum Health.,player_decrease
+2.5.0_69713_78,2.5.0,"December 11, 2025",Healing reduced from 10% to 6%.,player_decrease
+2.5.0_69713_79,2.5.0,"December 11, 2025",Healing per Rank reduced from 1% to .5% of Maximum Health.,player_decrease
+2.5.0_69713_83,2.5.0,"December 11, 2025",Chance to deal triple damage to Knocked Down enemies increased from 50-75% to 50-100%.,enemy_increase
+2.5.0_69713_87,2.5.0,"December 11, 2025",No longer available.,player_decrease
+2.5.0_69713_93,2.5.0,"December 11, 2025",Maximum Barrier reduced from 30% to 20% of Maximum Health.,player_decrease
+2.5.0_69713_94,2.5.0,"December 11, 2025",Barrier per Rank reduced from 10% to 5% of Maximum Health.,player_decrease
+2.5.0_69713_95,2.5.0,"December 11, 2025",Healing reduced from 1% per Rank to .2% of Maximum Health.,player_decrease
+2.5.0_69713_97,2.5.0,"December 11, 2025",Barrier reduced from 3-6% to 1.5-3% of Maximum Health.,player_decrease
+2.5.0_69713_103,2.5.0,"December 11, 2025",Now: Each enemy hit by Teleport increases the damage by 5-15%|x| and reduces the Cooldown by 0.5 seconds of the next cast. Becoming Injured will Teleport you to a random location.,enemy_increase
+2.5.0_69713_105,2.5.0,"December 11, 2025",Now: Teleport pulls Close enemies to you and grants 10-30% Damage Reduction.,enemy_increase
+2.5.0_69713_115,2.5.0,"December 11, 2025",Now: Jaguar Skills deal 6/12/18%[x] increased direct damage to up to 3 of the Closest enemies to you.,enemy_increase
+2.5.0_69713_116,2.5.0,"December 11, 2025",Barrier reduced from 25% to 15% of Maximum Health.,player_decrease
+2.5.0_69713_144,2.5.0,"December 11, 2025",Base Health for boss monsters has been increased.,enemy_increase
+2.5.0_69713_223,2.5.0,"December 11, 2025","Now: When enemies recover from a Concussive Stomp that you Cast, you block their next 3 attacks.",enemy_increase
+2.5.0_69713_227,2.5.0,"December 11, 2025","Previous: Your Maximum Vigor is increased by 50%, and killing an enemy grants you 1 - 7 Vigor. While you have Ferocity, your Poisoning effects deal their damage across 33% of the normal duration.",enemy_increase
+2.5.0_69713_228,2.5.0,"December 11, 2025","Now: Your Maximum Vigor is increased by 50%, and killing an enemy grants you 1 - 7 Vigor. While you have Ferocity, your new Poisoning effects last 33% longer.",enemy_increase
+2.5.0_69713_244,2.5.0,"December 11, 2025","Previous: Every 15th time you deal direct damage to an enemy with a Jaguar Skill, unleash additional slashes dealing 20% of the damage you have dealt to them in the last 0.5 seconds. All Skills are now also Jaguar Skills.",enemy_increase
+2.5.0_69713_248,2.5.0,"December 11, 2025",Barrier per hit reduced from 5% to 2.5%.,player_decrease
+2.5.0_69713_249,2.5.0,"December 11, 2025",No longer has a cap of 30% Barrier.,player_decrease
+2.5.0_69713_258,2.5.0,"December 11, 2025",Fortify reduced from 5% to .2% of Maximum Life.,player_decrease
+2.5.0_69713_262,2.5.0,"December 11, 2025",Healing reduced from 2% to 1% of Maximum Health.,player_decrease
+2.5.0_69713_273,2.5.0,"December 11, 2025",The chance to find pre-torment Tributes has been reduced.,player_decrease
+2.5.0_69713_305,2.5.0,"December 11, 2025","Damaging 150-100 Enemies with Nature Magic Skills grants maximum Movement Speed and Unhindered for 4-8 seconds. Enemies you run through are Immobilized for 1 second. Damaging 200-100 Enemies with Storm Skills grants a charge. Casting any Defensive Skill will grant Max Movement Speed and Unhindered for 1 second for each charge used. While Charged, enemies you run into are Immobilized for 1 second.",enemy_increase
+2.5.0_69713_319,2.5.0,"December 11, 2025","Dance of Knives drops knives from enemies hit. Picking them up grants you 1 Charge and increases your Dance of Knives damage by 10-20% for 6 seconds, stacking up to 3 times.",enemy_increase
+2.5.0_69713_354,2.5.0,"December 11, 2025",Reduced its frequency in extreme situations.,player_decrease
+2.5.0_69713_356,2.5.0,"December 11, 2025",Fortify reduced from 5-10% to 2-3% of Maximum Life.,player_decrease
+2.5.0_69713_374,2.5.0,"December 11, 2025",Now: Ground Stomp generates 60 Fury and Pulls in enemies.,enemy_increase
+2.5.0_69713_380,2.5.0,"December 11, 2025",Fortify reduced from 20% to 10% of Maximum Life.,player_decrease
+2.5.0_69713_381,2.5.0,"December 11, 2025",Fortify reduced from 30% to 10% of Maximum Life.,player_decrease
+2.5.0_69713_382,2.5.0,"December 11, 2025",Fortify reduced from 15% to 8% of Maximum Life.,player_decrease
+2.5.0_69713_389,2.5.0,"December 11, 2025",Fortify reduced from 10% to 3% of Maximum Life.,player_decrease
+2.5.0_69713_390,2.5.0,"December 11, 2025",Fortify reduced from .6% to .1% of Maximum Life.,player_decrease
+2.5.0_69713_391,2.5.0,"December 11, 2025","Previous: Each time a Core Skill deals direct damage to an enemy, your next Charge, Leap, or Kick deals 4-10%[x] increased damage, up to 20-50%[x].",enemy_increase
+2.5.0_69713_392,2.5.0,"December 11, 2025","Now: Each time a Brawling Skill deals direct damage to an enemy, your Charge, Leap, or Kick deals 4-10%[x] increased damage for 5 seconds, up to 20-50%[x].",enemy_increase
+2.5.0_69713_406,2.5.0,"December 11, 2025",Reduced Overpower timer from 12 to 6 seconds.,player_decrease
+2.5.0_69713_407,2.5.0,"December 11, 2025",Legendary Bonus now includes damage to Injured enemies.,enemy_increase
+2.5.0_69713_412,2.5.0,"December 11, 2025",Fortify reduced from 50% to 5% of Maximum Life.,player_decrease
+2.5.0_69713_413,2.5.0,"December 11, 2025","Stacking duration is no longer a part of the ability, and Cooldown doesn't start until the ability ends.",player_decrease
+2.5.0_69713_417,2.5.0,"December 11, 2025",Fortify reduced from 8% to 2% of Maximum Life.,player_decrease
+2.5.0_69713_418,2.5.0,"December 11, 2025",Fortify reduced from 20% to 15% of Maximum Life.,player_decrease
+2.5.0_69713_419,2.5.0,"December 11, 2025",Fortify reduced from 18% to 10% of Maximum Life.,player_decrease
+2.5.0_69713_420,2.5.0,"December 11, 2025",Fortify reduced from 12% to 3% of Maximum Life.,player_decrease
+2.5.0_69713_421,2.5.0,"December 11, 2025",Fortify per second reduced from 8% to 2% of Maximum Life.,player_decrease
+2.5.0_69713_422,2.5.0,"December 11, 2025",Fortify reduced from 12% to 3% of Maximum Life.,player_decrease
+2.5.0_69713_423,2.5.0,"December 11, 2025",Fortify reduced from 8% to 3% of Maximum Life.,player_decrease
+2.5.0_69713_425,2.5.0,"December 11, 2025",Ranks in this passive now increase the damage of the Lightning Bolts instead of the chance to strike enemies.,enemy_increase
+2.5.0_69713_434,2.5.0,"December 11, 2025",Fortify reduced from 3% to .1% of Maximum Life.,player_decrease
+2.5.0_69713_435,2.5.0,"December 11, 2025",Fortify reduced from 2% to .2% of Maximum Life.,player_decrease
+2.5.0_69713_441,2.5.0,"December 11, 2025",Fortify reduced from 2-5% to .2-.5% of Maximum Life.,player_decrease
+2.5.0_69713_443,2.5.0,"December 11, 2025",Respawn timer reduced from 20 seconds to 10 seconds.,player_decrease
+2.5.0_69713_446,2.5.0,"December 11, 2025",Fortify on attack reduced from 3% to .1% of Maximum Life.,player_decrease
+2.5.0_69713_452,2.5.0,"December 11, 2025",Fortify reduced from 5% to .2% of Maximum Life.,player_decrease
+2.5.0_69713_453,2.5.0,"December 11, 2025",Fortify reduced from 2.5% to .5% of Maximum Life.,player_decrease
+2.5.0_69713_454,2.5.0,"December 11, 2025","Previous: Each time an enemy is hit by Blood Surge's nova, you are Fortified for 1% of your Maximum Life. While you have Fortify for over 50% of your Maximum Life, Blood Surge deals 50% increased damage.",enemy_increase
+2.5.0_69713_456,2.5.0,"December 11, 2025","Previous: Hemorrhage grants 1.6% of your Maximum Life as Fortify each time it hits an enemy, and has a 1.5% chance per enemy hit to Fortify you for 100% of your Maximum Life.",enemy_increase
+2.5.0_69713_459,2.5.0,"December 11, 2025","Now: Each Cast of Blood Lance will launch an additional Blood Lance at a Nearby enemy when it first hits an enemy, dealing 60-100% of normal damage.",enemy_increase
+2.5.0_69713_462,2.5.0,"December 11, 2025",Fortify reduced from 1-4% to 1% of Maximum Life.,player_decrease
+2.5.0_69713_475,2.5.0,"December 11, 2025",Minions Chance to Fortify reduced from 15.5-20% to 5-7%.,player_decrease
+2.5.0_69713_476,2.5.0,"December 11, 2025",Legendary Bonus now includes damage to Injured enemies.,enemy_increase
+2.5.0_69713_477,2.5.0,"December 11, 2025",Fortify reduced from 10% to 3% of Maximum Life.,player_decrease
+2.5.0_69713_478,2.5.0,"December 11, 2025",Fortify reduced from 4% to 1% of Maximum Life.,player_decrease
+2.5.0_69713_481,2.5.0,"December 11, 2025","Previous: Attack enemies to fill your Inner Sight gauge. Marked enemies fill it faster. When full, gain unlimited Energy and 25%[+] Critical Strike Chance for 4 seconds.",enemy_increase
+2.5.0_69713_482,2.5.0,"December 11, 2025","Now: Attack enemies to fill your Inner Sight gauge. Marked enemies fill it faster. When full, restore 300 Energy, and gain 100% Energy Cost Reduction, 25%[+] Critical Strike Chance, and 25%[x] Critical Strike Damage.",enemy_increase
+2.5.0_69713_490,2.5.0,"December 11, 2025",Previous: You deal 50%[x] increased Critical Strike Damage to enemies affected by your Trap Skills.,enemy_increase
+2.5.0_69713_491,2.5.0,"December 11, 2025",Now: You deal 50%[x] increased Critical Strike Damage and Damage Over Time to enemies affected by your Trap Skills.,enemy_increase
+2.5.0_69713_493,2.5.0,"December 11, 2025","Previous: Teleport deals 500% increased damage. It also forms Crackling Energy for each enemy it hits, up to 3.",enemy_increase
+2.5.0_69713_496,2.5.0,"December 11, 2025",Now: Teleport Dazes enemies at its end point for 1.5 seconds.,enemy_increase
+2.5.0_69713_497,2.5.0,"December 11, 2025",Chill amount reduced from 9% to 5%.,player_decrease
+2.5.0_69713_500,2.5.0,"December 11, 2025",Now restores 20 mana per enemy instead of 10% per enemy.,enemy_increase
+2.5.0_69713_501,2.5.0,"December 11, 2025",Now restores 200 mana instead of fully restoring mana when hitting a boss.,enemy_increase
+2.5.0_69713_519,2.5.0,"December 11, 2025","Now: Each enemy hit by Teleport increases the damage by 5-15%|x| and reduces the Cooldown by 0.5 seconds of the next cast. Casting Teleport grants a stack of Galvanization, increasing its damage by 30-50% for 8 seconds. Becoming Injured Teleports you to a random location.",enemy_increase
+2.5.0_69713_522,2.5.0,"December 11, 2025",Now: Frozen Orbs deal 4-8% more damage per active Summon and have a 65% chance to create a random Conjuration when Cast. Lucky Hit: Your Summons have up to a 90% chance to launch a Frozen Orb at a Nearby enemy.,enemy_increase
+2.5.0_69713_523,2.5.0,"December 11, 2025","Previous: After using Teleport, Close enemies are Pulled to you and Stunned for 2-3 seconds, but Teleport's Cooldown is increased by 20%.",enemy_increase
+2.5.0_69713_524,2.5.0,"December 11, 2025","Now: After Casting Teleport, Close enemies are Pulled Inwards and it has a 10-30% chance to reset from each enemy it kills.",enemy_increase
+2.5.0_69713_534,2.5.0,"December 11, 2025",Now: Lucky Hit: Up to a 10% chance to unleash a Frost Nova after hitting an enemy.,enemy_increase
+2.5.0_69713_538,2.5.0,"December 11, 2025",Now: Casting a Skill has a 30% chance to launch a Frozen Orb at a Nearby enemy.,enemy_increase
+2.5.0_69713_549,2.5.0,"December 11, 2025","Altars of Lilith no longer grant permanent character rewards, such as stat increases or Paragon points.",player_decrease
+2.5.0_69713_551,2.5.0,"December 11, 2025",Material costs no longer scale with Item Power. Gold cost has remained unchanged.,player_decrease
+2.5.0_69713_552,2.5.0,"December 11, 2025",Eternal-only conversion recipes for legacy materials will no longer appear for seasonal character.,player_decrease
+2.5.0_69713_578,2.5.0,"December 11, 2025","Scrolls of Restoration no longer restore all temper charges to an item. Instead, they restore 1 temper charge.",player_decrease
+2.5.0_69713_597,2.5.0,"December 11, 2025",Items no longer need to have been tempered to be Masterworked.,player_decrease
+2.5.0_69713_598,2.5.0,"December 11, 2025",The sell value of items has been reduced by 60%.,player_decrease
+2.5.0_69713_599,2.5.0,"December 11, 2025",The gold cost of items has been reduced by 90%.,player_decrease
+2.5.0_69713_601,2.5.0,"December 11, 2025",Potions no longer need to be upgraded.,player_decrease
+2.5.0_69713_613,2.5.0,"December 11, 2025","The chance to get another Nightmare Dungeon Sigil when completing a Nightmare Dungeon has been reduced. When a Sigil does not drop, Sigil Powder will drop.",player_decrease
+2.5.0_69713_617,2.5.0,"December 11, 2025",Reduced the base likelihood of a Strongroom appearing within a Nightmare Dungeon. The likelihood of the Horadric Strongroom affix appearing on a Nightmare Sigil is unchanged.,player_decrease
+2.5.0_69713_621,2.5.0,"December 11, 2025",Walls no longer disappear when the associated elite dies.,player_decrease
+2.5.0_69713_628,2.5.0,"December 11, 2025",Suppressor field is now immediately active when the monster spawns.,enemy_increase
+2.5.0_69713_629,2.5.0,"December 11, 2025",The suppressor field now lasts until the monster is killed.,enemy_increase
+2.5.0_69713_633,2.5.0,"December 11, 2025",There is no longer a cost to enter The Pit.,player_decrease
+2.5.0_69713_646,2.5.0,"December 11, 2025",Monsters now scale attack speed as difficulty goes up in addition to movement speed.,enemy_increase
