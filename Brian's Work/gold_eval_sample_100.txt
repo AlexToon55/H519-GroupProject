@@ -98,4 +98,4 @@ bullet_id,version,date,bullet_text,auto_label,label_reason,gold_label
 2.5.1_69864_4,2.5.1,18-Dec-25,The altar to summon Azmodan has additional info added to the tooltip to better explain the requirements for summoning Azmodan.,QoL,qol_keyword,QoL
 2.5.2_70156_11,2.5.2,12-Jan-26,"Orbs drop immediately when the monster dies, and no longer wait for post-Death effects (Elite affixes like Fire enchanted, certain spiders, etc.)",QoL,qol_keyword,Qol
 2.5.2_70156_14,2.5.2,12-Jan-26,Exit portals now spawn closer to the player at the end of a run.,QoL,qol_keyword,QoL
-2.5.2_70156_19,2.5.2,12-Jan-26,"When attempting to sanctify items that cannot be sanctified, you’ll now be better informed why it can’t be sanctified.",QoL,qol_keyword,QoL
+2.5.2_70156_19,2.5.2,12-Jan-26,"When attempting to sanctify items that cannot be sanctified, you’ll now be better informed why it can’t be sanctified.",QoL,qol_keyword,Qol
