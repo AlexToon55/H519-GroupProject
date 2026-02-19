@@ -1,0 +1,101 @@
+bullet_id,version,date,bullet_text,auto_label,label_reason,gold_label
+2.5.0_69713_102,2.5.0,11-Dec-25,"Previous (PTR): Casting Teleport grants a stack of Galvanization, increasing its damage by 30-50% for 8 seconds. Becoming Injured Teleports you to a random location.",Buff,player_increase,Buff
+2.5.0_69713_145,2.5.0,11-Dec-25,The chance for items with multiple Greater Affixes to drop has been increased in Torment tiers.,Buff,player_increase,QoL
+2.5.0_69713_214,2.5.0,11-Dec-25,+30% Movement Speed (Inherent),Buff,player_increase,Buff
+2.5.0_69713_314,2.5.0,11-Dec-25,Inherent: +15% Dodge Chance while Channeling Dance of Knives,Buff,player_increase,Buff
+2.5.0_69713_317,2.5.0,11-Dec-25,+2-3 to Dance of Knives,Buff,player_increase,Buff
+2.5.0_69713_324,2.5.0,11-Dec-25,+3-4 to Core Skills,Buff,player_increase,Buff
+2.5.0_69713_357,2.5.0,11-Dec-25,"Now has 21 ranks, up from 16.",Buff,player_increase,Buff
+2.5.0_69713_358,2.5.0,11-Dec-25,"Now has 21 ranks, up from 16.",Buff,player_increase,Buff
+2.5.0_69713_359,2.5.0,11-Dec-25,"Now has 21 ranks, up from 16.",Buff,player_increase,Buff
+2.5.0_69713_368,2.5.0,11-Dec-25,Increased collide damage from 54% to 100%.,Buff,player_increase,Buff
+2.5.0_69713_37,2.5.0,11-Dec-25,Maximum Damaging Reduction from Fortify increased from 10% to 15%.,Buff,player_increase,Buff
+2.5.0_69713_436,2.5.0,11-Dec-25,"Previous: When you use a Shapeshifting Skill that changes your form, Heal for 5-20% of your Maximum Life. If you are at full Life, gain the same amount as Fortify.",Buff,player_increase,Buff
+2.5.0_69713_447,2.5.0,11-Dec-25,Damage increased from 85% to 110%.,Buff,player_increase,Buff
+2.5.0_69713_485,2.5.0,11-Dec-25,Now restores 100 current Energy in your resource meter instead of fully restoring Energy when the effect is activated. Now restores 100 energy instead of full restoring.,Buff,player_increase,Nerf
+2.5.0_69713_517,2.5.0,11-Dec-25,Now: 55% Teleport Nova Size.,Buff,player_increase,Buff
+2.5.0_69713_532,2.5.0,11-Dec-25,Now: Healing Potions apply Ice Armor and have a 25% chance to refund themselves.,Buff,player_increase,Buff
+2.5.0_69713_542,2.5.0,11-Dec-25,Magic Items will more frequently have a bonus affix.,Buff,player_increase,QoL
+2.5.0_69713_620,2.5.0,11-Dec-25,Walls now block player projectiles.,Buff,player_increase,Nerf
+2.5.0_69713_630,2.5.0,11-Dec-25,Damage Increased.,Buff,player_increase,Buff
+2.5.0_69713_636,2.5.0,11-Dec-25,Increased from 30 armor to 250 armor.,Buff,player_increase,Buff
+2.5.0_69713_153,2.5.0,11-Dec-25,Fixed an issue where the Luminary in Unseen Awakening didn't respawn after the player died.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_168,2.5.0,11-Dec-25,Fixed an issue where the cost for enchanting an item at the Occultist was not consistent for all two-handed weapons.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_198,2.5.0,11-Dec-25,Fixed an issue where Ravager would dash to targets uncontrollably when non-Casted core skills were invoked.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_200,2.5.0,11-Dec-25,"Fixed an issue where Mystic Circle would be empowered by skills that were not cast, such as from Path of the Emissary.",Bugfix,fixed_issue,Bugfix
+2.5.0_69713_202,2.5.0,11-Dec-25,Fixed an issue where Tempering an item would prevent selecting other items that could also apply that affix from being slotted into the tempering window.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_203,2.5.0,11-Dec-25,Fixed an issue where the World Map could not be viewed while inside a Capstone dungeon.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_207,2.5.0,11-Dec-25,"Fixed an issue where Champions didn't behave like Elites in various contexts, such as not dropping the expected kind of loot.",Bugfix,fixed_issue,Bugfix
+2.5.0_69713_208,2.5.0,11-Dec-25,Fixed an issue where Undercity tributes weren't dropping as expected.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_290,2.5.0,11-Dec-25,Fixed an issue where instances of Raze the Effigies and Cull the Wicked events couldn’t be completed in some Nahantu areas.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_291,2.5.0,11-Dec-25,Fixed an issue where Ehecatl would disappear upon casting a Lightning Totem during the Bonded Destiny Quest.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_667,2.5.0,11-Dec-25,Fixed an issue where hostages during a Hostage event started at half health.,Bugfix,fixed_issue,Bugfix
+2.5.0_69713_679,2.5.0,11-Dec-25,Fixed an issue where players on PlayStation™ could not use Trade Chat.,Bugfix,fixed_issue,Bugfix
+2.5.1_69864_13,2.5.1,18-Dec-25,Fixed an issue where the initial questline to go through Kurast Undercity couldn't be completed for players in the eternal realm.,Bugfix,fixed_issue,Bugfix
+2.5.1_69864_9,2.5.1,18-Dec-25,Fixed an issue where the Seraph's Wings upgrade for Arbiter of Justice granted higher than intended movement speed.,Bugfix,fixed_issue,Bugfix
+2.5.2_70156_25,2.5.2,12-Jan-26,Fixed an issue where Paladins could become stuck while climbing.,Bugfix,fixed_issue,Bugfix
+2.5.2_70156_31,2.5.2,12-Jan-26,Fixed an issue where the Strength node next to the Ironclad Rare node in the Castle Paragon Board was magic instead of normal.,Bugfix,fixed_issue,Bugfix
+2.5.2_70156_32,2.5.2,12-Jan-26,Fixed an issue where the Renewal passive was granting healing instead of Fortify.,Bugfix,fixed_issue,Bugfix
+2.5.2_70156_35,2.5.2,12-Jan-26,Fixed an issue where Spiritborn players could not use the Armory until after unlocking Spirt Halls.,Bugfix,fixed_issue,Bugfix
+2.5.2_70156_49,2.5.2,12-Jan-26,Fixed an issue where enemies could endlessly spawn in the second floor of the Enclave of Darkness.,Bugfix,fixed_issue,Bugfix
+2.5.2_70156_55,2.5.2,12-Jan-26,"Fixed an issue where Elite Monsters with the Soul Drinker Affix could scale indefinitely, becoming extremely large and eventually unkillable. Who knew drinking souls could be so good for bulking?",Bugfix,fixed_issue,Bugfix
+2.5.0_69713_14,2.5.0,11-Dec-25,Shrines no longer disappear when fighting Azmodan.,Nerf,player_decrease,Bugfix
+2.5.0_69713_144,2.5.0,11-Dec-25,Base Health for boss monsters has been increased.,Nerf,enemy_increase,Nerf
+2.5.0_69713_354,2.5.0,11-Dec-25,Reduced its frequency in extreme situations.,Nerf,player_decrease,
+2.5.0_69713_380,2.5.0,11-Dec-25,Fortify reduced from 20% to 10% of Maximum Life.,Nerf,player_decrease,Nerf
+2.5.0_69713_417,2.5.0,11-Dec-25,Fortify reduced from 8% to 2% of Maximum Life.,Nerf,player_decrease,Nerf
+2.5.0_69713_423,2.5.0,11-Dec-25,Fortify reduced from 8% to 3% of Maximum Life.,Nerf,player_decrease,Nerf
+2.5.0_69713_44,2.5.0,11-Dec-25,Cooldown reduced from 50 to 35 seconds.,Nerf,player_decrease,Buff
+2.5.0_69713_443,2.5.0,11-Dec-25,Respawn timer reduced from 20 seconds to 10 seconds.,Nerf,player_decrease,Buff
+2.5.0_69713_452,2.5.0,11-Dec-25,Fortify reduced from 5% to .2% of Maximum Life.,Nerf,player_decrease,Nerf
+2.5.0_69713_476,2.5.0,11-Dec-25,Legendary Bonus now includes damage to Injured enemies.,Nerf,enemy_increase,Buff
+2.5.0_69713_477,2.5.0,11-Dec-25,Fortify reduced from 10% to 3% of Maximum Life.,Nerf,player_decrease,Nerf
+2.5.0_69713_481,2.5.0,11-Dec-25,"Previous: Attack enemies to fill your Inner Sight gauge. Marked enemies fill it faster. When full, gain unlimited Energy and 25%[+] Critical Strike Chance for 4 seconds.",Nerf,enemy_increase,
+2.5.0_69713_482,2.5.0,11-Dec-25,"Now: Attack enemies to fill your Inner Sight gauge. Marked enemies fill it faster. When full, restore 300 Energy, and gain 100% Energy Cost Reduction, 25%[+] Critical Strike Chance, and 25%[x] Critical Strike Damage.",Nerf,enemy_increase,Nerf
+2.5.0_69713_49,2.5.0,11-Dec-25,Damage against immobilized enemies increased from 15%[x] to 25%[x].,Nerf,enemy_increase,Buff
+2.5.0_69713_490,2.5.0,11-Dec-25,Previous: You deal 50%[x] increased Critical Strike Damage to enemies affected by your Trap Skills.,Nerf,enemy_increase,
+2.5.0_69713_493,2.5.0,11-Dec-25,"Previous: Teleport deals 500% increased damage. It also forms Crackling Energy for each enemy it hits, up to 3.",Nerf,enemy_increase,
+2.5.0_69713_551,2.5.0,11-Dec-25,Material costs no longer scale with Item Power. Gold cost has remained unchanged.,Nerf,player_decrease,QoL
+2.5.0_69713_633,2.5.0,11-Dec-25,There is no longer a cost to enter The Pit.,Nerf,player_decrease,QoL
+2.5.0_69713_78,2.5.0,11-Dec-25,Healing reduced from 10% to 6%.,Nerf,player_decrease,Nerf
+2.5.2_70156_5,2.5.2,12-Jan-26,Pylon health has been reduced in an effort to make them less tanky.,Nerf,player_decrease,QoL
+2.5.0_69713_109,2.5.0,11-Dec-25,Frost Critical Strike Chance,Other,fallback,
+2.5.0_69713_130,2.5.0,11-Dec-25,"Adjusted Tempering Recipes to remove affixes from Class-specific Manuals that were extraneous due to existing in Generic Manuals, or unused.",Other,fallback,QoL
+2.5.0_69713_149,2.5.0,11-Dec-25,Various tuning to Capstone Dungeon encounters.,Other,fallback,
+2.5.0_69713_15,2.5.0,11-Dec-25,Azmodan has been granted resilience to bring him more in line with other World Bosses.,Other,fallback,
+2.5.0_69713_24,2.5.0,11-Dec-25,Adjusted attack speed scaling.,Other,fallback,
+2.5.0_69713_271,2.5.0,11-Dec-25,Buffed item rewards from any Undercity run in Torment difficulty.,Other,fallback,QoL
+2.5.0_69713_3,2.5.0,11-Dec-25,"To sanctify an item, it only needs to have an item power of 750 or higher in Torment difficulties, rather than being Ancestral.",Other,fallback,QoL
+2.5.0_69713_300,2.5.0,11-Dec-25,Inherent: Attacks Reduce Evade's Cooldown by 0.5 Seconds,Other,fallback,Buff
+2.5.0_69713_331,2.5.0,11-Dec-25,Maximum Resistance per element replaced with 20-40% Resistance per element.,Other,fallback,Buff
+2.5.0_69713_504,2.5.0,11-Dec-25,Changed from an Offensive to a Defensive Aspect.,Other,fallback,
+2.5.0_69713_545,2.5.0,11-Dec-25,The legendary rate is unchanged for a Level 60 character.,Other,fallback,
+2.5.0_69713_566,2.5.0,11-Dec-25,"Salvaging a Rare item provides 1 Common Salvage (Iron Chunk, Silver Ore/Superior Leather, Rawhide) and 2 Veiled Crystals.",Other,fallback,
+2.5.0_69713_570,2.5.0,11-Dec-25,Salvaging an Ancestral Legendary Item provides 5 Legendary Salvage and 1 Forgotten Soul.,Other,fallback,
+2.5.0_69713_574,2.5.0,11-Dec-25,Previous: 5 Tempers,Other,fallback,
+2.5.0_69713_581,2.5.0,11-Dec-25,"Legendary: 10-25 Common Salvage, 2-10 Veiled Crystals, and 0-1 Legendary Salvage.",Other,fallback,
+2.5.0_69713_582,2.5.0,11-Dec-25,"Ancestral Legendary: 40 Common Salvage, 15 Veiled Crystals, 2 Legendary Salvage, and 1 Forgotten Soul.",Other,fallback,
+2.5.0_69713_602,2.5.0,11-Dec-25,Potion charges will refill once every 30 12 seconds.,Other,fallback,Buff
+2.5.0_69713_605,2.5.0,11-Dec-25,"""Greater"" Life Regen available on Amulet, Rings, and Gloves.",Other,fallback,Buff
+2.5.0_69713_648,2.5.0,11-Dec-25,Resistance and Armor values from affixes have been broadly adjusted to account for the introduction of Toughness.,Other,fallback,Buff
+2.5.0_69713_75,2.5.0,11-Dec-25,Resource Generation with Two-Handed Weapons.,Other,fallback,
+2.5.0_69713_0,2.5.0,11-Dec-25,Upgrading an affix to a Greater Affix can now also occur on non-ancestral items.,QoL,qol_keyword,QoL
+2.5.0_69713_12,2.5.0,11-Dec-25,The size of Belial's eyeballs has been increased to make them easier to target.,QoL,qol_keyword,QoL
+2.5.0_69713_213,2.5.0,11-Dec-25,"Various stability, UI, and visual improvements.",QoL,qol_keyword,QoL
+2.5.0_69713_230,2.5.0,11-Dec-25,"Now: A Pestilent Swarm spawns from you every 4 seconds, dealing x Poison damage per hit. Your Pestilent Swarms now orbit around you and reduce an equipped Eagle Skill's cooldown by 0.25 seconds per hit.",QoL,qol_keyword,Buff
+2.5.0_69713_243,2.5.0,11-Dec-25,Updated the tooltips to display the damage that scales with the above affix in blue.,QoL,qol_keyword,QoL
+2.5.0_69713_355,2.5.0,11-Dec-25,Chance for Thorns to activate explosions increased from 25-45% to 40-60%.,QoL,qol_keyword,Buff
+2.5.0_69713_498,2.5.0,11-Dec-25,"Previous: While Healthy, the explosion of Frozen Orb deals 45% increased damage.",QoL,qol_keyword,
+2.5.0_69713_547,2.5.0,11-Dec-25,"Killing the last Champion in a pack, or any Elite, will always drop equipment and gold, in addition to their standard reward chances.",QoL,qol_keyword,QoL
+2.5.0_69713_594,2.5.0,11-Dec-25,A Masterworked item can be refined one more time to upgrade an affix to a Greater Affix.,QoL,qol_keyword,QoL
+2.5.0_69713_596,2.5.0,11-Dec-25,"The quantity of Obducite you earn has been adjusted. Players will earn 85% less Obducite, and recipes requiring Obducite have been similarly reduced.",QoL,qol_keyword,QoL
+2.5.0_69713_601,2.5.0,11-Dec-25,Potions no longer need to be upgraded.,QoL,qol_keyword,QoL
+2.5.0_69713_7,2.5.0,11-Dec-25,Bonus experience from the maggots in Helltide has been adjusted.,QoL,qol_keyword,Buff
+2.5.0_69713_8,2.5.0,11-Dec-25,"Glyph Upgrades now get a scaling chance to grant an extra upgrade attempt based on Divine Gift rank. Rank 1 grants a 25% chance, up to a 100% upgrade chance at Rank 5.",QoL,qol_keyword,QoL
+2.5.1_69864_0,2.5.1,18-Dec-25,Updated descriptions and tooltips for Heavenly Sigils so the requirements for sanctifying an item are clearer.,QoL,qol_keyword,QoL
+2.5.1_69864_1,2.5.1,18-Dec-25,The Season Rank objective for clearing Pit Tier 40 has been changed to now require a Pit Tier 35 clear instead.,QoL,qol_keyword,QoL
+2.5.1_69864_17,2.5.1,18-Dec-25,"Various fixes and improvements to consistency, accuracy, and clarity for tooltips, descriptions, and icons for the Paladin.",QoL,qol_keyword,QoL
+2.5.1_69864_4,2.5.1,18-Dec-25,The altar to summon Azmodan has additional info added to the tooltip to better explain the requirements for summoning Azmodan.,QoL,qol_keyword,QoL
+2.5.2_70156_11,2.5.2,12-Jan-26,"Orbs drop immediately when the monster dies, and no longer wait for post-Death effects (Elite affixes like Fire enchanted, certain spiders, etc.)",QoL,qol_keyword,Qol
+2.5.2_70156_14,2.5.2,12-Jan-26,Exit portals now spawn closer to the player at the end of a run.,QoL,qol_keyword,QoL
+2.5.2_70156_19,2.5.2,12-Jan-26,"When attempting to sanctify items that cannot be sanctified, you’ll now be better informed why it can’t be sanctified.",QoL,qol_keyword,Qol

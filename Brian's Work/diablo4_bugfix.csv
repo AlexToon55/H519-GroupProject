@@ -1,0 +1,177 @@
+bullet_id,version,date,bullet_text,auto_label,label_reason
+2.5.3_70356_0,2.5.3,"January 28, 2026",Fixed an issue where the Executioner Monster Affix sound effect played continuously.,Bugfix,fixed_issue
+2.5.3_70356_1,2.5.3,"January 28, 2026",Fixed an issue where certain Silent Chests in Nahantu did not count towards the Season Rank objective Test of Luck.,Bugfix,fixed_issue
+2.5.3_70356_2,2.5.3,"January 28, 2026",Fixed an issue where Zagraal in the Dark Citadel didn't drop loot.,Bugfix,fixed_issue
+2.5.3_70356_3,2.5.3,"January 28, 2026",Fixed an issue where some Tower bosses had significantly more health than others.,Bugfix,fixed_issue
+2.5.3_70356_4,2.5.3,"January 28, 2026",Fixed an issue where an error would occur when trying to view the profile of a leaderboard entry and the player had a private profile.,Bugfix,fixed_issue
+2.5.3_70356_5,2.5.3,"January 28, 2026",Fixed an issue where resetting a piece of masterworked gear did not unlock the Recycled Works challenge.,Bugfix,fixed_issue
+2.5.3_70356_6,2.5.3,"January 28, 2026",Fixed an issue where the reward for defeating all the Lesser Evils at once was only given to the player who opened the chest in Local Co-op play.,Bugfix,fixed_issue
+2.5.3_70356_7,2.5.3,"January 28, 2026",Fixed an issue where other Divine Gifts could stop gaining experience if another Divine Gift was at Rank 5.,Bugfix,fixed_issue
+2.5.3_70356_8,2.5.3,"January 28, 2026",Fixed an issue where some cosmetic items would show as locked even though they were unlocked and usable.,Bugfix,fixed_issue
+2.5.2_70156_25,2.5.2,"January 12, 2026",Fixed an issue where Paladins could become stuck while climbing.,Bugfix,fixed_issue
+2.5.2_70156_26,2.5.2,"January 12, 2026",Fixed an issue where Shield Charge could fail to hit enemies who were close to the player.,Bugfix,fixed_issue
+2.5.2_70156_27,2.5.2,"January 12, 2026",Fixed an issue where the player would get stuck in place if using Advance assigned to the right mouse button while March of the Stalwart was equipped.,Bugfix,fixed_issue
+2.5.2_70156_28,2.5.2,"January 12, 2026",Fixed an issue where the Rite of Mercy upgrade for Holy Light made Paladins untargetable by Spiritborn's Toxic Skin Passive when playing in PvP.,Bugfix,fixed_issue
+2.5.2_70156_29,2.5.2,"January 12, 2026",Fixed an issue where Falling Star with the Freefall upgrade and Rally with the Words of Sacrifice upgrade didn't generate resolve when the Aspect of Valiance was equipped.,Bugfix,fixed_issue
+2.5.2_70156_30,2.5.2,"January 12, 2026",Fixed an issue where the Aspect of Valiance could not be imprinted on the expected equipment slots.,Bugfix,fixed_issue
+2.5.2_70156_31,2.5.2,"January 12, 2026",Fixed an issue where the Strength node next to the Ironclad Rare node in the Castle Paragon Board was magic instead of normal.,Bugfix,fixed_issue
+2.5.2_70156_32,2.5.2,"January 12, 2026",Fixed an issue where the Renewal passive was granting healing instead of Fortify.,Bugfix,fixed_issue
+2.5.2_70156_33,2.5.2,"January 12, 2026",Fixed an issue where the player could go out of bounds and get stuck when casting Falling Star towards a Fog Wall.,Bugfix,fixed_issue
+2.5.2_70156_34,2.5.2,"January 12, 2026",Fixed an issue where the Screen Reader did not read the Paladin Unique Icon on items.,Bugfix,fixed_issue
+2.5.2_70156_35,2.5.2,"January 12, 2026",Fixed an issue where Spiritborn players could not use the Armory until after unlocking Spirt Halls.,Bugfix,fixed_issue
+2.5.2_70156_45,2.5.2,"January 12, 2026",Fixed an issue where the Screen Reader did not properly read out buttons in the Season Rank menu.,Bugfix,fixed_issue
+2.5.2_70156_46,2.5.2,"January 12, 2026",Fixed an issue where the Hellfire Adherent boss in the Hellish Descent dungeon could leave the boss arena.,Bugfix,fixed_issue
+2.5.2_70156_47,2.5.2,"January 12, 2026",Fixed an issue where quickly leaving boss arenas after entering minor boss arenas in Capstone Dungeons could allow players to circumvent the encounters.,Bugfix,fixed_issue
+2.5.2_70156_48,2.5.2,"January 12, 2026",Fixed an issue where the Leave Dungeon ability could teleport the player back to the first floor of Vault of the Crucible instead of outside the Dungeon.,Bugfix,fixed_issue
+2.5.2_70156_49,2.5.2,"January 12, 2026",Fixed an issue where enemies could endlessly spawn in the second floor of the Enclave of Darkness.,Bugfix,fixed_issue
+2.5.2_70156_50,2.5.2,"January 12, 2026",Fixed an issue where teleporting via the world map to the Hellish Descent dungeon took the player to the wrong location.,Bugfix,fixed_issue
+2.5.2_70156_51,2.5.2,"January 12, 2026",Fixed an issue where the Guardian's Lair Portal in The Pit could spawn in an unreachable location.,Bugfix,fixed_issue
+2.5.2_70156_52,2.5.2,"January 12, 2026",Fixed an issue where Belial could be damaged before he fully spawned in The Pit.,Bugfix,fixed_issue
+2.5.2_70156_53,2.5.2,"January 12, 2026",Fixed an issue where Druid players could not use the Armory until they unlocked Spirt Boons.,Bugfix,fixed_issue
+2.5.2_70156_54,2.5.2,"January 12, 2026",Fixed an issue where previously earned renown rewards for extra potion charges still applied for some players.,Bugfix,fixed_issue
+2.5.2_70156_55,2.5.2,"January 12, 2026","Fixed an issue where Elite Monsters with the Soul Drinker Affix could scale indefinitely, becoming extremely large and eventually unkillable. Who knew drinking souls could be so good for bulking?",Bugfix,fixed_issue
+2.5.2_70156_56,2.5.2,"January 12, 2026",Fixed an issue where sometimes mounts would fail to break through barriers when using Spur.,Bugfix,fixed_issue
+2.5.2_70156_57,2.5.2,"January 12, 2026",Fixed an issue where Greater Affixes would lose their unique colored text after being upgraded through Masterworking.,Bugfix,fixed_issue
+2.5.2_70156_58,2.5.2,"January 12, 2026",Fixed an issue where the Boss Health Bar would be duplicated after it revived when fighting the Entwined Souls in Enclave of Darkness.,Bugfix,fixed_issue
+2.5.2_70156_59,2.5.2,"January 12, 2026",Fixed an issue where Toughness did not display properly when comparing items.,Bugfix,fixed_issue
+2.5.2_70156_60,2.5.2,"January 12, 2026",Fixed an issue where the visual effect for the Poison Enchanted affix could persist after the damaging effect was complete.,Bugfix,fixed_issue
+2.5.2_70156_61,2.5.2,"January 12, 2026",Fixed an issue where players on controller could accidentally re-summon Azmodan when trying to collect loot after defeating him.,Bugfix,fixed_issue
+2.5.1_69864_5,2.5.1,"December 18, 2025",Fixed an issue where Paladins could not get a Strength affix from Sanctification.,Bugfix,fixed_issue
+2.5.1_69864_6,2.5.1,"December 18, 2025",Fixed an issue where the Extra Damage for Justice Skills Tempering affix didn't apply properly.,Bugfix,fixed_issue
+2.5.1_69864_7,2.5.1,"December 18, 2025",Fixed an issue where the damage increase from Judgement Consumption granted by Virtuous Charge didn't properly apply.,Bugfix,fixed_issue
+2.5.1_69864_8,2.5.1,"December 18, 2025",Fixed an issue where Arbiter of Justice did not benefit from Reach of the Law when Judgement of Uriel was equipped.,Bugfix,fixed_issue
+2.5.1_69864_9,2.5.1,"December 18, 2025",Fixed an issue where the Seraph's Wings upgrade for Arbiter of Justice granted higher than intended movement speed.,Bugfix,fixed_issue
+2.5.1_69864_10,2.5.1,"December 18, 2025",Fixed an issue where the Resolve Stacks from the Aspects of Dominance and Valiance could fall off randomly.,Bugfix,fixed_issue
+2.5.1_69864_11,2.5.1,"December 18, 2025","Fixed an issue where the gauge meter for Arbiter of Justice could stop draining, even though the buff itself reduced properly.",Bugfix,fixed_issue
+2.5.1_69864_12,2.5.1,"December 18, 2025",Fixed an issue where Runes for the Paladin could not be randomly crafted at the Jeweler.,Bugfix,fixed_issue
+2.5.1_69864_13,2.5.1,"December 18, 2025",Fixed an issue where the initial questline to go through Kurast Undercity couldn't be completed for players in the eternal realm.,Bugfix,fixed_issue
+2.5.1_69864_14,2.5.1,"December 18, 2025","Fixed an issue where the Paladin quest, Call of the Paladin could have progression blocked if the associated monsters were slain by nearby NPCs.",Bugfix,fixed_issue
+2.5.1_69864_15,2.5.1,"December 18, 2025",Fixed an issue where the Herald of Hatred pet would often turn unstoppable and run away from the player.,Bugfix,fixed_issue
+2.5.1_69864_16,2.5.1,"December 18, 2025",Fixed an issue where the objective to Speak to Sihek during the Deeds of a Champion quest would shift the quest pin location incorrectly.,Bugfix,fixed_issue
+2.5.1_69864_18,2.5.1,"December 18, 2025",Fixed an issue where the Screen Reader did not read all information in the Ensembles Tab in the Wardrobe.,Bugfix,fixed_issue
+2.5.1_69864_19,2.5.1,"December 18, 2025",Fixed an issue where the boss in the Hellish Descent could fully reset if the player entered specific locations in the boss arena.,Bugfix,fixed_issue
+2.5.1_69864_20,2.5.1,"December 18, 2025",Fixed an issue where the player could get stuck between the wall and the barrier in Enclave of Darkness.,Bugfix,fixed_issue
+2.5.1_69864_21,2.5.1,"December 18, 2025",Fixed an issue where the player respawned at the previous floor when dying during the boss encounter in Enclave of Darkness.,Bugfix,fixed_issue
+2.5.1_69864_22,2.5.1,"December 18, 2025",Fixed an issue where Azmodan's demon gate attack could spawn outside the boss arena in Breach of Sin.,Bugfix,fixed_issue
+2.5.1_69864_23,2.5.1,"December 18, 2025",Fixed an issue where monsters could infinitely spawn in Breach of Sin.,Bugfix,fixed_issue
+2.5.1_69864_24,2.5.1,"December 18, 2025",Fixed an issue where monsters spawned by Animus Carriers also dropped Animus.,Bugfix,fixed_issue
+2.5.1_69864_25,2.5.1,"December 18, 2025",Fixed an issue where Tortured Gifts failed to respawn if Helltide re-appeared in the same region where it was previously.,Bugfix,fixed_issue
+2.5.1_69864_26,2.5.1,"December 18, 2025",Fixed an issue where access to Divine Gifts could be lost when playing in Local Co-Op.,Bugfix,fixed_issue
+2.5.1_69864_27,2.5.1,"December 18, 2025",Fixed an issue where Meteors spawned by the Essence of Hellfire could reflect Thorns damage back onto the player.,Bugfix,fixed_issue
+2.5.1_69864_28,2.5.1,"December 18, 2025",Fixed an issue where the Sanctification Affix for adding quality could malfunction.,Bugfix,fixed_issue
+2.5.1_69864_29,2.5.1,"December 18, 2025",Fixed an issue where Sorcerer's Flame Shield Enchantment would fail to activate if Flame Shield was equipped to the Skill Bar and Orsivane was equipped.,Bugfix,fixed_issue
+2.5.1_69864_30,2.5.1,"December 18, 2025",Fixed an issue where the visual and audio effects for the Essence of Squalor Divine Gift persisted in town.,Bugfix,fixed_issue
+2.5.1_69864_31,2.5.1,"December 18, 2025",Fixed an issue where the Spectral Shiver Cosmetic bundle would be missing even if it was properly owned.,Bugfix,fixed_issue
+2.5.1_69864_32,2.5.1,"December 18, 2025","Fixed an issue where the Leaderboard was viewable, despite having no entries there.",Bugfix,fixed_issue
+2.5.1_69864_33,2.5.1,"December 18, 2025",Fixed an issue where tempering Legendary Ancestral Armor required more material types than intended.,Bugfix,fixed_issue
+2.5.1_69864_34,2.5.1,"December 18, 2025",Fixed an issue where the Resolute Defender Challenge could be unlocked when not playing as a Paladin.,Bugfix,fixed_issue
+2.5.0_69713_152,2.5.0,"December 11, 2025",Fixed an issue where Duriel maggots spawned in Helltide spawned experience motes at inappropriate times.,Bugfix,fixed_issue
+2.5.0_69713_153,2.5.0,"December 11, 2025",Fixed an issue where the Luminary in Unseen Awakening didn't respawn after the player died.,Bugfix,fixed_issue
+2.5.0_69713_154,2.5.0,"December 11, 2025",Fixed an issue where Sweltering Heat in the Torrid Menagerie could cause the player to damage themself.,Bugfix,fixed_issue
+2.5.0_69713_155,2.5.0,"December 11, 2025",Fixed an issue where the Leave Dungeon action didn't take the player out of the Dungeon when in the Torrid Menagerie.,Bugfix,fixed_issue
+2.5.0_69713_156,2.5.0,"December 11, 2025",Fixed an issue where the Sins of the Many Capstone dungeon could not be exited without logging out.,Bugfix,fixed_issue
+2.5.0_69713_157,2.5.0,"December 11, 2025","Fixed an issue where if you defeated Belial when he appeared after defeating Varshan, he wouldn't drop items as expected.",Bugfix,fixed_issue
+2.5.0_69713_158,2.5.0,"December 11, 2025",Fixed an issue where the unavoidable blood orb explosions in the second phase of the Echo of Lilith fight dealt more damage than intended.,Bugfix,fixed_issue
+2.5.0_69713_159,2.5.0,"December 11, 2025",Fixed an issue where monsters could stop spawning unexpectedly in Kor Dragan Stronghold.,Bugfix,fixed_issue
+2.5.0_69713_160,2.5.0,"December 11, 2025",Fixed an issue where the last enemy could fail to spawn to complete the Enroaching Thickets objective in the Raethwind Wilds.,Bugfix,fixed_issue
+2.5.0_69713_161,2.5.0,"December 11, 2025",Fixed an issue where having the objective to defeat the Blood Maiden was impossible to complete due to Duriel replacing the Blood Maiden in Helltide.,Bugfix,fixed_issue
+2.5.0_69713_162,2.5.0,"December 11, 2025",Fixed an issue where some bosses could fail to spawn if the player was in stealth when the boss was supposed to spawn.,Bugfix,fixed_issue
+2.5.0_69713_163,2.5.0,"December 11, 2025",Fixed an issue where monsters with the Illusory affix could spawn monsters with the Life-Link affix that could then be killed instantly.,Bugfix,fixed_issue
+2.5.0_69713_164,2.5.0,"December 11, 2025",Fixed an issue in multiple dungeons where only one instance of animus needed to be collected before the dungeon could be progressed.,Bugfix,fixed_issue
+2.5.0_69713_165,2.5.0,"December 11, 2025",Fixed an issue where progression through Escalating Nightmare Dungeons could be blocked by teleport effects.,Bugfix,fixed_issue
+2.5.0_69713_166,2.5.0,"December 11, 2025",Fixed an issue where some monsters could deal more damage than expected.,Bugfix,fixed_issue
+2.5.0_69713_167,2.5.0,"December 11, 2025",Fixed an issue where some Nightmare Dungeon Affixes could remain active outside of the dungeon.,Bugfix,fixed_issue
+2.5.0_69713_168,2.5.0,"December 11, 2025",Fixed an issue where the cost for enchanting an item at the Occultist was not consistent for all two-handed weapons.,Bugfix,fixed_issue
+2.5.0_69713_169,2.5.0,"December 11, 2025",Fixed an issue where the material cost for Masterworking was displayed inaccurately.,Bugfix,fixed_issue
+2.5.0_69713_170,2.5.0,"December 11, 2025",Fixed an issue where the Damage Per Second value was inconsistently displayed between the Masterworking tab and the weapon itself.,Bugfix,fixed_issue
+2.5.0_69713_171,2.5.0,"December 11, 2025",Fixed an issue where Items salvaged for far more materials than intended.,Bugfix,fixed_issue
+2.5.0_69713_172,2.5.0,"December 11, 2025",Fixed an issue where Soulbrand Unique did not give the correct amount of Barrier.,Bugfix,fixed_issue
+2.5.0_69713_173,2.5.0,"December 11, 2025",Fixed an issue where the Feo rune would reset its cooldown when swapping weapons.,Bugfix,fixed_issue
+2.5.0_69713_174,2.5.0,"December 11, 2025",Fixed an issue where Attack Speed could appear as an affix on a Two-Handed weapon through enchantment.,Bugfix,fixed_issue
+2.5.0_69713_177,2.5.0,"December 11, 2025",Fixed an issue where Heavenly Sigils could fail to be consumed when Sanctifying an item.,Bugfix,fixed_issue
+2.5.0_69713_178,2.5.0,"December 11, 2025",Fixed an issue where Strategic Rallying Cry did not show the accurate amount of Life gained.,Bugfix,fixed_issue
+2.5.0_69713_179,2.5.0,"December 11, 2025",Fixed an issue where Ugly Bastard Helm did not have the appropriate amount of Fire Resistance.,Bugfix,fixed_issue
+2.5.0_69713_180,2.5.0,"December 11, 2025",Fixed an issue where the Brash Node no longer granted resistances as a bonus.,Bugfix,fixed_issue
+2.5.0_69713_181,2.5.0,"December 11, 2025",Fixed an issue where the Yul rune was not triggered by Ground Stomp if Chainscourged Mail was equipped.,Bugfix,fixed_issue
+2.5.0_69713_182,2.5.0,"December 11, 2025",Fixed an issue where Ramaladni's Magnum Opus was active even when the active skill wasn't using the weapon.,Bugfix,fixed_issue
+2.5.0_69713_184,2.5.0,"December 11, 2025",Fixed an issue where Preserving Earthen Bulwark was granting the incorrect amount of Fortify.,Bugfix,fixed_issue
+2.5.0_69713_185,2.5.0,"December 11, 2025",Fixed an issue where Ancestral Fortitude didn't increase non-physical resistance.,Bugfix,fixed_issue
+2.5.0_69713_186,2.5.0,"December 11, 2025",Fixed an issue where the Movement Speed buff from Khamsin Steppewalkers could be permanently granted when casting two defensive skills in a row.,Bugfix,fixed_issue
+2.5.0_69713_187,2.5.0,"December 11, 2025",Fixed an issue where the description for the buff from Khamsin Steppewalkers displayed the wrong values.,Bugfix,fixed_issue
+2.5.0_69713_188,2.5.0,"December 11, 2025",Fixed an issue where the description for Grizzly Rage didn't properly display the damage increase for adding additional skill points.,Bugfix,fixed_issue
+2.5.0_69713_189,2.5.0,"December 11, 2025",Fixed an issue where Golems were not properly smaller while in town while using Gravebloom.,Bugfix,fixed_issue
+2.5.0_69713_190,2.5.0,"December 11, 2025",Fixed an issue where Rapid Ossification passive was not granting cooldown reduction for more than 100 Essence at a time.,Bugfix,fixed_issue
+2.5.0_69713_191,2.5.0,"December 11, 2025",Fixed an issue where Sacrificing Defenders did not provide the bonus Elemental resistances as intended.,Bugfix,fixed_issue
+2.5.0_69713_192,2.5.0,"December 11, 2025",Fixed an issue where Paranormal Sever would occasionally fail to apply Vulnerable and Fear.,Bugfix,fixed_issue
+2.5.0_69713_193,2.5.0,"December 11, 2025",Fixed an issue where the tempering affix for Dance of Knives to deal Double damage could stack to deal incredibly high values.,Bugfix,fixed_issue
+2.5.0_69713_194,2.5.0,"December 11, 2025",Fixed an issue where the Teleport Enchantment tooltip was showing the wrong cooldown.,Bugfix,fixed_issue
+2.5.0_69713_195,2.5.0,"December 11, 2025",Fixed an issue where the Oculus could randomly teleport the player while they are healing.,Bugfix,fixed_issue
+2.5.0_69713_196,2.5.0,"December 11, 2025",Fixed an issue where the Antivenom Passive was not functioning.,Bugfix,fixed_issue
+2.5.0_69713_197,2.5.0,"December 11, 2025",Fixed an issue where the Jaguar Main Hall would not benefit from Aspect of Unyielding Hits.,Bugfix,fixed_issue
+2.5.0_69713_198,2.5.0,"December 11, 2025",Fixed an issue where Ravager would dash to targets uncontrollably when non-Casted core skills were invoked.,Bugfix,fixed_issue
+2.5.0_69713_199,2.5.0,"December 11, 2025","Fixed an issue where the Eagle Primary Spirit Hall's damage was being increased far more than intended by bonuses to Spirit Hall Potency, such as from Wushe Nak Pa.",Bugfix,fixed_issue
+2.5.0_69713_200,2.5.0,"December 11, 2025","Fixed an issue where Mystic Circle would be empowered by skills that were not cast, such as from Path of the Emissary.",Bugfix,fixed_issue
+2.5.0_69713_201,2.5.0,"December 11, 2025",Fixed an issue where The Protector did not smash immediately upon landing.,Bugfix,fixed_issue
+2.5.0_69713_202,2.5.0,"December 11, 2025",Fixed an issue where Tempering an item would prevent selecting other items that could also apply that affix from being slotted into the tempering window.,Bugfix,fixed_issue
+2.5.0_69713_203,2.5.0,"December 11, 2025",Fixed an issue where the World Map could not be viewed while inside a Capstone dungeon.,Bugfix,fixed_issue
+2.5.0_69713_204,2.5.0,"December 11, 2025",Fixed an issue where the visual indicatorfor Fortify could be higher than the actual Fortify amount.,Bugfix,fixed_issue
+2.5.0_69713_205,2.5.0,"December 11, 2025",Fixed an issue where the quest to Masterwork an item was not completed when Masterworking an item.,Bugfix,fixed_issue
+2.5.0_69713_206,2.5.0,"December 11, 2025","Fixed an issue where abilities could be used and combat was allowed in the Heavenly Forge. (Gentlemen, you can’t fight in here this is the War Room!)",Bugfix,fixed_issue
+2.5.0_69713_207,2.5.0,"December 11, 2025","Fixed an issue where Champions didn't behave like Elites in various contexts, such as not dropping the expected kind of loot.",Bugfix,fixed_issue
+2.5.0_69713_208,2.5.0,"December 11, 2025",Fixed an issue where Undercity tributes weren't dropping as expected.,Bugfix,fixed_issue
+2.5.0_69713_209,2.5.0,"December 11, 2025",Fixed an issue where sometimes the Undercity could not be accessed when it should be.,Bugfix,fixed_issue
+2.5.0_69713_210,2.5.0,"December 11, 2025",Fixed an issue where some bosses granted more experience than intended.,Bugfix,fixed_issue
+2.5.0_69713_211,2.5.0,"December 11, 2025",Fixed an issue where Torment could not be unlocked until reaching level 60.,Bugfix,fixed_issue
+2.5.0_69713_274,2.5.0,"December 11, 2025",Fixed an issue where the rank 5 Protector Thorns damage bonus was being applied less than intended.,Bugfix,fixed_issue
+2.5.0_69713_275,2.5.0,"December 11, 2025",Fixed an issue where Touch of Death didn't spawn a swarm if the target was killed by the initial strike damage.,Bugfix,fixed_issue
+2.5.0_69713_276,2.5.0,"December 11, 2025",Fixed an issue where Poised Touch of Death did not get applied when a Core Skill hit twice.,Bugfix,fixed_issue
+2.5.0_69713_277,2.5.0,"December 11, 2025",Fixed an issue where the Convergency Legendary Node didn't scale properly with the Canny Glyph's legendary bonus.,Bugfix,fixed_issue
+2.5.0_69713_278,2.5.0,"December 11, 2025",Fixed an issue where the Drive Paragon Node could scale damage higher than intended.,Bugfix,fixed_issue
+2.5.0_69713_279,2.5.0,"December 11, 2025",Fixed an issue where the Unyielding Hits Aspect didn't increase the damage of the Centipede Main Hall effect as expected.,Bugfix,fixed_issue
+2.5.0_69713_280,2.5.0,"December 11, 2025",Fixed an issue where Hesha E Kesungi would display as having one more Greater Affix than it had.,Bugfix,fixed_issue
+2.5.0_69713_281,2.5.0,"December 11, 2025",Fixed an issue where Aspect of Fleet Wings could occasionally not grant Unhindered.,Bugfix,fixed_issue
+2.5.0_69713_282,2.5.0,"December 11, 2025",Fixed an issue where Aspect of Fleet Wings could snapshot the damage buff from Unrestrained Power.,Bugfix,fixed_issue
+2.5.0_69713_283,2.5.0,"December 11, 2025",Fixed an issue where bonus Armor and Thorns gained from the Bruiser's Aspect did not display while in town.,Bugfix,fixed_issue
+2.5.0_69713_284,2.5.0,"December 11, 2025",Fixed an issue where Xal Rune would occasionally not properly maintain your current Life percentage when it triggered.,Bugfix,fixed_issue
+2.5.0_69713_285,2.5.0,"December 11, 2025",Fixed an issue where Moni Rune would reset its counter when Weapon Swapping.,Bugfix,fixed_issue
+2.5.0_69713_286,2.5.0,"December 11, 2025",Fixed an issue where Jah rune's Teleport would Teleport you in a random direction while using The Oculus.,Bugfix,fixed_issue
+2.5.0_69713_287,2.5.0,"December 11, 2025",Fixed an issue where Subo's Bargaining Chips passive did not properly increase Overpower damage.,Bugfix,fixed_issue
+2.5.0_69713_288,2.5.0,"December 11, 2025",Fixed an issue where Subo's Ambusher Passive did not properly grant bonus Lucky Hit Chance.,Bugfix,fixed_issue
+2.5.0_69713_289,2.5.0,"December 11, 2025",Fixed an issue where Subo's Loaded Munitions did not consistently apply Vulnerable.,Bugfix,fixed_issue
+2.5.0_69713_290,2.5.0,"December 11, 2025",Fixed an issue where instances of Raze the Effigies and Cull the Wicked events couldn’t be completed in some Nahantu areas.,Bugfix,fixed_issue
+2.5.0_69713_291,2.5.0,"December 11, 2025",Fixed an issue where Ehecatl would disappear upon casting a Lightning Totem during the Bonded Destiny Quest.,Bugfix,fixed_issue
+2.5.0_69713_292,2.5.0,"December 11, 2025",Fixed an issue where Undercity portals could fail to open when using certain Tribute and Bargain combinations.,Bugfix,fixed_issue
+2.5.0_69713_293,2.5.0,"December 11, 2025",Fixed an issue where Darm The Bloom Warden in Chakhir wouldn't engage in combat with the player.,Bugfix,fixed_issue
+2.5.0_69713_650,2.5.0,"December 11, 2025",Fixed an issue where the Screen Reader did not read the interact buttons during conversations with NPCs when playing on controller.,Bugfix,fixed_issue
+2.5.0_69713_651,2.5.0,"December 11, 2025",Fixed an issue where the Screen Reader did not read controller buttons for Upgrading and Reallocating Blessings.,Bugfix,fixed_issue
+2.5.0_69713_652,2.5.0,"December 11, 2025",Fixed an issue where Barbarian's Rumble Glyph did not accurately track the number of active Earthquakes.,Bugfix,fixed_issue
+2.5.0_69713_653,2.5.0,"December 11, 2025",Fixed an issue where there was no UI indicator for the buff duration for Wrath of the Berserker.,Bugfix,fixed_issue
+2.5.0_69713_654,2.5.0,"December 11, 2025",Fixed an issue where the third attack for Iron Maelstrom could occur twice.,Bugfix,fixed_issue
+2.5.0_69713_655,2.5.0,"December 11, 2025",Fixed an issue where Ring of Red Furor would occasionally track resources spent inconsistently.,Bugfix,fixed_issue
+2.5.0_69713_656,2.5.0,"December 11, 2025",Fixed an issue where the Damage Bonus from Supernatural Blood Surge applied twice to the explosion from Blood-Bathed Aspect.,Bugfix,fixed_issue
+2.5.0_69713_657,2.5.0,"December 11, 2025",Fixed an issue where Essence Per Enemy Drained by Blood Surge affix was not properly granting Essence.,Bugfix,fixed_issue
+2.5.0_69713_658,2.5.0,"December 11, 2025",Fixed an issue where Rogue's Cunning Stratagem Paragon Node would not increase the damage of non-Core Skills that used Combo Points.,Bugfix,fixed_issue
+2.5.0_69713_659,2.5.0,"December 11, 2025",Fixed an issue where Aspect of Quickening Fog did not properly grant both bonuses from Aspect of Synergy.,Bugfix,fixed_issue
+2.5.0_69713_660,2.5.0,"December 11, 2025",Fixed an issue with Infiltrator's Aspect where Poison Traps placed before entering Stealth would not properly detonate when exiting Stealth.,Bugfix,fixed_issue
+2.5.0_69713_661,2.5.0,"December 11, 2025",Fixed an issue where Ambush did not increase damage when Stun Grenades deal damage with Explosive Verve Aspect equipped.,Bugfix,fixed_issue
+2.5.0_69713_662,2.5.0,"December 11, 2025",Fixed an issue where Shadow Clone was not properly benefiting from the increased Penetrating Shot damage from Eaglehorn.,Bugfix,fixed_issue
+2.5.0_69713_663,2.5.0,"December 11, 2025",Fixed an issue where Lightning Familiar would not properly trigger the Charged effect from Vyr's Mastery.,Bugfix,fixed_issue
+2.5.0_69713_664,2.5.0,"December 11, 2025",Fixed an issue where Barbarian Earthquakes could spawn Chaos Portals in Infernal Hordes.,Bugfix,fixed_issue
+2.5.0_69713_665,2.5.0,"December 11, 2025",Fixed an issue where Belial's transition between phases could be delayed if recovering from Stagger during transition.,Bugfix,fixed_issue
+2.5.0_69713_666,2.5.0,"December 11, 2025",Fixed an issue where Skeletal Mages could fail to upgrade to Arch-Mages when using the Hand of Naz.,Bugfix,fixed_issue
+2.5.0_69713_667,2.5.0,"December 11, 2025",Fixed an issue where hostages during a Hostage event started at half health.,Bugfix,fixed_issue
+2.5.0_69713_668,2.5.0,"December 11, 2025",Fixed an issue where activating a Nightmare Dungeon sigil with the Horadric Strongroom affix would also apply that affix to other dungeons.,Bugfix,fixed_issue
+2.5.0_69713_669,2.5.0,"December 11, 2025",Fixed an issue where killing the Cannibal Champion too quickly in the Temple of Rot could block Stronghold progression.,Bugfix,fixed_issue
+2.5.0_69713_670,2.5.0,"December 11, 2025",Fixed an issue where the fire in the Chapel in Nostrava could cause the player to deal on-hit damage to themselves.,Bugfix,fixed_issue
+2.5.0_69713_671,2.5.0,"December 11, 2025",Fixed an issue where some Execute effects could occasionally affect Immune enemies.,Bugfix,fixed_issue
+2.5.0_69713_672,2.5.0,"December 11, 2025",Fixed an issue where Ravenous Soulspires and Hellspires could sometimes last indefinitely.,Bugfix,fixed_issue
+2.5.0_69713_673,2.5.0,"December 11, 2025",Fixed an issue where Barrier granted by Temerity could be drained by health regeneration from a life per second affix.,Bugfix,fixed_issue
+2.5.0_69713_674,2.5.0,"December 11, 2025",Fixed an issue where quest progression could be blocked for Inside the Black Tomb if the player's character was killed by Locran's Fire.,Bugfix,fixed_issue
+2.5.0_69713_675,2.5.0,"December 11, 2025","Fixed an issue where the associated item for the Raising Spears quest didn't spawn, which would block quest progression.",Bugfix,fixed_issue
+2.5.0_69713_676,2.5.0,"December 11, 2025",Fixed an issue where the Portal when using Leave Dungeon sometimes didn't properly appear.,Bugfix,fixed_issue
+2.5.0_69713_677,2.5.0,"December 11, 2025",Fixed an issue where the Stockades Dungeon's gate was inoperable in the Eternal Realm.,Bugfix,fixed_issue
+2.5.0_69713_678,2.5.0,"December 11, 2025",Fixed an issue where newly dropped items could despawn when there was a lot of loot on the ground.,Bugfix,fixed_issue
+2.5.0_69713_679,2.5.0,"December 11, 2025",Fixed an issue where players on PlayStation™ could not use Trade Chat.,Bugfix,fixed_issue
+2.5.0_69713_680,2.5.0,"December 11, 2025",Fixed an issue where some console and Steam achievements for Vessel of Hatred wouldn't unlock properly if the requirements were met before buying the Expansion on console.,Bugfix,fixed_issue
+2.5.0_69713_681,2.5.0,"December 11, 2025",Fixed an issue where the Devoted Protector Steam Achievement wouldn't be unlocked when reaching Paragon 300.,Bugfix,fixed_issue
+2.5.0_69713_682,2.5.0,"December 11, 2025",Fixed an issue where some previously unlocked titles became unavailable.,Bugfix,fixed_issue

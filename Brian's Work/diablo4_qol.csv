@@ -1,0 +1,46 @@
+bullet_id,version,date,bullet_text,auto_label,label_reason
+2.5.2_70156_0,2.5.2,"January 12, 2026",Tower now unlocks Tiers the same way the Pit does.,QoL,qol_keyword
+2.5.2_70156_1,2.5.2,"January 12, 2026",Monster populations have been tuned to be fair to both ranged and melee builds.,QoL,qol_keyword
+2.5.2_70156_10,2.5.2,"January 12, 2026",Resource gain per second to support builds that drain resource which don't benefit from Cost Reduction.,QoL,qol_keyword
+2.5.2_70156_11,2.5.2,"January 12, 2026","Orbs drop immediately when the monster dies, and no longer wait for post-Death effects (Elite affixes like Fire enchanted, certain spiders, etc.)",QoL,qol_keyword
+2.5.2_70156_14,2.5.2,"January 12, 2026",Exit portals now spawn closer to the player at the end of a run.,QoL,qol_keyword
+2.5.2_70156_16,2.5.2,"January 12, 2026",Locked Capstone Dungeons will now show on the map and display a tooltip which describes requirements to unlock.,QoL,qol_keyword
+2.5.2_70156_19,2.5.2,"January 12, 2026","When attempting to sanctify items that cannot be sanctified, you’ll now be better informed why it can’t be sanctified.",QoL,qol_keyword
+2.5.2_70156_62,2.5.2,"January 12, 2026","Various stability, performance, UI, and visual improvements.",QoL,qol_keyword
+2.5.1_69864_0,2.5.1,"December 18, 2025",Updated descriptions and tooltips for Heavenly Sigils so the requirements for sanctifying an item are clearer.,QoL,qol_keyword
+2.5.1_69864_1,2.5.1,"December 18, 2025",The Season Rank objective for clearing Pit Tier 40 has been changed to now require a Pit Tier 35 clear instead.,QoL,qol_keyword
+2.5.1_69864_2,2.5.1,"December 18, 2025",Various UI consistency and clarity improvements for Sanctification and Season Rank.,QoL,qol_keyword
+2.5.1_69864_3,2.5.1,"December 18, 2025",An audio cue has been added to further bring attention to the safe zones in the Vault of the Crucible Capstone Dungeon.,QoL,qol_keyword
+2.5.1_69864_4,2.5.1,"December 18, 2025",The altar to summon Azmodan has additional info added to the tooltip to better explain the requirements for summoning Azmodan.,QoL,qol_keyword
+2.5.1_69864_17,2.5.1,"December 18, 2025","Various fixes and improvements to consistency, accuracy, and clarity for tooltips, descriptions, and icons for the Paladin.",QoL,qol_keyword
+2.5.1_69864_35,2.5.1,"December 18, 2025","Various stability, UI, visual, performance, and audio improvements.",QoL,qol_keyword
+2.5.0_69713_0,2.5.0,"December 11, 2025",Upgrading an affix to a Greater Affix can now also occur on non-ancestral items.,QoL,qol_keyword
+2.5.0_69713_7,2.5.0,"December 11, 2025",Bonus experience from the maggots in Helltide has been adjusted.,QoL,qol_keyword
+2.5.0_69713_8,2.5.0,"December 11, 2025","Glyph Upgrades now get a scaling chance to grant an extra upgrade attempt based on Divine Gift rank. Rank 1 grants a 25% chance, up to a 100% upgrade chance at Rank 5.",QoL,qol_keyword
+2.5.0_69713_11,2.5.0,"December 11, 2025",Andariel's phase transition is now much quicker.,QoL,qol_keyword
+2.5.0_69713_12,2.5.0,"December 11, 2025",The size of Belial's eyeballs has been increased to make them easier to target.,QoL,qol_keyword
+2.5.0_69713_13,2.5.0,"December 11, 2025",Belial's death now takes less time to finish.,QoL,qol_keyword
+2.5.0_69713_66,2.5.0,"December 11, 2025",Removed the requirement for controlling 7 or more Minions.,QoL,qol_keyword
+2.5.0_69713_121,2.5.0,"December 11, 2025",Quality upgrades now increase all affix values by 1% per quality value.,QoL,qol_keyword
+2.5.0_69713_138,2.5.0,"December 11, 2025",The Toughness tooltip now breaks down Damage Resistance per damage type.,QoL,qol_keyword
+2.5.0_69713_213,2.5.0,"December 11, 2025","Various stability, UI, and visual improvements.",QoL,qol_keyword
+2.5.0_69713_230,2.5.0,"December 11, 2025","Now: A Pestilent Swarm spawns from you every 4 seconds, dealing x Poison damage per hit. Your Pestilent Swarms now orbit around you and reduce an equipped Eagle Skill's cooldown by 0.25 seconds per hit.",QoL,qol_keyword
+2.5.0_69713_243,2.5.0,"December 11, 2025",Updated the tooltips to display the damage that scales with the above affix in blue.,QoL,qol_keyword
+2.5.0_69713_250,2.5.0,"December 11, 2025",Updated the tooltip to clarify that Gorilla skills do not need to be Cast to gain the effect.,QoL,qol_keyword
+2.5.0_69713_255,2.5.0,"December 11, 2025",Fixed the tooltip to clarify it invokes a free Concussive stomp rather than Casting.,QoL,qol_keyword
+2.5.0_69713_259,2.5.0,"December 11, 2025",Required attacks increased from 3 to 20.,QoL,qol_keyword
+2.5.0_69713_268,2.5.0,"December 11, 2025",Significantly increased the potency of Tribute of Growth's experience rewards before Level 60.,QoL,qol_keyword
+2.5.0_69713_272,2.5.0,"December 11, 2025",Increased the potency of experience orbs that spawn from any Undercity run before level 60.,QoL,qol_keyword
+2.5.0_69713_355,2.5.0,"December 11, 2025",Chance for Thorns to activate explosions increased from 25-45% to 40-60%.,QoL,qol_keyword
+2.5.0_69713_364,2.5.0,"December 11, 2025",The rank 10 Weapon Expertise bonus now also applies when equipped to the Weapon Technique Slot.,QoL,qol_keyword
+2.5.0_69713_483,2.5.0,"December 11, 2025",Shadow Clone's copied skills will now more consistently target the initial target of the skill.,QoL,qol_keyword
+2.5.0_69713_498,2.5.0,"December 11, 2025","Previous: While Healthy, the explosion of Frozen Orb deals 45% increased damage.",QoL,qol_keyword
+2.5.0_69713_499,2.5.0,"December 11, 2025",Now: Frozen Orb's explosion deals 50% more damage.,QoL,qol_keyword
+2.5.0_69713_521,2.5.0,"December 11, 2025",Previous: Casting Frozen Orb has a 35-65% chance to spawn a random Conjuration on your Action Bar when it explodes. Lucky Hit: Your Conjurations have up to a 50-90% chance to launch a Frozen Orb at Nearby enemies.,QoL,qol_keyword
+2.5.0_69713_544,2.5.0,"December 11, 2025",The legendary rate for a Level 40 character in season 11 will be equivalent to the legendary rate for a level 25 character in season 10.,QoL,qol_keyword
+2.5.0_69713_547,2.5.0,"December 11, 2025","Killing the last Champion in a pack, or any Elite, will always drop equipment and gold, in addition to their standard reward chances.",QoL,qol_keyword
+2.5.0_69713_586,2.5.0,"December 11, 2025","Masterworking has been redesigned. Items have a new stat, Refinement, which is displayed on the item tooltip.",QoL,qol_keyword
+2.5.0_69713_594,2.5.0,"December 11, 2025",A Masterworked item can be refined one more time to upgrade an affix to a Greater Affix.,QoL,qol_keyword
+2.5.0_69713_596,2.5.0,"December 11, 2025","The quantity of Obducite you earn has been adjusted. Players will earn 85% less Obducite, and recipes requiring Obducite have been similarly reduced.",QoL,qol_keyword
+2.5.0_69713_601,2.5.0,"December 11, 2025",Potions no longer need to be upgraded.,QoL,qol_keyword
+2.5.0_69713_683,2.5.0,"December 11, 2025","Various performance, stability, UI, visual, and audio improvements.",QoL,qol_keyword
