@@ -205,3 +205,33 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ----------------------------
+# Project-specific ignores
+# ----------------------------
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Generated training artifacts
+# Keep all model binaries out of git.
+artifacts/
+models/
+final_model/
+**/bert_diablo_multilabel_checkpoints/
+**/*.safetensors
+**/*.pt
+**/*.pth
+**/optimizer.pt
+**/scheduler.pt
+**/rng_state.pth
+**/trainer_state.json
+**/training_args.bin
+
+# Large/intermediate data dumps
+data/raw/
+data/interim/
+
+# Local legacy snapshots
+archive/

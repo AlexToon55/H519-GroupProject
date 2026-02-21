@@ -1,0 +1,795 @@
+bullet_id,version,date,bullet_text,auto_label,label_reason
+2.5.3_70356_0,2.5.3,"January 28, 2026",Fixed an issue where the Executioner Monster Affix sound effect played continuously.,Bugfix,rule_bugfix
+2.5.3_70356_1,2.5.3,"January 28, 2026",Fixed an issue where certain Silent Chests in Nahantu did not count towards the Season Rank objective Test of Luck.,Bugfix,rule_bugfix
+2.5.3_70356_2,2.5.3,"January 28, 2026",Fixed an issue where Zagraal in the Dark Citadel didn't drop loot.,Bugfix,rule_bugfix
+2.5.3_70356_3,2.5.3,"January 28, 2026",Fixed an issue where some Tower bosses had significantly more health than others.,Bugfix,rule_bugfix
+2.5.3_70356_4,2.5.3,"January 28, 2026",Fixed an issue where an error would occur when trying to view the profile of a leaderboard entry and the player had a private profile.,Bugfix,rule_bugfix
+2.5.3_70356_5,2.5.3,"January 28, 2026",Fixed an issue where resetting a piece of masterworked gear did not unlock the Recycled Works challenge.,Bugfix,rule_bugfix
+2.5.3_70356_6,2.5.3,"January 28, 2026",Fixed an issue where the reward for defeating all the Lesser Evils at once was only given to the player who opened the chest in Local Co-op play.,Bugfix,rule_bugfix
+2.5.3_70356_7,2.5.3,"January 28, 2026",Fixed an issue where other Divine Gifts could stop gaining experience if another Divine Gift was at Rank 5.,Bugfix,rule_bugfix
+2.5.3_70356_8,2.5.3,"January 28, 2026",Fixed an issue where some cosmetic items would show as locked even though they were unlocked and usable.,Bugfix,rule_bugfix
+2.5.3_70356_9,2.5.3,"January 28, 2026",Fixed various instances of Placeholder assets in the Wardrobe.,Other,fallback
+2.5.3_70356_10,2.5.3,"January 28, 2026","Various performance, stability, and audio improvements.",Other,fallback
+2.5.2_70156_0,2.5.2,"January 12, 2026",Tower now unlocks Tiers the same way the Pit does.,QoL,rule_qol
+2.5.2_70156_1,2.5.2,"January 12, 2026",Monster populations have been tuned to be fair to both ranged and melee builds.,QoL,qol_keyword
+2.5.2_70156_2,2.5.2,"January 12, 2026",Bosses have been adjusted to remove unwanted behavior such as self healing and invisibility.,Other,fallback
+2.5.2_70156_3,2.5.2,"January 12, 2026",Boss health has been lowered to have parity with Pit Bosses.,QoL,rule_qol
+2.5.2_70156_4,2.5.2,"January 12, 2026",Removed the delay between when a Pylon Cage is destroyed and when a Pylon can be used.,Other,fallback
+2.5.2_70156_5,2.5.2,"January 12, 2026",Pylon health has been reduced in an effort to make them less tanky.,QoL,rule_qol
+2.5.2_70156_6,2.5.2,"January 12, 2026",Tuned the pylons to be more balanced to avoid unfair rolls of pylon spawn order.,Other,fallback
+2.5.2_70156_7,2.5.2,"January 12, 2026",Damage from 4[x] to 3[x].,Other,fallback
+2.5.2_70156_8,2.5.2,"January 12, 2026",Player gains a chunk of Temporary Attack Speed (+50% Attack Speed).,Buff,player_increase
+2.5.2_70156_9,2.5.2,"January 12, 2026",Player can Knockdown enemies they pass through.,Other,fallback
+2.5.2_70156_10,2.5.2,"January 12, 2026",Resource gain per second to support builds that drain resource which don't benefit from Cost Reduction.,QoL,qol_keyword
+2.5.2_70156_11,2.5.2,"January 12, 2026","Orbs drop immediately when the monster dies, and no longer wait for post-Death effects (Elite affixes like Fire enchanted, certain spiders, etc.)",QoL,rule_qol
+2.5.2_70156_12,2.5.2,"January 12, 2026","If the orb drops close enough to the player, orbs will appear closer to you to avoid backtracking. If you are too far, orbs will drop at the corpse of the enemy that dropped it.",Other,fallback
+2.5.2_70156_13,2.5.2,"January 12, 2026",Dying will never respawn players on the previous floor.,Other,fallback
+2.5.2_70156_14,2.5.2,"January 12, 2026",Exit portals now spawn closer to the player at the end of a run.,QoL,rule_qol
+2.5.2_70156_15,2.5.2,"January 12, 2026",Spinning hazards in certain areas in the Vault of the Crucible dungeon have been removed.,Other,fallback
+2.5.2_70156_16,2.5.2,"January 12, 2026",Locked Capstone Dungeons will now show on the map and display a tooltip which describes requirements to unlock.,QoL,rule_qol
+2.5.2_70156_17,2.5.2,"January 12, 2026",Various updates to The Tower.,Other,fallback
+2.5.2_70156_18,2.5.2,"January 12, 2026","Meteors spawned by the Essence of Hellfire now only deal damage over time, and no longer deal immediate damage or Stun players hit.",Buff,player_increase
+2.5.2_70156_19,2.5.2,"January 12, 2026","When attempting to sanctify items that cannot be sanctified, you’ll now be better informed why it can’t be sanctified.",QoL,rule_qol
+2.5.2_70156_20,2.5.2,"January 12, 2026",Critical Strike Damage,Other,fallback
+2.5.2_70156_21,2.5.2,"January 12, 2026",Bonus Damage over Time,Buff,player_increase
+2.5.2_70156_22,2.5.2,"January 12, 2026",Damage to Vulnerable enemies,Buff,rule_explicit_buff
+2.5.2_70156_23,2.5.2,"January 12, 2026",Overpower Damage,Other,fallback
+2.5.2_70156_24,2.5.2,"January 12, 2026",Lucky Hit to Gain Resource,Buff,player_increase
+2.5.2_70156_25,2.5.2,"January 12, 2026",Fixed an issue where Paladins could become stuck while climbing.,Bugfix,rule_bugfix
+2.5.2_70156_26,2.5.2,"January 12, 2026",Fixed an issue where Shield Charge could fail to hit enemies who were close to the player.,Bugfix,rule_bugfix
+2.5.2_70156_27,2.5.2,"January 12, 2026",Fixed an issue where the player would get stuck in place if using Advance assigned to the right mouse button while March of the Stalwart was equipped.,Bugfix,rule_bugfix
+2.5.2_70156_28,2.5.2,"January 12, 2026",Fixed an issue where the Rite of Mercy upgrade for Holy Light made Paladins untargetable by Spiritborn's Toxic Skin Passive when playing in PvP.,Bugfix,rule_bugfix
+2.5.2_70156_29,2.5.2,"January 12, 2026",Fixed an issue where Falling Star with the Freefall upgrade and Rally with the Words of Sacrifice upgrade didn't generate resolve when the Aspect of Valiance was equipped.,Bugfix,rule_bugfix
+2.5.2_70156_30,2.5.2,"January 12, 2026",Fixed an issue where the Aspect of Valiance could not be imprinted on the expected equipment slots.,Bugfix,rule_bugfix
+2.5.2_70156_31,2.5.2,"January 12, 2026",Fixed an issue where the Strength node next to the Ironclad Rare node in the Castle Paragon Board was magic instead of normal.,Bugfix,rule_bugfix
+2.5.2_70156_32,2.5.2,"January 12, 2026",Fixed an issue where the Renewal passive was granting healing instead of Fortify.,Bugfix,rule_bugfix
+2.5.2_70156_33,2.5.2,"January 12, 2026",Fixed an issue where the player could go out of bounds and get stuck when casting Falling Star towards a Fog Wall.,Bugfix,rule_bugfix
+2.5.2_70156_34,2.5.2,"January 12, 2026",Fixed an issue where the Screen Reader did not read the Paladin Unique Icon on items.,Bugfix,rule_bugfix
+2.5.2_70156_35,2.5.2,"January 12, 2026",Fixed an issue where Spiritborn players could not use the Armory until after unlocking Spirt Halls.,Bugfix,rule_bugfix
+2.5.2_70156_36,2.5.2,"January 12, 2026","Damage bonus increased from 3% to 5%, up to 40% from 24%.",Buff,player_increase
+2.5.2_70156_37,2.5.2,"January 12, 2026",Line damage increased from 140% to 200%.,Buff,player_increase
+2.5.2_70156_38,2.5.2,"January 12, 2026",Spit damage increased from 40% to 95%.,Buff,player_increase
+2.5.2_70156_39,2.5.2,"January 12, 2026",Poison damage bonus increased from 50% to 100%.,Buff,player_increase
+2.5.2_70156_40,2.5.2,"January 12, 2026",Vulnerable damage bonus increased from 80% to 100%.,Buff,player_increase
+2.5.2_70156_41,2.5.2,"January 12, 2026",Damage bonus increased from 15% to 30%.,Buff,player_increase
+2.5.2_70156_42,2.5.2,"January 12, 2026",Stacking damage bonus increased from 1% to 2%.,Buff,player_increase
+2.5.2_70156_43,2.5.2,"January 12, 2026",Poison damage bonus increased from 40% to 60%.,Buff,player_increase
+2.5.2_70156_44,2.5.2,"January 12, 2026","Damage bonus increased from 15% to 30%, up to 60% from 30%.",Buff,player_increase
+2.5.2_70156_45,2.5.2,"January 12, 2026",Fixed an issue where the Screen Reader did not properly read out buttons in the Season Rank menu.,Bugfix,rule_bugfix
+2.5.2_70156_46,2.5.2,"January 12, 2026",Fixed an issue where the Hellfire Adherent boss in the Hellish Descent dungeon could leave the boss arena.,Bugfix,rule_bugfix
+2.5.2_70156_47,2.5.2,"January 12, 2026",Fixed an issue where quickly leaving boss arenas after entering minor boss arenas in Capstone Dungeons could allow players to circumvent the encounters.,Bugfix,rule_bugfix
+2.5.2_70156_48,2.5.2,"January 12, 2026",Fixed an issue where the Leave Dungeon ability could teleport the player back to the first floor of Vault of the Crucible instead of outside the Dungeon.,Bugfix,rule_bugfix
+2.5.2_70156_49,2.5.2,"January 12, 2026",Fixed an issue where enemies could endlessly spawn in the second floor of the Enclave of Darkness.,Bugfix,rule_bugfix
+2.5.2_70156_50,2.5.2,"January 12, 2026",Fixed an issue where teleporting via the world map to the Hellish Descent dungeon took the player to the wrong location.,Bugfix,rule_bugfix
+2.5.2_70156_51,2.5.2,"January 12, 2026",Fixed an issue where the Guardian's Lair Portal in The Pit could spawn in an unreachable location.,Bugfix,rule_bugfix
+2.5.2_70156_52,2.5.2,"January 12, 2026",Fixed an issue where Belial could be damaged before he fully spawned in The Pit.,Bugfix,rule_bugfix
+2.5.2_70156_53,2.5.2,"January 12, 2026",Fixed an issue where Druid players could not use the Armory until they unlocked Spirt Boons.,Bugfix,rule_bugfix
+2.5.2_70156_54,2.5.2,"January 12, 2026",Fixed an issue where previously earned renown rewards for extra potion charges still applied for some players.,Bugfix,rule_bugfix
+2.5.2_70156_55,2.5.2,"January 12, 2026","Fixed an issue where Elite Monsters with the Soul Drinker Affix could scale indefinitely, becoming extremely large and eventually unkillable. Who knew drinking souls could be so good for bulking?",Bugfix,rule_bugfix
+2.5.2_70156_56,2.5.2,"January 12, 2026",Fixed an issue where sometimes mounts would fail to break through barriers when using Spur.,Bugfix,rule_bugfix
+2.5.2_70156_57,2.5.2,"January 12, 2026",Fixed an issue where Greater Affixes would lose their unique colored text after being upgraded through Masterworking.,Bugfix,rule_bugfix
+2.5.2_70156_58,2.5.2,"January 12, 2026",Fixed an issue where the Boss Health Bar would be duplicated after it revived when fighting the Entwined Souls in Enclave of Darkness.,Bugfix,rule_bugfix
+2.5.2_70156_59,2.5.2,"January 12, 2026",Fixed an issue where Toughness did not display properly when comparing items.,Bugfix,rule_bugfix
+2.5.2_70156_60,2.5.2,"January 12, 2026",Fixed an issue where the visual effect for the Poison Enchanted affix could persist after the damaging effect was complete.,Bugfix,rule_bugfix
+2.5.2_70156_61,2.5.2,"January 12, 2026",Fixed an issue where players on controller could accidentally re-summon Azmodan when trying to collect loot after defeating him.,Bugfix,rule_bugfix
+2.5.2_70156_62,2.5.2,"January 12, 2026","Various stability, performance, UI, and visual improvements.",QoL,rule_qol
+2.5.1_69864_0,2.5.1,"December 18, 2025",Updated descriptions and tooltips for Heavenly Sigils so the requirements for sanctifying an item are clearer.,QoL,rule_qol
+2.5.1_69864_1,2.5.1,"December 18, 2025",The Season Rank objective for clearing Pit Tier 40 has been changed to now require a Pit Tier 35 clear instead.,QoL,rule_qol
+2.5.1_69864_2,2.5.1,"December 18, 2025",Various UI consistency and clarity improvements for Sanctification and Season Rank.,QoL,rule_qol
+2.5.1_69864_3,2.5.1,"December 18, 2025",An audio cue has been added to further bring attention to the safe zones in the Vault of the Crucible Capstone Dungeon.,QoL,qol_keyword
+2.5.1_69864_4,2.5.1,"December 18, 2025",The altar to summon Azmodan has additional info added to the tooltip to better explain the requirements for summoning Azmodan.,QoL,rule_qol
+2.5.1_69864_5,2.5.1,"December 18, 2025",Fixed an issue where Paladins could not get a Strength affix from Sanctification.,Bugfix,rule_bugfix
+2.5.1_69864_6,2.5.1,"December 18, 2025",Fixed an issue where the Extra Damage for Justice Skills Tempering affix didn't apply properly.,Bugfix,rule_bugfix
+2.5.1_69864_7,2.5.1,"December 18, 2025",Fixed an issue where the damage increase from Judgement Consumption granted by Virtuous Charge didn't properly apply.,Bugfix,rule_bugfix
+2.5.1_69864_8,2.5.1,"December 18, 2025",Fixed an issue where Arbiter of Justice did not benefit from Reach of the Law when Judgement of Uriel was equipped.,Bugfix,rule_bugfix
+2.5.1_69864_9,2.5.1,"December 18, 2025",Fixed an issue where the Seraph's Wings upgrade for Arbiter of Justice granted higher than intended movement speed.,Bugfix,rule_bugfix
+2.5.1_69864_10,2.5.1,"December 18, 2025",Fixed an issue where the Resolve Stacks from the Aspects of Dominance and Valiance could fall off randomly.,Bugfix,rule_bugfix
+2.5.1_69864_11,2.5.1,"December 18, 2025","Fixed an issue where the gauge meter for Arbiter of Justice could stop draining, even though the buff itself reduced properly.",Bugfix,rule_bugfix
+2.5.1_69864_12,2.5.1,"December 18, 2025",Fixed an issue where Runes for the Paladin could not be randomly crafted at the Jeweler.,Bugfix,rule_bugfix
+2.5.1_69864_13,2.5.1,"December 18, 2025",Fixed an issue where the initial questline to go through Kurast Undercity couldn't be completed for players in the eternal realm.,Bugfix,rule_bugfix
+2.5.1_69864_14,2.5.1,"December 18, 2025","Fixed an issue where the Paladin quest, Call of the Paladin could have progression blocked if the associated monsters were slain by nearby NPCs.",Bugfix,rule_bugfix
+2.5.1_69864_15,2.5.1,"December 18, 2025",Fixed an issue where the Herald of Hatred pet would often turn unstoppable and run away from the player.,Bugfix,rule_bugfix
+2.5.1_69864_16,2.5.1,"December 18, 2025",Fixed an issue where the objective to Speak to Sihek during the Deeds of a Champion quest would shift the quest pin location incorrectly.,Bugfix,rule_bugfix
+2.5.1_69864_17,2.5.1,"December 18, 2025","Various fixes and improvements to consistency, accuracy, and clarity for tooltips, descriptions, and icons for the Paladin.",QoL,rule_qol
+2.5.1_69864_18,2.5.1,"December 18, 2025",Fixed an issue where the Screen Reader did not read all information in the Ensembles Tab in the Wardrobe.,Bugfix,rule_bugfix
+2.5.1_69864_19,2.5.1,"December 18, 2025",Fixed an issue where the boss in the Hellish Descent could fully reset if the player entered specific locations in the boss arena.,Bugfix,rule_bugfix
+2.5.1_69864_20,2.5.1,"December 18, 2025",Fixed an issue where the player could get stuck between the wall and the barrier in Enclave of Darkness.,Bugfix,rule_bugfix
+2.5.1_69864_21,2.5.1,"December 18, 2025",Fixed an issue where the player respawned at the previous floor when dying during the boss encounter in Enclave of Darkness.,Bugfix,rule_bugfix
+2.5.1_69864_22,2.5.1,"December 18, 2025",Fixed an issue where Azmodan's demon gate attack could spawn outside the boss arena in Breach of Sin.,Bugfix,rule_bugfix
+2.5.1_69864_23,2.5.1,"December 18, 2025",Fixed an issue where monsters could infinitely spawn in Breach of Sin.,Bugfix,rule_bugfix
+2.5.1_69864_24,2.5.1,"December 18, 2025",Fixed an issue where monsters spawned by Animus Carriers also dropped Animus.,Bugfix,rule_bugfix
+2.5.1_69864_25,2.5.1,"December 18, 2025",Fixed an issue where Tortured Gifts failed to respawn if Helltide re-appeared in the same region where it was previously.,Bugfix,rule_bugfix
+2.5.1_69864_26,2.5.1,"December 18, 2025",Fixed an issue where access to Divine Gifts could be lost when playing in Local Co-Op.,Bugfix,rule_bugfix
+2.5.1_69864_27,2.5.1,"December 18, 2025",Fixed an issue where Meteors spawned by the Essence of Hellfire could reflect Thorns damage back onto the player.,Bugfix,rule_bugfix
+2.5.1_69864_28,2.5.1,"December 18, 2025",Fixed an issue where the Sanctification Affix for adding quality could malfunction.,Bugfix,rule_bugfix
+2.5.1_69864_29,2.5.1,"December 18, 2025",Fixed an issue where Sorcerer's Flame Shield Enchantment would fail to activate if Flame Shield was equipped to the Skill Bar and Orsivane was equipped.,Bugfix,rule_bugfix
+2.5.1_69864_30,2.5.1,"December 18, 2025",Fixed an issue where the visual and audio effects for the Essence of Squalor Divine Gift persisted in town.,Bugfix,rule_bugfix
+2.5.1_69864_31,2.5.1,"December 18, 2025",Fixed an issue where the Spectral Shiver Cosmetic bundle would be missing even if it was properly owned.,Bugfix,rule_bugfix
+2.5.1_69864_32,2.5.1,"December 18, 2025","Fixed an issue where the Leaderboard was viewable, despite having no entries there.",Bugfix,rule_bugfix
+2.5.1_69864_33,2.5.1,"December 18, 2025",Fixed an issue where tempering Legendary Ancestral Armor required more material types than intended.,Bugfix,rule_bugfix
+2.5.1_69864_34,2.5.1,"December 18, 2025",Fixed an issue where the Resolute Defender Challenge could be unlocked when not playing as a Paladin.,Bugfix,rule_bugfix
+2.5.1_69864_35,2.5.1,"December 18, 2025","Various stability, UI, visual, performance, and audio improvements.",QoL,rule_qol
+2.5.0_69713_0,2.5.0,"December 11, 2025",Upgrading an affix to a Greater Affix can now also occur on non-ancestral items.,QoL,rule_qol
+2.5.0_69713_1,2.5.0,"December 11, 2025",Affixes on Ancestral Unique or Mythic Items can no longer be replaced.,Nerf,player_decrease
+2.5.0_69713_2,2.5.0,"December 11, 2025",Indestructible affix replaced by adding 5-25 Quality ranks.,Other,fallback
+2.5.0_69713_3,2.5.0,"December 11, 2025","To sanctify an item, it only needs to have an item power of 750 or higher in Torment difficulties, rather than being Ancestral.",QoL,rule_qol
+2.5.0_69713_4,2.5.0,"December 11, 2025","Affix ranges have been adjusted across the board. In general, affix values have been increased, and ranges have been narrowed, and some affixes now have a higher maximum.",Buff,player_increase
+2.5.0_69713_5,2.5.0,"December 11, 2025",Additional Legendary powers have been added.,Buff,player_increase
+2.5.0_69713_6,2.5.0,"December 11, 2025",Reduced item quality rewards in pre-Torment difficulties.,Nerf,player_decrease
+2.5.0_69713_7,2.5.0,"December 11, 2025",Bonus experience from the maggots in Helltide has been adjusted.,Buff,rule_explicit_buff
+2.5.0_69713_8,2.5.0,"December 11, 2025","Glyph Upgrades now get a scaling chance to grant an extra upgrade attempt based on Divine Gift rank. Rank 1 grants a 25% chance, up to a 100% upgrade chance at Rank 5.",QoL,rule_qol
+2.5.0_69713_9,2.5.0,"December 11, 2025",Purified Gifts now grant 2 levels instead of one.,Buff,player_increase
+2.5.0_69713_10,2.5.0,"December 11, 2025",Andariel no longer regenerates Health if you die.,Nerf,player_decrease
+2.5.0_69713_11,2.5.0,"December 11, 2025",Andariel's phase transition is now much quicker.,QoL,qol_keyword
+2.5.0_69713_12,2.5.0,"December 11, 2025",The size of Belial's eyeballs has been increased to make them easier to target.,QoL,rule_qol
+2.5.0_69713_13,2.5.0,"December 11, 2025",Belial's death now takes less time to finish.,QoL,qol_keyword
+2.5.0_69713_14,2.5.0,"December 11, 2025",Shrines no longer disappear when fighting Azmodan.,Bugfix,rule_bugfix
+2.5.0_69713_15,2.5.0,"December 11, 2025",Azmodan has been granted resilience to bring him more in line with other World Bosses.,Other,fallback
+2.5.0_69713_16,2.5.0,"December 11, 2025",Lesser Evil events in the Overworld now reward unique items from Lair Boss reward pools.,Nerf,enemy_increase
+2.5.0_69713_17,2.5.0,"December 11, 2025",Lucky Hit gain resource reduced from 66% to 22%.,Buff,player_increase
+2.5.0_69713_18,2.5.0,"December 11, 2025",Primary resource generation reduced to 50%.,Nerf,player_decrease
+2.5.0_69713_19,2.5.0,"December 11, 2025","Previous (PTR): Each point in your Primary Stat increases your Primary Resource by 3% but you have 75% reduced life. Any damage you would take is dealt to your Primary Resource before your life. If you have not taken damage in 6 seconds, your Resource regenerates to full over 3 seconds.",Nerf,player_decrease
+2.5.0_69713_20,2.5.0,"December 11, 2025",Now: Damage is dealt to your Primary Resource before Life and damage taken this way is drastically reduced. Your Primary Resource is doubled but Maximum Life is reduced by 75%.,Buff,player_increase
+2.5.0_69713_21,2.5.0,"December 11, 2025",Damage per 10 points of Strength increased from 1% to 1.1%.,Buff,player_increase
+2.5.0_69713_22,2.5.0,"December 11, 2025",Width of the hitbox has been doubled.,Other,fallback
+2.5.0_69713_23,2.5.0,"December 11, 2025",Reverted Fury cap from PTR.,Other,fallback
+2.5.0_69713_24,2.5.0,"December 11, 2025",Adjusted attack speed scaling.,Other,fallback
+2.5.0_69713_25,2.5.0,"December 11, 2025","Now increases maximum Fury, up to 100.",Buff,player_increase
+2.5.0_69713_26,2.5.0,"December 11, 2025","Fury generation per enemy hit increased from 3% to 10%, up to 10 stacks.",Nerf,enemy_increase
+2.5.0_69713_27,2.5.0,"December 11, 2025","Previous: While above 55-40 Fury, you are Berserk, but 2 Fury Drains per second.",Other,fallback
+2.5.0_69713_28,2.5.0,"December 11, 2025","Now: While above 50 Fury, deal 10-30%x increased damage and gain Berserking, but 3 Fury Drains per second.",Buff,player_increase
+2.5.0_69713_29,2.5.0,"December 11, 2025",The shorter cooldown for the last Brawling skill used before re-enabling all of them now scales based on attack speed.,Buff,player_increase
+2.5.0_69713_30,2.5.0,"December 11, 2025",Blood Pool bonus damage no longer only applies to the casting player.,Buff,player_increase
+2.5.0_69713_31,2.5.0,"December 11, 2025",Increased damage increased from 45%[x] to 60%[x].,Buff,player_increase
+2.5.0_69713_32,2.5.0,"December 11, 2025",Increased damage increased from 45%[x] to 60%[x].,Buff,player_increase
+2.5.0_69713_33,2.5.0,"December 11, 2025",Increased damage increased from 30%[x] to 45%[x].,Buff,player_increase
+2.5.0_69713_34,2.5.0,"December 11, 2025",Increased damage increased from 20%[x] to 25%[x].,Buff,player_increase
+2.5.0_69713_35,2.5.0,"December 11, 2025",Increased Critical Strike Damage increased from 30%[x] to 45%[x].,Buff,player_increase
+2.5.0_69713_36,2.5.0,"December 11, 2025",Increased damage to Injured and Healthy increased from 30%[x] to 45%[x].,Buff,player_increase
+2.5.0_69713_37,2.5.0,"December 11, 2025",Maximum Damaging Reduction from Fortify increased from 10% to 15%.,Buff,player_increase
+2.5.0_69713_38,2.5.0,"December 11, 2025",Affixes Removed: Damage while War Cry is Active.,Other,fallback
+2.5.0_69713_39,2.5.0,"December 11, 2025",No longer available.,Nerf,player_decrease
+2.5.0_69713_40,2.5.0,"December 11, 2025",Resource Generations with Two-Handed Bludgeoning Weapons,Other,fallback
+2.5.0_69713_41,2.5.0,"December 11, 2025",Resource Generations with Dual Wielded Weapons,Other,fallback
+2.5.0_69713_42,2.5.0,"December 11, 2025",Resource Generations with Two-Handed Slashing Weapons,Other,fallback
+2.5.0_69713_43,2.5.0,"December 11, 2025",Lucky Hit chance for the channeled damage increased from 2% to 6%.,Buff,rule_explicit_buff
+2.5.0_69713_44,2.5.0,"December 11, 2025",Cooldown reduced from 50 to 35 seconds.,Buff,rule_explicit_buff
+2.5.0_69713_45,2.5.0,"December 11, 2025",Duration increased from 10 to 12 seconds.,Buff,player_increase
+2.5.0_69713_46,2.5.0,"December 11, 2025",Damage Reduction increased from 20% to 30%.,Buff,player_increase
+2.5.0_69713_47,2.5.0,"December 11, 2025",Previous: You gain 30%[+] increased Armor while Grizzly Rage is active.,Buff,player_increase
+2.5.0_69713_48,2.5.0,"December 11, 2025",Now: Cooldown reduced by 10 seconds.,Buff,rule_explicit_buff
+2.5.0_69713_49,2.5.0,"December 11, 2025",Damage against immobilized enemies increased from 15%[x] to 25%[x].,Buff,rule_explicit_buff
+2.5.0_69713_50,2.5.0,"December 11, 2025",Critical Strike Damage increased from 15%[x] to 20%[x].,Buff,player_increase
+2.5.0_69713_51,2.5.0,"December 11, 2025","Previous: The duration of Grizzly Rage is increased by 3-10 seconds. In addition, Critical Strikes while Grizzly Rage is active increase your Critical Strike Damage by 10%[x] for the duration, up to maximum of 200%[x].",Buff,player_increase
+2.5.0_69713_52,2.5.0,"December 11, 2025","Now: Critical Strikes while in Grizzly Rage increases your damage by 3%[x] for 60 seconds, up to 120%[x].",Buff,player_increase
+2.5.0_69713_53,2.5.0,"December 11, 2025",Changed to Aspect of the Rabid Beast.,Other,fallback
+2.5.0_69713_54,2.5.0,"December 11, 2025","Previous: While Grizzly Rage is active, your direct damage is converted into Poison damage, you deal x[40 - 80]% more Poison damage, and you passively spread Rabies.",Other,fallback
+2.5.0_69713_55,2.5.0,"December 11, 2025","Now: Deal 40-80%[x] more Poison Damage. While Shapeshifted, your direct damage is converted into Poison damage.",Buff,player_increase
+2.5.0_69713_56,2.5.0,"December 11, 2025","Previous (PTR): Damaging [200 - 100] Enemies with Storm Skills grants a charge. Casting any Defensive Skill will grant Max Movement Speed and Unhindered for 1 second for each charge used. While Charged, enemies you run into are Immobilized for 1 second.",Nerf,enemy_increase
+2.5.0_69713_57,2.5.0,"December 11, 2025",Now: Damaging 150-100 Enemies with Nature Magic Skills grants Max Movement Speed and Unhindered for 4-8 seconds. Enemies you run through are Immobilized for 1 second.,Nerf,enemy_increase
+2.5.0_69713_58,2.5.0,"December 11, 2025",Movement Speed Affix replaced with 1-2 ranks of Endless Tempest.,Other,fallback
+2.5.0_69713_59,2.5.0,"December 11, 2025","Previous: Your Earth Skills deal 10%[x] increased Critical Strike Damage, increased by 20%[x] of your Damage vs Crowd Controlled bonus, up to 60%[x].",Buff,player_increase
+2.5.0_69713_60,2.5.0,"December 11, 2025",Now: Your Earth Skills deal 70%[x] increased Critical Strike Damage.,Buff,player_increase
+2.5.0_69713_61,2.5.0,"December 11, 2025",Previous: Nature Magic Skills deal 35%[x] increased damage to Poisoned enemies. Lucky Hit: Nature Magic Skills have up to a 40% chance to Poison the enemy for 800% damage over 4 seconds.,Buff,rule_explicit_buff
+2.5.0_69713_62,2.5.0,"December 11, 2025",Now: Deal 40%[x] increased damage to Poisoned enemies. Lucky Hit: Nature Magic Skills have up to a 40% chance to Poison the enemy for 1000% damage over 4 seconds.,Buff,rule_explicit_buff
+2.5.0_69713_63,2.5.0,"December 11, 2025",Digitigrade Gait,Other,fallback
+2.5.0_69713_64,2.5.0,"December 11, 2025",Attack Speed increased by 25%.,Buff,player_increase
+2.5.0_69713_65,2.5.0,"December 11, 2025",Reverted Essence cap from PTR.,Other,fallback
+2.5.0_69713_66,2.5.0,"December 11, 2025",Removed the requirement for controlling 7 or more Minions.,QoL,qol_keyword
+2.5.0_69713_67,2.5.0,"December 11, 2025",Timer for Overpower reduced from 15 to 10 seconds.,Nerf,player_decrease
+2.5.0_69713_68,2.5.0,"December 11, 2025",Barrier reduced from 1-8% to 1-3% of Maximum Health.,Nerf,player_decrease
+2.5.0_69713_69,2.5.0,"December 11, 2025","Consuming a Corpse now contributes 3 souls to Vampiric Curse, up from 1.",Buff,player_increase
+2.5.0_69713_70,2.5.0,"December 11, 2025",Damage bonus increased from 15-25% to 20-30% per soul.,Buff,player_increase
+2.5.0_69713_71,2.5.0,"December 11, 2025",Damage increased from 40-80% to 60-120% of weapon damage.,Buff,player_increase
+2.5.0_69713_72,2.5.0,"December 11, 2025",Blood Lance Damage increased from 10-40% to 30-60%.,Buff,player_increase
+2.5.0_69713_73,2.5.0,"December 11, 2025",Damage increased from 520-900% to 650-1100% of weapon damage.,Buff,player_increase
+2.5.0_69713_74,2.5.0,"December 11, 2025","Bone Golem's combo attack of two swings now counts as a single attack for the purposes of Ring of Mendeln, rather than two separate attacks.",Buff,player_increase
+2.5.0_69713_75,2.5.0,"December 11, 2025",Resource Generation with Two-Handed Weapons.,Other,fallback
+2.5.0_69713_76,2.5.0,"December 11, 2025",Resource Generation while Wielding a Shield.,Other,fallback
+2.5.0_69713_77,2.5.0,"December 11, 2025",Damage scaling per 10 points of Dexterity increased from 1.1% to 1.25%.,Buff,player_increase
+2.5.0_69713_78,2.5.0,"December 11, 2025",Healing reduced from 10% to 6%.,Nerf,player_decrease
+2.5.0_69713_79,2.5.0,"December 11, 2025",Healing per Rank reduced from 1% to .5% of Maximum Health.,Nerf,player_decrease
+2.5.0_69713_80,2.5.0,"December 11, 2025",Damage increased from 10-30% to 20-40%.,Buff,player_increase
+2.5.0_69713_81,2.5.0,"December 11, 2025",Damage increased from 100-120% to 100-140%.,Buff,player_increase
+2.5.0_69713_82,2.5.0,"December 11, 2025",Reverted Energy cap from PTR.,Other,fallback
+2.5.0_69713_83,2.5.0,"December 11, 2025",Chance to deal triple damage to Knocked Down enemies increased from 50-75% to 50-100%.,Buff,rule_explicit_buff
+2.5.0_69713_84,2.5.0,"December 11, 2025",Bonus damage increased from 35-55% to 50-70%.,Buff,player_increase
+2.5.0_69713_85,2.5.0,"December 11, 2025",Bonus damage increased from 70-100% to 70-130%.,Buff,player_increase
+2.5.0_69713_86,2.5.0,"December 11, 2025",Ranks to Stutter Step,Other,fallback
+2.5.0_69713_87,2.5.0,"December 11, 2025",No longer available.,Nerf,player_decrease
+2.5.0_69713_88,2.5.0,"December 11, 2025",Adjusted the description to specify that it invokes Teleport and doesn't Cast it.,Other,fallback
+2.5.0_69713_89,2.5.0,"December 11, 2025",Previous (PTR): Teleport Dazes enemies at its end point for 1.5 seconds.,Other,fallback
+2.5.0_69713_90,2.5.0,"December 11, 2025",Now: You gain 25%[+] All Resistance for 3 seconds after Teleporting.,Buff,player_increase
+2.5.0_69713_91,2.5.0,"December 11, 2025",Previous: Casting a Skill grants 3%[+] All Resistance and 2%[+] Maximum Resistance to that Skill's Element for 9 seconds.,Buff,player_increase
+2.5.0_69713_92,2.5.0,"December 11, 2025",Now: Casting a Skill grants 3%[+] All Resistance and 5%[+] Resistance to that Skill's Element for 9 seconds.,Buff,player_increase
+2.5.0_69713_93,2.5.0,"December 11, 2025",Maximum Barrier reduced from 30% to 20% of Maximum Health.,Nerf,player_decrease
+2.5.0_69713_94,2.5.0,"December 11, 2025",Barrier per Rank reduced from 10% to 5% of Maximum Health.,Nerf,player_decrease
+2.5.0_69713_95,2.5.0,"December 11, 2025",Healing reduced from 1% per Rank to .2% of Maximum Health.,Nerf,player_decrease
+2.5.0_69713_96,2.5.0,"December 11, 2025",Healing from Bosses reduced from 4% to 2% of Maximum Health.,Buff,enemy_decrease
+2.5.0_69713_97,2.5.0,"December 11, 2025",Barrier reduced from 3-6% to 1.5-3% of Maximum Health.,Nerf,player_decrease
+2.5.0_69713_98,2.5.0,"December 11, 2025",Reverted Mana cap from Season of Infernal Chaos.,Other,fallback
+2.5.0_69713_99,2.5.0,"December 11, 2025",Teleport's Cooldown reduction increased from 1-2.5 to 3-4.5 seconds.,Buff,player_increase
+2.5.0_69713_100,2.5.0,"December 11, 2025",Previous: When you Freeze an enemy there is a [25-45%] chance they become Vulnerable for 3 seconds.,Other,fallback
+2.5.0_69713_101,2.5.0,"December 11, 2025",New: Frost Skills deal 20-30%x increased damage and have a 40% chance to apply Vulnerable for 4 seconds.,Buff,player_increase
+2.5.0_69713_102,2.5.0,"December 11, 2025","Previous (PTR): Casting Teleport grants a stack of Galvanization, increasing its damage by 30-50% for 8 seconds. Becoming Injured Teleports you to a random location.",Buff,player_increase
+2.5.0_69713_103,2.5.0,"December 11, 2025",Now: Each enemy hit by Teleport increases the damage by 5-15%|x| and reduces the Cooldown by 0.5 seconds of the next cast. Becoming Injured will Teleport you to a random location.,Buff,rule_explicit_buff
+2.5.0_69713_104,2.5.0,"December 11, 2025","Previous (PTR): After Casting Teleport, Close enemies are Pulled Inwards and it has a 10-30% chance to reset from each enemy it kills.",Other,fallback
+2.5.0_69713_105,2.5.0,"December 11, 2025",Now: Teleport pulls Close enemies to you and grants 10-30% Damage Reduction.,Nerf,enemy_increase
+2.5.0_69713_106,2.5.0,"December 11, 2025",Ranks to Elemental Attunement replaced with All Resistance.,Other,fallback
+2.5.0_69713_107,2.5.0,"December 11, 2025",Ranks to Shocking Impact replaced with 30-40% Teleport CDR.,Other,fallback
+2.5.0_69713_108,2.5.0,"December 11, 2025",Ranks to Conduction,Other,fallback
+2.5.0_69713_109,2.5.0,"December 11, 2025",Frost Critical Strike Chance,Other,fallback
+2.5.0_69713_110,2.5.0,"December 11, 2025",Reverted Vigor cap from PTR.,Other,fallback
+2.5.0_69713_111,2.5.0,"December 11, 2025",Now reduces the time to recharge charges by 5 seconds.,Buff,player_increase
+2.5.0_69713_112,2.5.0,"December 11, 2025",Previous: Gain Life On Kill equal to 5% of your Maximum Life while you have at least 4 stacks of Ferocity.,Buff,player_increase
+2.5.0_69713_113,2.5.0,"December 11, 2025",Now: Gain 1-181 (depending on level) Life On Hit while you have at least 4 stacks of Ferocity.,Buff,player_increase
+2.5.0_69713_114,2.5.0,"December 11, 2025",Previous (PTR): Gain 2/4/6% Jaguar Attack Speed and Cooldown Reduction.,Buff,player_increase
+2.5.0_69713_115,2.5.0,"December 11, 2025",Now: Jaguar Skills deal 6/12/18%[x] increased direct damage to up to 3 of the Closest enemies to you.,Buff,rule_explicit_buff
+2.5.0_69713_116,2.5.0,"December 11, 2025",Barrier reduced from 25% to 15% of Maximum Health.,Nerf,player_decrease
+2.5.0_69713_117,2.5.0,"December 11, 2025",Reverted Vigor cap from PTR.,Other,fallback
+2.5.0_69713_118,2.5.0,"December 11, 2025",Dodge chance changed to Dexterity.,Other,fallback
+2.5.0_69713_119,2.5.0,"December 11, 2025","Maximum quality is now 25, up from 20.",Buff,player_increase
+2.5.0_69713_120,2.5.0,"December 11, 2025","Quality increase per Masterwork is now 2-5, up from 1-3.",Buff,player_increase
+2.5.0_69713_121,2.5.0,"December 11, 2025",Quality upgrades now increase all affix values by 1% per quality value.,QoL,qol_keyword
+2.5.0_69713_122,2.5.0,"December 11, 2025",The boosted affix will be colored differently to highlight it.,Other,fallback
+2.5.0_69713_123,2.5.0,"December 11, 2025",Item Quality 0: 10 Obducite,QoL,rule_qol
+2.5.0_69713_124,2.5.0,"December 11, 2025",Item Quality 5: 25 Obducite,QoL,rule_qol
+2.5.0_69713_125,2.5.0,"December 11, 2025",Item Quality 15: 66 Obducite,QoL,rule_qol
+2.5.0_69713_126,2.5.0,"December 11, 2025",Item Quality 25: 100 Obducite,QoL,rule_qol
+2.5.0_69713_127,2.5.0,"December 11, 2025",There is now a chance a tempered affix gets applied as a Greater Affix.,Buff,player_increase
+2.5.0_69713_128,2.5.0,"December 11, 2025",Resource gain Tempering affixes have been added for Helms and Rings.,Buff,player_increase
+2.5.0_69713_129,2.5.0,"December 11, 2025",Resource per second Tempering affix added for Pants.,Buff,player_increase
+2.5.0_69713_130,2.5.0,"December 11, 2025","Adjusted Tempering Recipes to remove affixes from Class-specific Manuals that were extraneous due to existing in Generic Manuals, or unused.",QoL,rule_qol
+2.5.0_69713_131,2.5.0,"December 11, 2025",Movement Speed changed from 16-25% to 15-25%.,Other,fallback
+2.5.0_69713_132,2.5.0,"December 11, 2025",Movement Speed After Killing an Elite increased from 20-22.5% to 25-45%.,Buff,player_increase
+2.5.0_69713_133,2.5.0,"December 11, 2025",Maximum Life increased from 84-141 to 349-450.,Buff,player_increase
+2.5.0_69713_134,2.5.0,"December 11, 2025",Thorns increased from 45-70 to 211-281.,Buff,player_increase
+2.5.0_69713_135,2.5.0,"December 11, 2025",Casting Ultimate Skills Restores Primary Resource.,Other,fallback
+2.5.0_69713_136,2.5.0,"December 11, 2025","When comparing items, the Armor or resistance difference between items will now display as percentage of Toughness difference instead of just displaying the flat Armor difference.",Buff,player_increase
+2.5.0_69713_137,2.5.0,"December 11, 2025",Toughness is now displayed in the Character Stats window.,Buff,player_increase
+2.5.0_69713_138,2.5.0,"December 11, 2025",The Toughness tooltip now breaks down Damage Resistance per damage type.,QoL,rule_qol
+2.5.0_69713_139,2.5.0,"December 11, 2025",Torment difficulties now display a recommended Toughness amount when selecting difficulty.,Buff,player_increase
+2.5.0_69713_140,2.5.0,"December 11, 2025",Fortify and Barrier Generation are now a part of the general defensive pool of affixes that can appear on items.,Buff,player_increase
+2.5.0_69713_141,2.5.0,"December 11, 2025","Monsters in the open world no longer scale 1:1 with your level, it is now offset so the player scales better than monsters.",Buff,enemy_decrease
+2.5.0_69713_142,2.5.0,"December 11, 2025",Monsters damage has been reduced at low levels.,Buff,enemy_decrease
+2.5.0_69713_143,2.5.0,"December 11, 2025",Monster power has been tuned down slightly in early Torment tiers.,Other,fallback
+2.5.0_69713_144,2.5.0,"December 11, 2025",Base Health for boss monsters has been increased.,Nerf,enemy_increase
+2.5.0_69713_145,2.5.0,"December 11, 2025",The chance for items with multiple Greater Affixes to drop has been increased in Torment tiers.,QoL,rule_qol
+2.5.0_69713_146,2.5.0,"December 11, 2025",More items now drop from levels 1-15.,Buff,player_increase
+2.5.0_69713_147,2.5.0,"December 11, 2025","When in a Capstone dungeon, the closest affiliated difficulty is now displayed.",Buff,player_increase
+2.5.0_69713_148,2.5.0,"December 11, 2025","Cooldown Reduction can now naturally appear on rings, gloves, and shields.",Buff,player_increase
+2.5.0_69713_149,2.5.0,"December 11, 2025",Various tuning to Capstone Dungeon encounters.,Other,fallback
+2.5.0_69713_150,2.5.0,"December 11, 2025",Various monster and monster pack spawning adjustments.,Other,fallback
+2.5.0_69713_151,2.5.0,"December 11, 2025",Various other minor updates and tweaks to Sanctification and Seasonal Activities.,Other,fallback
+2.5.0_69713_152,2.5.0,"December 11, 2025",Fixed an issue where Duriel maggots spawned in Helltide spawned experience motes at inappropriate times.,Bugfix,rule_bugfix
+2.5.0_69713_153,2.5.0,"December 11, 2025",Fixed an issue where the Luminary in Unseen Awakening didn't respawn after the player died.,Bugfix,rule_bugfix
+2.5.0_69713_154,2.5.0,"December 11, 2025",Fixed an issue where Sweltering Heat in the Torrid Menagerie could cause the player to damage themself.,Bugfix,rule_bugfix
+2.5.0_69713_155,2.5.0,"December 11, 2025",Fixed an issue where the Leave Dungeon action didn't take the player out of the Dungeon when in the Torrid Menagerie.,Bugfix,rule_bugfix
+2.5.0_69713_156,2.5.0,"December 11, 2025",Fixed an issue where the Sins of the Many Capstone dungeon could not be exited without logging out.,Bugfix,rule_bugfix
+2.5.0_69713_157,2.5.0,"December 11, 2025","Fixed an issue where if you defeated Belial when he appeared after defeating Varshan, he wouldn't drop items as expected.",Bugfix,rule_bugfix
+2.5.0_69713_158,2.5.0,"December 11, 2025",Fixed an issue where the unavoidable blood orb explosions in the second phase of the Echo of Lilith fight dealt more damage than intended.,Bugfix,rule_bugfix
+2.5.0_69713_159,2.5.0,"December 11, 2025",Fixed an issue where monsters could stop spawning unexpectedly in Kor Dragan Stronghold.,Bugfix,rule_bugfix
+2.5.0_69713_160,2.5.0,"December 11, 2025",Fixed an issue where the last enemy could fail to spawn to complete the Enroaching Thickets objective in the Raethwind Wilds.,Bugfix,rule_bugfix
+2.5.0_69713_161,2.5.0,"December 11, 2025",Fixed an issue where having the objective to defeat the Blood Maiden was impossible to complete due to Duriel replacing the Blood Maiden in Helltide.,Bugfix,rule_bugfix
+2.5.0_69713_162,2.5.0,"December 11, 2025",Fixed an issue where some bosses could fail to spawn if the player was in stealth when the boss was supposed to spawn.,Bugfix,rule_bugfix
+2.5.0_69713_163,2.5.0,"December 11, 2025",Fixed an issue where monsters with the Illusory affix could spawn monsters with the Life-Link affix that could then be killed instantly.,Bugfix,rule_bugfix
+2.5.0_69713_164,2.5.0,"December 11, 2025",Fixed an issue in multiple dungeons where only one instance of animus needed to be collected before the dungeon could be progressed.,Bugfix,rule_bugfix
+2.5.0_69713_165,2.5.0,"December 11, 2025",Fixed an issue where progression through Escalating Nightmare Dungeons could be blocked by teleport effects.,Bugfix,rule_bugfix
+2.5.0_69713_166,2.5.0,"December 11, 2025",Fixed an issue where some monsters could deal more damage than expected.,Bugfix,rule_bugfix
+2.5.0_69713_167,2.5.0,"December 11, 2025",Fixed an issue where some Nightmare Dungeon Affixes could remain active outside of the dungeon.,Bugfix,rule_bugfix
+2.5.0_69713_168,2.5.0,"December 11, 2025",Fixed an issue where the cost for enchanting an item at the Occultist was not consistent for all two-handed weapons.,Bugfix,rule_bugfix
+2.5.0_69713_169,2.5.0,"December 11, 2025",Fixed an issue where the material cost for Masterworking was displayed inaccurately.,Bugfix,rule_bugfix
+2.5.0_69713_170,2.5.0,"December 11, 2025",Fixed an issue where the Damage Per Second value was inconsistently displayed between the Masterworking tab and the weapon itself.,Bugfix,rule_bugfix
+2.5.0_69713_171,2.5.0,"December 11, 2025",Fixed an issue where Items salvaged for far more materials than intended.,Bugfix,rule_bugfix
+2.5.0_69713_172,2.5.0,"December 11, 2025",Fixed an issue where Soulbrand Unique did not give the correct amount of Barrier.,Bugfix,rule_bugfix
+2.5.0_69713_173,2.5.0,"December 11, 2025",Fixed an issue where the Feo rune would reset its cooldown when swapping weapons.,Bugfix,rule_bugfix
+2.5.0_69713_174,2.5.0,"December 11, 2025",Fixed an issue where Attack Speed could appear as an affix on a Two-Handed weapon through enchantment.,Bugfix,rule_bugfix
+2.5.0_69713_175,2.5.0,"December 11, 2025",Fixed multiple instances of Paragon node bonus effects not being properly being granted.,Buff,player_increase
+2.5.0_69713_176,2.5.0,"December 11, 2025",Fixed multiple instances where items had the incorrect values of elemental resistances.,Other,fallback
+2.5.0_69713_177,2.5.0,"December 11, 2025",Fixed an issue where Heavenly Sigils could fail to be consumed when Sanctifying an item.,Bugfix,rule_bugfix
+2.5.0_69713_178,2.5.0,"December 11, 2025",Fixed an issue where Strategic Rallying Cry did not show the accurate amount of Life gained.,Bugfix,rule_bugfix
+2.5.0_69713_179,2.5.0,"December 11, 2025",Fixed an issue where Ugly Bastard Helm did not have the appropriate amount of Fire Resistance.,Bugfix,rule_bugfix
+2.5.0_69713_180,2.5.0,"December 11, 2025",Fixed an issue where the Brash Node no longer granted resistances as a bonus.,Bugfix,rule_bugfix
+2.5.0_69713_181,2.5.0,"December 11, 2025",Fixed an issue where the Yul rune was not triggered by Ground Stomp if Chainscourged Mail was equipped.,Bugfix,rule_bugfix
+2.5.0_69713_182,2.5.0,"December 11, 2025",Fixed an issue where Ramaladni's Magnum Opus was active even when the active skill wasn't using the weapon.,Bugfix,rule_bugfix
+2.5.0_69713_183,2.5.0,"December 11, 2025",Fixed an amount where the Fury cost for Kick was incorrect.,Other,fallback
+2.5.0_69713_184,2.5.0,"December 11, 2025",Fixed an issue where Preserving Earthen Bulwark was granting the incorrect amount of Fortify.,Bugfix,rule_bugfix
+2.5.0_69713_185,2.5.0,"December 11, 2025",Fixed an issue where Ancestral Fortitude didn't increase non-physical resistance.,Bugfix,rule_bugfix
+2.5.0_69713_186,2.5.0,"December 11, 2025",Fixed an issue where the Movement Speed buff from Khamsin Steppewalkers could be permanently granted when casting two defensive skills in a row.,Bugfix,rule_bugfix
+2.5.0_69713_187,2.5.0,"December 11, 2025",Fixed an issue where the description for the buff from Khamsin Steppewalkers displayed the wrong values.,Bugfix,rule_bugfix
+2.5.0_69713_188,2.5.0,"December 11, 2025",Fixed an issue where the description for Grizzly Rage didn't properly display the damage increase for adding additional skill points.,Bugfix,rule_bugfix
+2.5.0_69713_189,2.5.0,"December 11, 2025",Fixed an issue where Golems were not properly smaller while in town while using Gravebloom.,Bugfix,rule_bugfix
+2.5.0_69713_190,2.5.0,"December 11, 2025",Fixed an issue where Rapid Ossification passive was not granting cooldown reduction for more than 100 Essence at a time.,Bugfix,rule_bugfix
+2.5.0_69713_191,2.5.0,"December 11, 2025",Fixed an issue where Sacrificing Defenders did not provide the bonus Elemental resistances as intended.,Bugfix,rule_bugfix
+2.5.0_69713_192,2.5.0,"December 11, 2025",Fixed an issue where Paranormal Sever would occasionally fail to apply Vulnerable and Fear.,Bugfix,rule_bugfix
+2.5.0_69713_193,2.5.0,"December 11, 2025",Fixed an issue where the tempering affix for Dance of Knives to deal Double damage could stack to deal incredibly high values.,Bugfix,rule_bugfix
+2.5.0_69713_194,2.5.0,"December 11, 2025",Fixed an issue where the Teleport Enchantment tooltip was showing the wrong cooldown.,Bugfix,rule_bugfix
+2.5.0_69713_195,2.5.0,"December 11, 2025",Fixed an issue where the Oculus could randomly teleport the player while they are healing.,Bugfix,rule_bugfix
+2.5.0_69713_196,2.5.0,"December 11, 2025",Fixed an issue where the Antivenom Passive was not functioning.,Bugfix,rule_bugfix
+2.5.0_69713_197,2.5.0,"December 11, 2025",Fixed an issue where the Jaguar Main Hall would not benefit from Aspect of Unyielding Hits.,Bugfix,rule_bugfix
+2.5.0_69713_198,2.5.0,"December 11, 2025",Fixed an issue where Ravager would dash to targets uncontrollably when non-Casted core skills were invoked.,Bugfix,rule_bugfix
+2.5.0_69713_199,2.5.0,"December 11, 2025","Fixed an issue where the Eagle Primary Spirit Hall's damage was being increased far more than intended by bonuses to Spirit Hall Potency, such as from Wushe Nak Pa.",Bugfix,rule_bugfix
+2.5.0_69713_200,2.5.0,"December 11, 2025","Fixed an issue where Mystic Circle would be empowered by skills that were not cast, such as from Path of the Emissary.",Bugfix,rule_bugfix
+2.5.0_69713_201,2.5.0,"December 11, 2025",Fixed an issue where The Protector did not smash immediately upon landing.,Bugfix,rule_bugfix
+2.5.0_69713_202,2.5.0,"December 11, 2025",Fixed an issue where Tempering an item would prevent selecting other items that could also apply that affix from being slotted into the tempering window.,Bugfix,rule_bugfix
+2.5.0_69713_203,2.5.0,"December 11, 2025",Fixed an issue where the World Map could not be viewed while inside a Capstone dungeon.,Bugfix,rule_bugfix
+2.5.0_69713_204,2.5.0,"December 11, 2025",Fixed an issue where the visual indicatorfor Fortify could be higher than the actual Fortify amount.,Bugfix,rule_bugfix
+2.5.0_69713_205,2.5.0,"December 11, 2025",Fixed an issue where the quest to Masterwork an item was not completed when Masterworking an item.,Bugfix,rule_bugfix
+2.5.0_69713_206,2.5.0,"December 11, 2025","Fixed an issue where abilities could be used and combat was allowed in the Heavenly Forge. (Gentlemen, you can’t fight in here this is the War Room!)",Bugfix,rule_bugfix
+2.5.0_69713_207,2.5.0,"December 11, 2025","Fixed an issue where Champions didn't behave like Elites in various contexts, such as not dropping the expected kind of loot.",Bugfix,rule_bugfix
+2.5.0_69713_208,2.5.0,"December 11, 2025",Fixed an issue where Undercity tributes weren't dropping as expected.,Bugfix,rule_bugfix
+2.5.0_69713_209,2.5.0,"December 11, 2025",Fixed an issue where sometimes the Undercity could not be accessed when it should be.,Bugfix,rule_bugfix
+2.5.0_69713_210,2.5.0,"December 11, 2025",Fixed an issue where some bosses granted more experience than intended.,Bugfix,rule_bugfix
+2.5.0_69713_211,2.5.0,"December 11, 2025",Fixed an issue where Torment could not be unlocked until reaching level 60.,Bugfix,rule_bugfix
+2.5.0_69713_212,2.5.0,"December 11, 2025",Various miscellaneous fixes to new features and systems introduced in this Season.,New Content,new_content_keyword
+2.5.0_69713_213,2.5.0,"December 11, 2025","Various stability, UI, and visual improvements.",QoL,rule_qol
+2.5.0_69713_214,2.5.0,"December 11, 2025",+30% Movement Speed (Inherent),Buff,player_increase
+2.5.0_69713_215,2.5.0,"December 11, 2025",+16-25% Movement speed,Buff,player_increase
+2.5.0_69713_216,2.5.0,"December 11, 2025",+155-200% Core Skill damage,Buff,player_increase
+2.5.0_69713_217,2.5.0,"December 11, 2025",+1-2 Core Skill ranks,Buff,player_increase
+2.5.0_69713_218,2.5.0,"December 11, 2025",+26.5-40% Impairment Reduction,Buff,player_increase
+2.5.0_69713_219,2.5.0,"December 11, 2025","Every 12-4 meters you move, invoke a Core Skill from your primary Spirit Hall.",Other,fallback
+2.5.0_69713_220,2.5.0,"December 11, 2025",Lord Zir,Other,fallback
+2.5.0_69713_221,2.5.0,"December 11, 2025",Damage increased from 80% to 160%.,Buff,player_increase
+2.5.0_69713_222,2.5.0,"December 11, 2025","Previous: When enemies recover from Concussive Stomp, you dodge their next 3 attacks.",Other,fallback
+2.5.0_69713_223,2.5.0,"December 11, 2025","Now: When enemies recover from a Concussive Stomp that you Cast, you block their next 3 attacks.",Nerf,enemy_increase
+2.5.0_69713_224,2.5.0,"December 11, 2025",Now consumes up to 500 Vigor.,Buff,player_increase
+2.5.0_69713_225,2.5.0,"December 11, 2025",Previous: Hitting enemies with Jaguar Skills increases the Damage they take from you by 0.1-0.3% up to 10-30%.,Other,fallback
+2.5.0_69713_226,2.5.0,"December 11, 2025",Now: Gain 2/4/6% Jaguar Skill Attack Speed and Cooldown Reduction.,Buff,player_increase
+2.5.0_69713_227,2.5.0,"December 11, 2025","Previous: Your Maximum Vigor is increased by 50%, and killing an enemy grants you 1 - 7 Vigor. While you have Ferocity, your Poisoning effects deal their damage across 33% of the normal duration.",Nerf,enemy_increase
+2.5.0_69713_228,2.5.0,"December 11, 2025","Now: Your Maximum Vigor is increased by 50%, and killing an enemy grants you 1 - 7 Vigor. While you have Ferocity, your new Poisoning effects last 33% longer.",Nerf,enemy_increase
+2.5.0_69713_229,2.5.0,"December 11, 2025","Previous: A Pestilent Swarm spawns from you every 4 seconds, dealing x Poison damage per hit. Your Pestilent Swarms now orbit around you and generate 3 Vigor per hit.",Buff,player_increase
+2.5.0_69713_230,2.5.0,"December 11, 2025","Now: A Pestilent Swarm spawns from you every 4 seconds, dealing x Poison damage per hit. Your Pestilent Swarms now orbit around you and reduce an equipped Eagle Skill's cooldown by 0.25 seconds per hit.",Buff,rule_explicit_buff
+2.5.0_69713_231,2.5.0,"December 11, 2025","Previous: While you have at least 4 stacks of Ferocity, you gain 1 - 7 Vigor per second. Gaining Ferocity also grants Resolve.",Buff,player_increase
+2.5.0_69713_232,2.5.0,"December 11, 2025","Now: While you have at least 4 stacks of Ferocity, you gain 5-15%[x] increased damage and Armor. Gaining Ferocity also grants Resolve.",Buff,player_increase
+2.5.0_69713_233,2.5.0,"December 11, 2025",Max Life percentage has been replaced with additive Max Life.,Other,fallback
+2.5.0_69713_234,2.5.0,"December 11, 2025",Critical Strike Chance replaced with Resolve generation rate.,Other,fallback
+2.5.0_69713_235,2.5.0,"December 11, 2025",Can now only consume up to 500 Vigor.,Buff,player_increase
+2.5.0_69713_236,2.5.0,"December 11, 2025",Damage Reduction affix replaced with Dexterity affix.,Other,fallback
+2.5.0_69713_237,2.5.0,"December 11, 2025",Damage Reduction affix replaced with Dexterity affix.,Other,fallback
+2.5.0_69713_238,2.5.0,"December 11, 2025",Damage Reduction from Poisoned Enemies affix replaced with Armor affix.,Other,fallback
+2.5.0_69713_239,2.5.0,"December 11, 2025",Armor percentage affix replaced with All Resistance affix.,Other,fallback
+2.5.0_69713_240,2.5.0,"December 11, 2025",Damage Reduction while Injured affix replaced with Dexterity affix.,Other,fallback
+2.5.0_69713_241,2.5.0,"December 11, 2025",Damage Reduction while Standing Still affix replaced with Armor affix.,Other,fallback
+2.5.0_69713_242,2.5.0,"December 11, 2025",All main Spirit Hall potency affixes changed to main Spirit Hall Damage.,Other,fallback
+2.5.0_69713_243,2.5.0,"December 11, 2025",Updated the tooltips to display the damage that scales with the above affix in blue.,QoL,rule_qol
+2.5.0_69713_244,2.5.0,"December 11, 2025","Previous: Every 15th time you deal direct damage to an enemy with a Jaguar Skill, unleash additional slashes dealing 20% of the damage you have dealt to them in the last 0.5 seconds. All Skills are now also Jaguar Skills.",Buff,rule_explicit_buff
+2.5.0_69713_245,2.5.0,"December 11, 2025","Now: Every 15th time you deal direct damage with a Jaguar Skill, unleash a Beast Strike for (100% Weapon damage), increasing all damage you deal by 3% and doubling Beast Strike's damage, stacking 5 times. You lose all stacks when you stop attacking for 1 second.",Buff,player_increase
+2.5.0_69713_246,2.5.0,"December 11, 2025",Now scales damage rather than Vulnerable duration.,Buff,player_increase
+2.5.0_69713_247,2.5.0,"December 11, 2025",Now only scales Thorns damage.,Buff,player_increase
+2.5.0_69713_248,2.5.0,"December 11, 2025",Barrier per hit reduced from 5% to 2.5%.,Nerf,player_decrease
+2.5.0_69713_249,2.5.0,"December 11, 2025",No longer has a cap of 30% Barrier.,Nerf,player_decrease
+2.5.0_69713_250,2.5.0,"December 11, 2025",Updated the tooltip to clarify that Gorilla skills do not need to be Cast to gain the effect.,QoL,rule_qol
+2.5.0_69713_251,2.5.0,"December 11, 2025",Now scales damage rather than Slow and Damage reduction.,Buff,player_increase
+2.5.0_69713_252,2.5.0,"December 11, 2025",Damage Reduction per stack increased from 2% to 4%.,Buff,player_increase
+2.5.0_69713_253,2.5.0,"December 11, 2025",Increased the debuff duration from 6 to 8 seconds.,Buff,player_increase
+2.5.0_69713_254,2.5.0,"December 11, 2025",Increased the total poison amount from 70% to 160%.,Buff,player_increase
+2.5.0_69713_255,2.5.0,"December 11, 2025",Fixed the tooltip to clarify it invokes a free Concussive stomp rather than Casting.,QoL,rule_qol
+2.5.0_69713_256,2.5.0,"December 11, 2025",Vigor Restoration changed from 15% to 15 Vigor.,Other,fallback
+2.5.0_69713_257,2.5.0,"December 11, 2025",Mystic Circle Potency moved from Jaguar Finesse (Offensive) to Plains Augments (Weapon).,Other,fallback
+2.5.0_69713_258,2.5.0,"December 11, 2025",Fortify reduced from 5% to .2% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_259,2.5.0,"December 11, 2025",Required attacks increased from 3 to 20.,QoL,qol_keyword
+2.5.0_69713_260,2.5.0,"December 11, 2025",Healing increased from 5% to 8% of Maximum Life.,Buff,player_increase
+2.5.0_69713_261,2.5.0,"December 11, 2025",Seeker perk changed from restoring 50% Maximum Resource to 50 primary resource gained.,Buff,player_increase
+2.5.0_69713_262,2.5.0,"December 11, 2025",Healing reduced from 2% to 1% of Maximum Health.,Nerf,player_decrease
+2.5.0_69713_263,2.5.0,"December 11, 2025",Ember's Gift resource gain changed from 33% of max per second to 33 resource per second.,Buff,player_increase
+2.5.0_69713_264,2.5.0,"December 11, 2025",Significantly increased Tribute of Pride's legendary item rewards.,QoL,rule_qol
+2.5.0_69713_265,2.5.0,"December 11, 2025",Significantly increased Tribute of Mystique's magic rune rewards.,Buff,player_increase
+2.5.0_69713_266,2.5.0,"December 11, 2025",Increased the quality from Magic to Rare and reduced the drop chance of Tribute of Pride.,Buff,player_increase
+2.5.0_69713_267,2.5.0,"December 11, 2025",Increased the quality from Magic to Rare and reduced the drop chance of Tribute of Mystique.,Buff,player_increase
+2.5.0_69713_268,2.5.0,"December 11, 2025",Significantly increased the potency of Tribute of Growth's experience rewards before Level 60.,QoL,qol_keyword
+2.5.0_69713_269,2.5.0,"December 11, 2025",Significantly increased Tribute of Refinement's Obducite rewards.,QoL,rule_qol
+2.5.0_69713_270,2.5.0,"December 11, 2025",Significantly increased Tribute of Radiance's ancestral legendary rewards.,Buff,player_increase
+2.5.0_69713_271,2.5.0,"December 11, 2025",Buffed item rewards from any Undercity run in Torment difficulty.,QoL,rule_qol
+2.5.0_69713_272,2.5.0,"December 11, 2025",Increased the potency of experience orbs that spawn from any Undercity run before level 60.,QoL,rule_qol
+2.5.0_69713_273,2.5.0,"December 11, 2025",The chance to find pre-torment Tributes has been reduced.,Nerf,player_decrease
+2.5.0_69713_274,2.5.0,"December 11, 2025",Fixed an issue where the rank 5 Protector Thorns damage bonus was being applied less than intended.,Bugfix,rule_bugfix
+2.5.0_69713_275,2.5.0,"December 11, 2025",Fixed an issue where Touch of Death didn't spawn a swarm if the target was killed by the initial strike damage.,Bugfix,rule_bugfix
+2.5.0_69713_276,2.5.0,"December 11, 2025",Fixed an issue where Poised Touch of Death did not get applied when a Core Skill hit twice.,Bugfix,rule_bugfix
+2.5.0_69713_277,2.5.0,"December 11, 2025",Fixed an issue where the Convergency Legendary Node didn't scale properly with the Canny Glyph's legendary bonus.,Bugfix,rule_bugfix
+2.5.0_69713_278,2.5.0,"December 11, 2025",Fixed an issue where the Drive Paragon Node could scale damage higher than intended.,Bugfix,rule_bugfix
+2.5.0_69713_279,2.5.0,"December 11, 2025",Fixed an issue where the Unyielding Hits Aspect didn't increase the damage of the Centipede Main Hall effect as expected.,Bugfix,rule_bugfix
+2.5.0_69713_280,2.5.0,"December 11, 2025",Fixed an issue where Hesha E Kesungi would display as having one more Greater Affix than it had.,Bugfix,rule_bugfix
+2.5.0_69713_281,2.5.0,"December 11, 2025",Fixed an issue where Aspect of Fleet Wings could occasionally not grant Unhindered.,Bugfix,rule_bugfix
+2.5.0_69713_282,2.5.0,"December 11, 2025",Fixed an issue where Aspect of Fleet Wings could snapshot the damage buff from Unrestrained Power.,Bugfix,rule_bugfix
+2.5.0_69713_283,2.5.0,"December 11, 2025",Fixed an issue where bonus Armor and Thorns gained from the Bruiser's Aspect did not display while in town.,Bugfix,rule_bugfix
+2.5.0_69713_284,2.5.0,"December 11, 2025",Fixed an issue where Xal Rune would occasionally not properly maintain your current Life percentage when it triggered.,Bugfix,rule_bugfix
+2.5.0_69713_285,2.5.0,"December 11, 2025",Fixed an issue where Moni Rune would reset its counter when Weapon Swapping.,Bugfix,rule_bugfix
+2.5.0_69713_286,2.5.0,"December 11, 2025",Fixed an issue where Jah rune's Teleport would Teleport you in a random direction while using The Oculus.,Bugfix,rule_bugfix
+2.5.0_69713_287,2.5.0,"December 11, 2025",Fixed an issue where Subo's Bargaining Chips passive did not properly increase Overpower damage.,Bugfix,rule_bugfix
+2.5.0_69713_288,2.5.0,"December 11, 2025",Fixed an issue where Subo's Ambusher Passive did not properly grant bonus Lucky Hit Chance.,Bugfix,rule_bugfix
+2.5.0_69713_289,2.5.0,"December 11, 2025",Fixed an issue where Subo's Loaded Munitions did not consistently apply Vulnerable.,Bugfix,rule_bugfix
+2.5.0_69713_290,2.5.0,"December 11, 2025",Fixed an issue where instances of Raze the Effigies and Cull the Wicked events couldn’t be completed in some Nahantu areas.,Bugfix,rule_bugfix
+2.5.0_69713_291,2.5.0,"December 11, 2025",Fixed an issue where Ehecatl would disappear upon casting a Lightning Totem during the Bonded Destiny Quest.,Bugfix,rule_bugfix
+2.5.0_69713_292,2.5.0,"December 11, 2025",Fixed an issue where Undercity portals could fail to open when using certain Tribute and Bargain combinations.,Bugfix,rule_bugfix
+2.5.0_69713_293,2.5.0,"December 11, 2025",Fixed an issue where Darm The Bloom Warden in Chakhir wouldn't engage in combat with the player.,Bugfix,rule_bugfix
+2.5.0_69713_294,2.5.0,"December 11, 2025",+51-65 All Stats,Buff,player_increase
+2.5.0_69713_295,2.5.0,"December 11, 2025",+424-457 Maximum Life,Buff,player_increase
+2.5.0_69713_296,2.5.0,"December 11, 2025",8.1-8.8% Cooldown Reduction,Other,fallback
+2.5.0_69713_297,2.5.0,"December 11, 2025",+2-3 to Brawling Skills,Buff,player_increase
+2.5.0_69713_298,2.5.0,"December 11, 2025","Casting a damaging Brawling Skill disables it afterwards. When all of these Skills that are on your Action Bar are disabled, they become re-enabled with their Cooldowns refreshed. Your Brawling Skills deal 50-100%[x] increased damage for each disabled Skill.",Buff,player_increase
+2.5.0_69713_299,2.5.0,"December 11, 2025",Lord Zir,Other,fallback
+2.5.0_69713_300,2.5.0,"December 11, 2025",Inherent: Attacks Reduce Evade's Cooldown by 0.5 Seconds,Buff,rule_explicit_buff
+2.5.0_69713_301,2.5.0,"December 11, 2025",+1-2 Ranks of Endless Tempest +16.5-25.0% Movement Speed,Buff,player_increase
+2.5.0_69713_302,2.5.0,"December 11, 2025",+41.5-55.0% Crowd Control Duration,Buff,player_increase
+2.5.0_69713_303,2.5.0,"December 11, 2025",16-25% Nature Magic Cooldown Reduction,Other,fallback
+2.5.0_69713_304,2.5.0,"December 11, 2025",+2-3 to Bad Omen,Buff,player_increase
+2.5.0_69713_305,2.5.0,"December 11, 2025","Damaging 150-100 Enemies with Nature Magic Skills grants maximum Movement Speed and Unhindered for 4-8 seconds. Enemies you run through are Immobilized for 1 second. Damaging 200-100 Enemies with Storm Skills grants a charge. Casting any Defensive Skill will grant Max Movement Speed and Unhindered for 1 second for each charge used. While Charged, enemies you run into are Immobilized for 1 second.",Nerf,enemy_increase
+2.5.0_69713_306,2.5.0,"December 11, 2025","Grigoire, the Galvanic Saint",Other,fallback
+2.5.0_69713_307,2.5.0,"December 11, 2025",Inherent Affix: 10% Attack Speed,Other,fallback
+2.5.0_69713_308,2.5.0,"December 11, 2025",+80-94 Intelligence,Buff,player_increase
+2.5.0_69713_309,2.5.0,"December 11, 2025",+521-561 Maximum Life,Buff,player_increase
+2.5.0_69713_310,2.5.0,"December 11, 2025",+36.5-50% Chance for Golem to Hit Twice,Buff,player_increase
+2.5.0_69713_311,2.5.0,"December 11, 2025",+1-2 Golem Mastery,Buff,player_increase
+2.5.0_69713_312,2.5.0,"December 11, 2025",You raise 3 smaller Golems that each deal 40-60% of normal damage and gain 30%[+] Attack Speed. Your Golems respawn 50% faster.,Buff,player_increase
+2.5.0_69713_313,2.5.0,"December 11, 2025",Best in Ice,Other,fallback
+2.5.0_69713_314,2.5.0,"December 11, 2025",Inherent: +15% Dodge Chance while Channeling Dance of Knives,Buff,player_increase
+2.5.0_69713_315,2.5.0,"December 11, 2025",+9.0-11.0% Critical Strike Chance,Buff,player_increase
+2.5.0_69713_316,2.5.0,"December 11, 2025",+16.0-25.0% Movement Speed,Buff,player_increase
+2.5.0_69713_317,2.5.0,"December 11, 2025",+2-3 to Dance of Knives,Buff,player_increase
+2.5.0_69713_318,2.5.0,"December 11, 2025",+62.5-85.0% Agility Damage,Buff,player_increase
+2.5.0_69713_319,2.5.0,"December 11, 2025","Dance of Knives drops knives from enemies hit. Picking them up grants you 1 Charge and increases your Dance of Knives damage by 10-20% for 6 seconds, stacking up to 3 times.",Nerf,enemy_increase
+2.5.0_69713_320,2.5.0,"December 11, 2025",Andariel,Other,fallback
+2.5.0_69713_321,2.5.0,"December 11, 2025",+99-113 Intelligence,Buff,player_increase
+2.5.0_69713_322,2.5.0,"December 11, 2025",+424-457 Maximum Life,Buff,player_increase
+2.5.0_69713_323,2.5.0,"December 11, 2025",+57.0-75.0% Non-Physical Damage,Buff,player_increase
+2.5.0_69713_324,2.5.0,"December 11, 2025",+3-4 to Core Skills,Buff,player_increase
+2.5.0_69713_325,2.5.0,"December 11, 2025","For each Defensive Skill not on your Action Bar, you deal 20-40% increased damage and gain its associated Enchantment effect.",Buff,player_increase
+2.5.0_69713_326,2.5.0,"December 11, 2025","Previous: Gain 60 Maximum Resource. When taking damage, 75% is Drained as 2 Resource for every 1% of Maximum Life you would have lost.",Buff,player_increase
+2.5.0_69713_327,2.5.0,"December 11, 2025","Now: Damage is dealt to your Primary Resource before Life and damage taken this way is drastically reduced. Your Primary Resource is doubled but Maximum Life is reduced by 75%. Each point in your Primary Stat increases your Primary Resource by 3%[+] but you have 75% reduced life. Any damage you would take is dealt to your Primary Resource before your life. If you have not taken damage in 6 seconds, your Resource regenerates to full over 3 seconds.",Buff,player_increase
+2.5.0_69713_328,2.5.0,"December 11, 2025",Resource Generation increased from 15% to 50% 100% .,Buff,player_increase
+2.5.0_69713_329,2.5.0,"December 11, 2025",Damage Reduction affix replaced with +% of primary stat.,Other,fallback
+2.5.0_69713_330,2.5.0,"December 11, 2025",Damage over time duration increased from 44% to 111%.,Buff,player_increase
+2.5.0_69713_331,2.5.0,"December 11, 2025",Maximum Resistance per element replaced with 20-40% Resistance per element.,Buff,rule_explicit_buff
+2.5.0_69713_332,2.5.0,"December 11, 2025",Maximum Resistance to All Elements affix replaced with All Resistance %.,Other,fallback
+2.5.0_69713_333,2.5.0,"December 11, 2025",All Resistance updated to 80 All Resistance.,Other,fallback
+2.5.0_69713_334,2.5.0,"December 11, 2025",Maximum Resistance affix replaced with Resistance % affix.,Other,fallback
+2.5.0_69713_335,2.5.0,"December 11, 2025",Inherent Poison Resistance affix removed.,Other,fallback
+2.5.0_69713_336,2.5.0,"December 11, 2025",Maximum Poison Resistance affix replaced with 666 Poison Resistance affix.,Other,fallback
+2.5.0_69713_337,2.5.0,"December 11, 2025",Damage Reduction while Healthy affix replaced with Armor affix.,Other,fallback
+2.5.0_69713_338,2.5.0,"December 11, 2025",Damage Reduction while you have a Barrier increased from 10-30% to 20-40%.,Buff,player_increase
+2.5.0_69713_339,2.5.0,"December 11, 2025",Maximum Life % affix replaced with Maximum Life affix.,Other,fallback
+2.5.0_69713_340,2.5.0,"December 11, 2025",Damage Reduction while Healthy affix replaced with Armor % affix.,Other,fallback
+2.5.0_69713_341,2.5.0,"December 11, 2025",Maximum Life affix replaced with Critical Strike Chance affix.,Other,fallback
+2.5.0_69713_342,2.5.0,"December 11, 2025",Damage Reduction while Unstoppable affix replaced with Attack Speed affix.,Other,fallback
+2.5.0_69713_343,2.5.0,"December 11, 2025",Resource gain when becoming Unstoppable increased from 50 to 100.,Buff,player_increase
+2.5.0_69713_344,2.5.0,"December 11, 2025",Inherent Evade grants Movement Speed affix removed.,Buff,player_increase
+2.5.0_69713_345,2.5.0,"December 11, 2025",Damage Reduction from Close affix replaced with Life affix.,Other,fallback
+2.5.0_69713_346,2.5.0,"December 11, 2025",Lightning Resistance affix replaced with All Resistance affix.,Other,fallback
+2.5.0_69713_347,2.5.0,"December 11, 2025",Maximum Life % affix replaced with Life affix.,Other,fallback
+2.5.0_69713_348,2.5.0,"December 11, 2025","Renamed to ""Of Elemental Fate"".",Other,fallback
+2.5.0_69713_349,2.5.0,"December 11, 2025","Fire, Lightning, and Physical.",Other,fallback
+2.5.0_69713_350,2.5.0,"December 11, 2025","Cold, Poison, and Shadow.",Other,fallback
+2.5.0_69713_351,2.5.0,"December 11, 2025","Fire, Lightning, and Physical.",Other,fallback
+2.5.0_69713_352,2.5.0,"December 11, 2025","Cold, Poison, and Shadow.",Other,fallback
+2.5.0_69713_353,2.5.0,"December 11, 2025","Fate can favor you granting the same bonus more than once, stacking up to 6 times. At Maximum, it's your lucky day!",Buff,player_increase
+2.5.0_69713_354,2.5.0,"December 11, 2025",Reduced its frequency in extreme situations.,Nerf,player_decrease
+2.5.0_69713_355,2.5.0,"December 11, 2025",Chance for Thorns to activate explosions increased from 25-45% to 40-60%.,Buff,rule_explicit_buff
+2.5.0_69713_356,2.5.0,"December 11, 2025",Fortify reduced from 5-10% to 2-3% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_357,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_358,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_359,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_360,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_361,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_362,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_363,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_364,2.5.0,"December 11, 2025",The rank 10 Weapon Expertise bonus now also applies when equipped to the Weapon Technique Slot.,QoL,qol_keyword
+2.5.0_69713_365,2.5.0,"December 11, 2025",Damage increased from 60% to 100%.,Buff,player_increase
+2.5.0_69713_366,2.5.0,"December 11, 2025","Previous: Kick is now also a Core Skill. If Kick damages an enemy, it consumes all of your Fury and deals an additional 25% damage per 10 Fury spent. Kick no longer Knocks Back enemies.",Buff,enemy_decrease
+2.5.0_69713_367,2.5.0,"December 11, 2025","Now: Kick is now also a Core Skill. If Kick damages an enemy, it consumes up to 500 Fury and deals an additional 25%[x] damage per 20 Fury spent. Kick no longer Knocks Back enemies.",Buff,enemy_decrease
+2.5.0_69713_368,2.5.0,"December 11, 2025",Increased collide damage from 54% to 100%.,Buff,player_increase
+2.5.0_69713_369,2.5.0,"December 11, 2025",Now scales with Attack Speed.,Buff,player_increase
+2.5.0_69713_370,2.5.0,"December 11, 2025",Can now be cancelled slightly earlier with another skill.,Buff,player_increase
+2.5.0_69713_371,2.5.0,"December 11, 2025","Previous: Steel yourself, gaining a Barrier that absorbs 50% of your missing Life for 5 seconds.",Buff,player_increase
+2.5.0_69713_372,2.5.0,"December 11, 2025","Now: Steel yourself, increasing only your Maximum Life by 30% and gaining a Barrier that absorbs 80% of your missing Life for 5 seconds.",Buff,player_increase
+2.5.0_69713_373,2.5.0,"December 11, 2025",Previous: Ground Stomp generates 60 Fury and has a 2 second increased Stun duration.,Buff,player_increase
+2.5.0_69713_374,2.5.0,"December 11, 2025",Now: Ground Stomp generates 60 Fury and Pulls in enemies.,Nerf,enemy_increase
+2.5.0_69713_375,2.5.0,"December 11, 2025",Duration increased from 6 to 10 seconds.,Buff,player_increase
+2.5.0_69713_376,2.5.0,"December 11, 2025",Two-Handed Bludgeoning damage increased from 75% to 150%.,Buff,player_increase
+2.5.0_69713_377,2.5.0,"December 11, 2025",Two-Handed Slashing initial damage increased from 20% to 40%.,Buff,player_increase
+2.5.0_69713_378,2.5.0,"December 11, 2025",Two-Handed Slashing bleeding damage increased from 120% to 240%.,Buff,player_increase
+2.5.0_69713_379,2.5.0,"December 11, 2025",Dual Wield damage increased from 43% to 86%.,Buff,player_increase
+2.5.0_69713_380,2.5.0,"December 11, 2025",Fortify reduced from 20% to 10% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_381,2.5.0,"December 11, 2025",Fortify reduced from 30% to 10% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_382,2.5.0,"December 11, 2025",Fortify reduced from 15% to 8% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_383,2.5.0,"December 11, 2025","Previous: Rallying Cry grants you 10% Maximum Life as Fortify. While Rallying Cry is active, you gain an additional 2% Maximum Life as Fortify each time you take or deal direct damage.",Buff,player_increase
+2.5.0_69713_384,2.5.0,"December 11, 2025","Now: While Rallying Cry is active, gain 1% Maximum Life as Fortify every second.",Buff,player_increase
+2.5.0_69713_385,2.5.0,"December 11, 2025","Previous: While you have Fortify for over 50% of your Maximum Life, you deal 4% increased damage.",Buff,player_increase
+2.5.0_69713_386,2.5.0,"December 11, 2025","Now: While Fortified, deal 4% increased damage.",Buff,player_increase
+2.5.0_69713_387,2.5.0,"December 11, 2025","Previous: While Fortified, you gain an additional 2% Damage Reduction and you Heal for .5% Maximum Life every second.",Buff,player_increase
+2.5.0_69713_388,2.5.0,"December 11, 2025","Now: While Fortified, gain 3% Damage Reduction.",Buff,player_increase
+2.5.0_69713_389,2.5.0,"December 11, 2025",Fortify reduced from 10% to 3% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_390,2.5.0,"December 11, 2025",Fortify reduced from .6% to .1% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_391,2.5.0,"December 11, 2025","Previous: Each time a Core Skill deals direct damage to an enemy, your next Charge, Leap, or Kick deals 4-10%[x] increased damage, up to 20-50%[x].",Buff,rule_explicit_buff
+2.5.0_69713_392,2.5.0,"December 11, 2025","Now: Each time a Brawling Skill deals direct damage to an enemy, your Charge, Leap, or Kick deals 4-10%[x] increased damage for 5 seconds, up to 20-50%[x].",Buff,rule_explicit_buff
+2.5.0_69713_393,2.5.0,"December 11, 2025","Previous: Whirlwind's Critical Strike Chance and Critical Strike Damage are increased by 6-10%[x] for each second it is channeled, up to 28-50%[x].",Buff,player_increase
+2.5.0_69713_394,2.5.0,"December 11, 2025","Now: Whirlwind's Critical Strike Chance and Critical Strike Damage are increased by 6-10%[x] for each second it is channeled, up to 28-50%[x]. This bonus persists for 5 seconds after Whirlwind ends.",Buff,player_increase
+2.5.0_69713_395,2.5.0,"December 11, 2025",Previous: Each point of Fury generated while at Maximum Fury grants 4-28 Fortify.,Buff,player_increase
+2.5.0_69713_396,2.5.0,"December 11, 2025",Now: Every 100 Fury generated while at Maximum Fury grants 2-3% Max Life Fortify.,Buff,player_increase
+2.5.0_69713_397,2.5.0,"December 11, 2025",Previous: Gain 147-671 Fortify whenever you deal direct damage while Berserking.,Buff,player_increase
+2.5.0_69713_398,2.5.0,"December 11, 2025",Now: Gain .1-.3% Max Life Fortify whenever you deal direct damage while Berserking.,Buff,player_increase
+2.5.0_69713_399,2.5.0,"December 11, 2025","Previous: After swapping weapons 5 times, gain 98-622 Fortify.",Buff,player_increase
+2.5.0_69713_400,2.5.0,"December 11, 2025","Now: After swapping weapons 5 times, gain 2-3% Max Life Fortify.",Buff,player_increase
+2.5.0_69713_401,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_402,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_403,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_404,2.5.0,"December 11, 2025","Previous: Every 12 seconds, your next Mighty Throw detonates its pulses instantly as Fire Damage and deals 400-600%[x] increased damage.",Buff,player_increase
+2.5.0_69713_405,2.5.0,"December 11, 2025","Now: Every 6 seconds, your next Mighty Throw detonates its pulses instantly as Fire Damage and deals 200-300%[x] increased damage.",Buff,player_increase
+2.5.0_69713_406,2.5.0,"December 11, 2025",Reduced Overpower timer from 12 to 6 seconds.,Nerf,player_decrease
+2.5.0_69713_407,2.5.0,"December 11, 2025",Legendary Bonus now includes damage to Injured enemies.,Buff,rule_explicit_buff
+2.5.0_69713_408,2.5.0,"December 11, 2025",Previous: Swapping Weapons restores 8% of your maximum Fury.,Other,fallback
+2.5.0_69713_409,2.5.0,"December 11, 2025",Now: Swapping Weapons restores 12 Fury.,Buff,player_increase
+2.5.0_69713_410,2.5.0,"December 11, 2025","Previous: For every 75 Fury you spend, gain 15% of your Maximum Life as Fortify.",Buff,player_increase
+2.5.0_69713_411,2.5.0,"December 11, 2025","Now: For every 300 Fury you spend, gain 10% of your Maximum Life as Fortify.",Buff,player_increase
+2.5.0_69713_412,2.5.0,"December 11, 2025",Fortify reduced from 50% to 5% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_413,2.5.0,"December 11, 2025","Stacking duration is no longer a part of the ability, and Cooldown doesn't start until the ability ends.",Nerf,player_decrease
+2.5.0_69713_414,2.5.0,"December 11, 2025",Stacking Damage per second removed and Damage Bonus increased to 60%.,Buff,player_increase
+2.5.0_69713_415,2.5.0,"December 11, 2025",Skill Ranks of Grizzly Rage now grant bonus damage instead of reducing Cooldown.,Buff,player_increase
+2.5.0_69713_416,2.5.0,"December 11, 2025",Critical Strike Chance while Fortified increased from 20% to 25%.,Buff,player_increase
+2.5.0_69713_417,2.5.0,"December 11, 2025",Fortify reduced from 8% to 2% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_418,2.5.0,"December 11, 2025",Fortify reduced from 20% to 15% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_419,2.5.0,"December 11, 2025",Fortify reduced from 18% to 10% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_420,2.5.0,"December 11, 2025",Fortify reduced from 12% to 3% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_421,2.5.0,"December 11, 2025",Fortify per second reduced from 8% to 2% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_422,2.5.0,"December 11, 2025",Fortify reduced from 12% to 3% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_423,2.5.0,"December 11, 2025",Fortify reduced from 8% to 3% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_424,2.5.0,"December 11, 2025",Now also calls Lightning Strikes when applying Immobilize and Stun.,Buff,player_increase
+2.5.0_69713_425,2.5.0,"December 11, 2025",Ranks in this passive now increase the damage of the Lightning Bolts instead of the chance to strike enemies.,Nerf,enemy_increase
+2.5.0_69713_426,2.5.0,"December 11, 2025",Now restores 100 Spirit instead of fully restoring Spirit when the effect is activated. Now restores 100 spirit instead of fully restoring Spirit.,Nerf,rule_explicit_nerf
+2.5.0_69713_427,2.5.0,"December 11, 2025",Now restores 100 Spirit instead of fully restoring Spirit when the effect is activated. Now restores 100 spirit instead of fully restoring Spirit.,Nerf,rule_explicit_nerf
+2.5.0_69713_428,2.5.0,"December 11, 2025","Previous: While you have Fortify for over 50% of your Maximum Life, your Earth Skills deal 4% increased damage.",Buff,player_increase
+2.5.0_69713_429,2.5.0,"December 11, 2025","Now: While Fortified, your Earth Skills deal 4% increased damage.",Buff,player_increase
+2.5.0_69713_430,2.5.0,"December 11, 2025",Previous: Reduce the duration of Control Impairing Effects by 5%. Double this effect while you have Fortify for over 50% of your Maximum Life.,Other,fallback
+2.5.0_69713_431,2.5.0,"December 11, 2025",Now: Reduce the duration of Control Impairing Effects by 5%. Double this effect while Fortified.,Buff,player_increase
+2.5.0_69713_432,2.5.0,"December 11, 2025",Previous: Increases the amount of Fortify you gain from all sources by 5% and you gain 3% Damage Reduction while Fortified.,Buff,player_increase
+2.5.0_69713_433,2.5.0,"December 11, 2025",Now: Increases the amount of Fortify you gain from all sources by 5%.,Buff,player_increase
+2.5.0_69713_434,2.5.0,"December 11, 2025",Fortify reduced from 3% to .1% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_435,2.5.0,"December 11, 2025",Fortify reduced from 2% to .2% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_436,2.5.0,"December 11, 2025","Previous: When you use a Shapeshifting Skill that changes your form, Heal for 5-20% of your Maximum Life. If you are at full Life, gain the same amount as Fortify.",Buff,player_increase
+2.5.0_69713_437,2.5.0,"December 11, 2025","Now: When you use a Shapeshifting Skill that changes your form, Fortify for 2-3% of your Maximum Life.",Buff,player_increase
+2.5.0_69713_438,2.5.0,"December 11, 2025",Now restores 100 Spirit in your resource meter instead of fully restoring Spirit when the effect is activated. Now restores 100 spirit instead of fully restoring Spirit.,Nerf,rule_explicit_nerf
+2.5.0_69713_439,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_440,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_441,2.5.0,"December 11, 2025",Fortify reduced from 2-5% to .2-.5% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_442,2.5.0,"December 11, 2025",Now restores 100 Spirit in your resource meter instead of fully restoring Spirit when the effect is activated. Now restores 500 spirit instead of fully restoring Spirit.,Nerf,rule_explicit_nerf
+2.5.0_69713_443,2.5.0,"December 11, 2025",Respawn timer reduced from 20 seconds to 10 seconds.,Buff,rule_explicit_buff
+2.5.0_69713_444,2.5.0,"December 11, 2025","If the Golem's active ability targets an enemy, your Skeletal Warriors and Mages will focus their attacks on that target.",Other,fallback
+2.5.0_69713_445,2.5.0,"December 11, 2025",Unstoppable duration when using Golem's active increased from 1.5 to 3 seconds.,Buff,player_increase
+2.5.0_69713_446,2.5.0,"December 11, 2025",Fortify on attack reduced from 3% to .1% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_447,2.5.0,"December 11, 2025",Damage increased from 85% to 110%.,Buff,player_increase
+2.5.0_69713_448,2.5.0,"December 11, 2025",Damage increased from 110% to 145%.,Buff,player_increase
+2.5.0_69713_449,2.5.0,"December 11, 2025",Now will only consume up to 500 Essence.,Buff,player_increase
+2.5.0_69713_450,2.5.0,"December 11, 2025","Previous: Your Minions gain 3%[+] Attack Speed and 3%[x] increased damage for each active Minion. When one of your Minions die, your other Minions enrage, dealing 20%[x] increased damage for 3 seconds.",Buff,player_increase
+2.5.0_69713_451,2.5.0,"December 11, 2025","Now: Your Minions gain 40%[+] Attack Speed and 40%[x] increased damage. When one of your Minions die, your other Minions enrage, dealing 20%[x] increased damage for 3 seconds.",Buff,player_increase
+2.5.0_69713_452,2.5.0,"December 11, 2025",Fortify reduced from 5% to .2% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_453,2.5.0,"December 11, 2025",Fortify reduced from 2.5% to .5% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_454,2.5.0,"December 11, 2025","Previous: Each time an enemy is hit by Blood Surge's nova, you are Fortified for 1% of your Maximum Life. While you have Fortify for over 50% of your Maximum Life, Blood Surge deals 50% increased damage.",Nerf,enemy_increase
+2.5.0_69713_455,2.5.0,"December 11, 2025","Now: While Fortified, Blood Surge deals 65% increased damage.",Buff,player_increase
+2.5.0_69713_456,2.5.0,"December 11, 2025","Previous: Hemorrhage grants 1.6% of your Maximum Life as Fortify each time it hits an enemy, and has a 1.5% chance per enemy hit to Fortify you for 100% of your Maximum Life.",Nerf,enemy_increase
+2.5.0_69713_457,2.5.0,"December 11, 2025","Now: Hemorrhage grants 1% of your Maximum Life as Fortify, and has a 3% chance to Fortify you for 100% of your Maximum Life.",Buff,player_increase
+2.5.0_69713_458,2.5.0,"December 11, 2025","Previous: Each Cast of Blood Lance will launch an additional Blood Lance at a Nearby enemy when it first hits an enemy that is already lanced, dealing 60-100% of normal damage.",Other,fallback
+2.5.0_69713_459,2.5.0,"December 11, 2025","Now: Each Cast of Blood Lance will launch an additional Blood Lance at a Nearby enemy when it first hits an enemy, dealing 60-100% of normal damage.",Nerf,enemy_increase
+2.5.0_69713_460,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_461,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_462,2.5.0,"December 11, 2025",Fortify reduced from 1-4% to 1% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_463,2.5.0,"December 11, 2025",Maximum Life % affix replaced with Maximum Life affix.,Other,fallback
+2.5.0_69713_464,2.5.0,"December 11, 2025",Damage Reduction from Enemies affected by Blood Skills replaced with Intelligence affix.,Other,fallback
+2.5.0_69713_465,2.5.0,"December 11, 2025",Inherent Blood Wave Fortifies affix removed.,Other,fallback
+2.5.0_69713_466,2.5.0,"December 11, 2025",Damage Reduction while Fortified affix replaced with Intelligence affix.,Other,fallback
+2.5.0_69713_467,2.5.0,"December 11, 2025",Previous: Blood Wave is additionally a Bone Skill. It spawns a Bone Prison at its end point and increases your Blood Skill damage by 20-40% for 8 seconds when Cast. All Bone Spears are additionally Blood Skills. Your Bone Spears consume a Corpse to launch another Bone Spear and drain 10% of your Maximum Life.,Other,fallback
+2.5.0_69713_468,2.5.0,"December 11, 2025",Now: Bone Spear deals 20-40% additional damage and is a Blood Skill. Casting Bone Spear will launch another Bone Spear if it can consume a nearby Corpse and 5% of your Maximum Life.,Buff,player_increase
+2.5.0_69713_469,2.5.0,"December 11, 2025",The Inherent affix where Bone Spear reduces Blood Wave's cooldown has been removed.,Buff,rule_explicit_buff
+2.5.0_69713_470,2.5.0,"December 11, 2025",Damage Reduction while Injured affix replaced with Intelligence affix.,Other,fallback
+2.5.0_69713_471,2.5.0,"December 11, 2025",Maximum Life % affix replaced with Life.,Other,fallback
+2.5.0_69713_472,2.5.0,"December 11, 2025",Damage Reduction from Corrupted Enemies affix replaced with Intelligence.,Other,fallback
+2.5.0_69713_473,2.5.0,"December 11, 2025",Damage Reduction while you have a Barrier affix replaced with Cooldown Reduction.,Other,fallback
+2.5.0_69713_474,2.5.0,"December 11, 2025",Maximum Life % affix replaced with Intelligence.,Other,fallback
+2.5.0_69713_475,2.5.0,"December 11, 2025",Minions Chance to Fortify reduced from 15.5-20% to 5-7%.,Nerf,player_decrease
+2.5.0_69713_476,2.5.0,"December 11, 2025",Legendary Bonus now includes damage to Injured enemies.,Buff,rule_explicit_buff
+2.5.0_69713_477,2.5.0,"December 11, 2025",Fortify reduced from 10% to 3% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_478,2.5.0,"December 11, 2025",Fortify reduced from 4% to 1% of Maximum Life.,Nerf,player_decrease
+2.5.0_69713_479,2.5.0,"December 11, 2025",Damage Reduction increased from 4% to 6%.,Buff,player_increase
+2.5.0_69713_480,2.5.0,"December 11, 2025",Duration increased from 4 to 8 seconds.,Buff,player_increase
+2.5.0_69713_481,2.5.0,"December 11, 2025","Previous: Attack enemies to fill your Inner Sight gauge. Marked enemies fill it faster. When full, gain unlimited Energy and 25%[+] Critical Strike Chance for 4 seconds.",Nerf,enemy_increase
+2.5.0_69713_482,2.5.0,"December 11, 2025","Now: Attack enemies to fill your Inner Sight gauge. Marked enemies fill it faster. When full, restore 300 Energy, and gain 100% Energy Cost Reduction, 25%[+] Critical Strike Chance, and 25%[x] Critical Strike Damage.",Nerf,enemy_increase
+2.5.0_69713_483,2.5.0,"December 11, 2025",Shadow Clone's copied skills will now more consistently target the initial target of the skill.,QoL,qol_keyword
+2.5.0_69713_484,2.5.0,"December 11, 2025",Dance of Knives damage increased by 30% per Combo Point spent.,Buff,player_increase
+2.5.0_69713_485,2.5.0,"December 11, 2025",Now restores 100 current Energy in your resource meter instead of fully restoring Energy when the effect is activated. Now restores 100 energy instead of full restoring.,Nerf,rule_explicit_nerf
+2.5.0_69713_486,2.5.0,"December 11, 2025",Now can only consume up to 500 Energy.,Buff,player_increase
+2.5.0_69713_487,2.5.0,"December 11, 2025",Damage Reduction from Trapped Enemies affix replaced with Dexterity.,Other,fallback
+2.5.0_69713_488,2.5.0,"December 11, 2025",Damage Reduction from Trapped Enemies affix replaced with Dexterity.,Other,fallback
+2.5.0_69713_489,2.5.0,"December 11, 2025",Maximum Poison Resistance affix replaced with Dexterity.,Other,fallback
+2.5.0_69713_490,2.5.0,"December 11, 2025",Previous: You deal 50%[x] increased Critical Strike Damage to enemies affected by your Trap Skills.,Nerf,enemy_increase
+2.5.0_69713_491,2.5.0,"December 11, 2025",Now: You deal 50%[x] increased Critical Strike Damage and Damage Over Time to enemies affected by your Trap Skills.,Nerf,enemy_increase
+2.5.0_69713_492,2.5.0,"December 11, 2025",Damage increased from 35% to 90%.,Buff,player_increase
+2.5.0_69713_493,2.5.0,"December 11, 2025","Previous: Teleport deals 500% increased damage. It also forms Crackling Energy for each enemy it hits, up to 3.",Nerf,enemy_increase
+2.5.0_69713_494,2.5.0,"December 11, 2025",Now: Teleport generates 3 Charges of Crackling Energy.,Buff,player_increase
+2.5.0_69713_495,2.5.0,"December 11, 2025","Previous: After Teleporting, you gain 30% Damage Reduction for 4 seconds.",Buff,player_increase
+2.5.0_69713_496,2.5.0,"December 11, 2025",Now: Teleport Dazes enemies at its end point for 1.5 seconds.,Nerf,enemy_increase
+2.5.0_69713_497,2.5.0,"December 11, 2025",Chill amount reduced from 9% to 5%.,Nerf,player_decrease
+2.5.0_69713_498,2.5.0,"December 11, 2025","Previous: While Healthy, the explosion of Frozen Orb deals 45% increased damage.",QoL,qol_keyword
+2.5.0_69713_499,2.5.0,"December 11, 2025",Now: Frozen Orb's explosion deals 50% more damage.,QoL,qol_keyword
+2.5.0_69713_500,2.5.0,"December 11, 2025",Now restores 20 mana per enemy instead of 10% per enemy.,Nerf,enemy_increase
+2.5.0_69713_501,2.5.0,"December 11, 2025",Now restores 200 mana instead of fully restoring mana when hitting a boss.,Nerf,rule_explicit_nerf
+2.5.0_69713_502,2.5.0,"December 11, 2025","Previous: Gain a stacking bonus for each active Summon, up to 10 stacks: 2/4/6% Summon Damage, 2/4/6% Movement Speed, 4/8/12% Mana Regeneration.",Buff,player_increase
+2.5.0_69713_503,2.5.0,"December 11, 2025",Now: Gain 6/12/18% Summon Damage.,Buff,player_increase
+2.5.0_69713_504,2.5.0,"December 11, 2025",Changed from an Offensive to a Defensive Aspect.,Other,fallback
+2.5.0_69713_505,2.5.0,"December 11, 2025",Renamed to Aspect of Tenuous Survival.,Other,fallback
+2.5.0_69713_506,2.5.0,"December 11, 2025",Previous: Deal 30-50% increased damage while you have no Defensive Skills on your Action Bar.,Buff,player_increase
+2.5.0_69713_507,2.5.0,"December 11, 2025",Now: Gain 100-600 increased Armor and Heal 5% Maximum Life a second while you have no Defensive Skills on your Action Bar.,Buff,player_increase
+2.5.0_69713_508,2.5.0,"December 11, 2025",Previous: Gain 5-20% Movement Speed. This bonus is tripled if you haven't used a Defensive Skill in the last 8 seconds.,Buff,player_increase
+2.5.0_69713_509,2.5.0,"December 11, 2025",Now: Gain 20-80% Movement Speed. This bonus is removed for 10 seconds after you Cast any Defensive Skill.,Buff,player_increase
+2.5.0_69713_510,2.5.0,"December 11, 2025",Previous: Casting Ice Armor makes you Unstoppable and grants 25% Damage Reduction for 3.5-5.5 seconds.,Buff,player_increase
+2.5.0_69713_511,2.5.0,"December 11, 2025",Now: Ice Armor makes you Unstoppable and grants 200-400 Armor.,Buff,player_increase
+2.5.0_69713_512,2.5.0,"December 11, 2025","Previous: Gain the Flame Shield Enchantment for free. When Flame Shield activates, Meteorites fall around you dealing Fire damage.",Buff,player_increase
+2.5.0_69713_513,2.5.0,"December 11, 2025","Now: While Flame Shield is active, Meteorites cascade around you and deal Fire damage. Your Meteorites gain 2% Lucky Hit Chance.",Buff,player_increase
+2.5.0_69713_514,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_515,2.5.0,"December 11, 2025","Now has 21 ranks, up from 16.",Buff,rule_explicit_buff
+2.5.0_69713_516,2.5.0,"December 11, 2025",Previous: Attacks reduce Evade's Cooldown by 1 second. Gain 1 Evade Charge.,Buff,rule_explicit_buff
+2.5.0_69713_517,2.5.0,"December 11, 2025",Now: 55% Teleport Nova Size.,Buff,player_increase
+2.5.0_69713_518,2.5.0,"December 11, 2025",Previous: Gain the effect of the Teleport Enchantment for free. When you Evade using Teleport Enchantment you are taken to a random location.,Buff,player_increase
+2.5.0_69713_519,2.5.0,"December 11, 2025","Now: Each enemy hit by Teleport increases the damage by 5-15%|x| and reduces the Cooldown by 0.5 seconds of the next cast. Casting Teleport grants a stack of Galvanization, increasing its damage by 30-50% for 8 seconds. Becoming Injured Teleports you to a random location.",Buff,rule_explicit_buff
+2.5.0_69713_520,2.5.0,"December 11, 2025",Ranks of Primordial Binding changed to 2-4 Skill Ranks of Frozen Orb.,Other,fallback
+2.5.0_69713_521,2.5.0,"December 11, 2025",Previous: Casting Frozen Orb has a 35-65% chance to spawn a random Conjuration on your Action Bar when it explodes. Lucky Hit: Your Conjurations have up to a 50-90% chance to launch a Frozen Orb at Nearby enemies.,QoL,qol_keyword
+2.5.0_69713_522,2.5.0,"December 11, 2025",Now: Frozen Orbs deal 4-8% more damage per active Summon and have a 65% chance to create a random Conjuration when Cast. Lucky Hit: Your Summons have up to a 90% chance to launch a Frozen Orb at a Nearby enemy.,Nerf,enemy_increase
+2.5.0_69713_523,2.5.0,"December 11, 2025","Previous: After using Teleport, Close enemies are Pulled to you and Stunned for 2-3 seconds, but Teleport's Cooldown is increased by 20%.",Nerf,enemy_increase
+2.5.0_69713_524,2.5.0,"December 11, 2025","Now: After Casting Teleport, Close enemies are Pulled Inwards and it has a 10-30% chance to reset from each enemy it kills.",Nerf,enemy_increase
+2.5.0_69713_525,2.5.0,"December 11, 2025",Resource Generation and Maximum affix replaced with Resource Generation.,Other,fallback
+2.5.0_69713_526,2.5.0,"December 11, 2025",Damage Reduction affix replaced with Intelligence affix.,Other,fallback
+2.5.0_69713_527,2.5.0,"December 11, 2025",Damage Reduction for each Active Ball Lightning affix replaced with Intelligence.,Other,fallback
+2.5.0_69713_528,2.5.0,"December 11, 2025",Damage Reduction per Crackling Energy charge affix replaced with Cooldown Reduction affix.,Other,fallback
+2.5.0_69713_529,2.5.0,"December 11, 2025",Inherent Maximum Cold Resistance affix removed.,Other,fallback
+2.5.0_69713_530,2.5.0,"December 11, 2025",Inherent Cold Resistance affix increased to 300.,Buff,player_increase
+2.5.0_69713_531,2.5.0,"December 11, 2025","Previous: Upon getting hit, you have a 5% chance to apply Ice Armor.",Other,fallback
+2.5.0_69713_532,2.5.0,"December 11, 2025",Now: Healing Potions apply Ice Armor and have a 25% chance to refund themselves.,Buff,rule_explicit_buff
+2.5.0_69713_533,2.5.0,"December 11, 2025",Previous: Lucky Hit: Your Conjuration Skills have up to a 35% chance to unleash a Frost Nova when hitting enemies.,Other,fallback
+2.5.0_69713_534,2.5.0,"December 11, 2025",Now: Lucky Hit: Up to a 10% chance to unleash a Frost Nova after hitting an enemy.,Nerf,enemy_increase
+2.5.0_69713_535,2.5.0,"December 11, 2025",Previous: Evade is replaced with a short range Teleport on a 17 second Cooldown. This version does not make you Unstoppable.,Other,fallback
+2.5.0_69713_536,2.5.0,"December 11, 2025",Now: Evade becomes a Teleport with a 5 second Cooldown that cannot be reduced.,Buff,player_increase
+2.5.0_69713_537,2.5.0,"December 11, 2025","Previous: Whenever you Cast a non-Basic Skill, you have a 30% chance to launch a Frozen Orb at a Nearby enemy.",Other,fallback
+2.5.0_69713_538,2.5.0,"December 11, 2025",Now: Casting a Skill has a 30% chance to launch a Frozen Orb at a Nearby enemy.,Nerf,enemy_increase
+2.5.0_69713_539,2.5.0,"December 11, 2025",Dungeon and Overworld content have had their Elite densities adjusted to compensate for the new rarities of Champion and Rare.,New Content,new_content_keyword
+2.5.0_69713_540,2.5.0,"December 11, 2025","For more details on Monster changes, please see the section above.",Other,fallback
+2.5.0_69713_541,2.5.0,"December 11, 2025",Normal Items will continue dropping for longer while leveling.,Other,fallback
+2.5.0_69713_542,2.5.0,"December 11, 2025",Magic Items will more frequently have a bonus affix.,QoL,rule_qol
+2.5.0_69713_543,2.5.0,"December 11, 2025",Rare Items will be rarer before Level 30.,Other,fallback
+2.5.0_69713_544,2.5.0,"December 11, 2025",The legendary rate for a Level 40 character in season 11 will be equivalent to the legendary rate for a level 25 character in season 10.,QoL,qol_keyword
+2.5.0_69713_545,2.5.0,"December 11, 2025",The legendary rate is unchanged for a Level 60 character.,Other,fallback
+2.5.0_69713_546,2.5.0,"December 11, 2025",Legendary Items have an additional Affix for a total of 4.,Other,fallback
+2.5.0_69713_547,2.5.0,"December 11, 2025","Killing the last Champion in a pack, or any Elite, will always drop equipment and gold, in addition to their standard reward chances.",QoL,rule_qol
+2.5.0_69713_548,2.5.0,"December 11, 2025","In addition to dropping Gem Fragments, Monsters have a chance of dropping a level-appropriate Gem.",Other,fallback
+2.5.0_69713_549,2.5.0,"December 11, 2025","Altars of Lilith no longer grant permanent character rewards, such as stat increases or Paragon points.",Nerf,player_decrease
+2.5.0_69713_550,2.5.0,"December 11, 2025","Instead, discovering a statue for the first time will award a small amount of gem fragments, obols, and gold.",Other,fallback
+2.5.0_69713_551,2.5.0,"December 11, 2025",Material costs no longer scale with Item Power. Gold cost has remained unchanged.,QoL,rule_qol
+2.5.0_69713_552,2.5.0,"December 11, 2025",Eternal-only conversion recipes for legacy materials will no longer appear for seasonal character.,Nerf,player_decrease
+2.5.0_69713_553,2.5.0,"December 11, 2025",Enrich Scrap: Convert Rawhide and Iron Chunks into Veiled Crystals.,Other,fallback
+2.5.0_69713_554,2.5.0,"December 11, 2025",Refine Materials: Convert Veiled Crystals into Forgotten Souls or Legendary Salvage.,Other,fallback
+2.5.0_69713_555,2.5.0,"December 11, 2025",Material cost for Imprinting has been adjusted.,QoL,rule_qol
+2.5.0_69713_556,2.5.0,"December 11, 2025","Rare: 5-10 Common Salvage (Iron Chunk, Silver Ore/Superior Leather, Rawhide), 3-7 Veiled Crystals, 0-3 Legendary Salvage (Abstruse Sigil/Baleful Fragment/Coiling Ward), and 5,000-200,000 gold.",Other,fallback
+2.5.0_69713_557,2.5.0,"December 11, 2025","Ancestral Legendary: 25 Common Salvage, 15 Veiled Crystals, 8 Legendary Salvage, 5 Forgotten Souls, and 325,000 gold.",Other,fallback
+2.5.0_69713_558,2.5.0,"December 11, 2025","Rare: 5 Veiled Crystals and 5,000-200,000 gold.",Other,fallback
+2.5.0_69713_559,2.5.0,"December 11, 2025","Ancestral Legendary: 5 Forgotten Souls and 1,000,000 gold.",Other,fallback
+2.5.0_69713_560,2.5.0,"December 11, 2025",Material cost for Enchanting has been adjusted.,QoL,rule_qol
+2.5.0_69713_561,2.5.0,"December 11, 2025","Rare: 5-10 Common Salvage, 2-5 Veiled Crystals, and scaling (with re-rolls) gold.",Other,fallback
+2.5.0_69713_562,2.5.0,"December 11, 2025","Ancestral Legendary: 30 Common Salvage, 20 Veiled Crystals, 2 Legendary Salvage, 5 Forgotten Souls, and scaling(with re-rolls) gold.",Other,fallback
+2.5.0_69713_563,2.5.0,"December 11, 2025",Rare: 10 Veiled Crystals and scaling (with re-rolls) gold.,Other,fallback
+2.5.0_69713_564,2.5.0,"December 11, 2025",Ancestral Legendary: 10 Forgotten Souls and scaling (with re-rolls) gold.,Other,fallback
+2.5.0_69713_565,2.5.0,"December 11, 2025",Yields for Item Salvage have been adjusted.,Other,fallback
+2.5.0_69713_566,2.5.0,"December 11, 2025","Salvaging a Rare item provides 1 Common Salvage (Iron Chunk, Silver Ore/Superior Leather, Rawhide) and 2 Veiled Crystals.",Other,fallback
+2.5.0_69713_567,2.5.0,"December 11, 2025","Salvaging an Ancestral Legendary Item provides 10 Common Salvage, 10 Veiled Crystals, and 10 Legendary Salvage (Abstruse Sigil/Baleful Fragment/Coiling Ward).",Other,fallback
+2.5.0_69713_568,2.5.0,"December 11, 2025","Salvaging a Mythic Unique provides 100 Common Salvage, 100 Veiled Crystals, 100 Legendary Salvage, and a Resplendent Spark.",Other,fallback
+2.5.0_69713_569,2.5.0,"December 11, 2025",Salvaging a Rare item provides 5 Common Salvage and 2 Veiled Crystals.,Other,fallback
+2.5.0_69713_570,2.5.0,"December 11, 2025",Salvaging an Ancestral Legendary Item provides 5 Legendary Salvage and 1 Forgotten Soul.,Other,fallback
+2.5.0_69713_571,2.5.0,"December 11, 2025","Salvaging a Mythic Unique provides 1,000 legendary Salvage, 100 Forgotten Souls, and a Resplendent Spark.",Other,fallback
+2.5.0_69713_572,2.5.0,"December 11, 2025","Tempering has been redesigned. Instead of randomly gaining an affix from the desired Temper Manual, any learned temper affix can be selected specifically and rolled onto the item.",Buff,player_increase
+2.5.0_69713_573,2.5.0,"December 11, 2025",The number of Temper rolls available on an item has changed.,Other,fallback
+2.5.0_69713_574,2.5.0,"December 11, 2025",Previous: 5 Tempers,Other,fallback
+2.5.0_69713_575,2.5.0,"December 11, 2025",Now: 1 Temper,Buff,player_increase
+2.5.0_69713_576,2.5.0,"December 11, 2025","Previous: 5 Tempers, plus one per Greater Affix.",Other,fallback
+2.5.0_69713_577,2.5.0,"December 11, 2025","Now: 3 Tempers, plus one per Greater Affix.",Buff,player_increase
+2.5.0_69713_578,2.5.0,"December 11, 2025","Scrolls of Restoration no longer restore all temper charges to an item. Instead, they restore 1 temper charge.",Nerf,player_decrease
+2.5.0_69713_579,2.5.0,"December 11, 2025",There is no limit to the number of times a Scroll of Restoration can be used on an item.,Other,fallback
+2.5.0_69713_580,2.5.0,"December 11, 2025",Rare: 10-25 Common Salvage and 2-5 Veiled Crystals.,Other,fallback
+2.5.0_69713_581,2.5.0,"December 11, 2025","Legendary: 10-25 Common Salvage, 2-10 Veiled Crystals, and 0-1 Legendary Salvage.",Other,fallback
+2.5.0_69713_582,2.5.0,"December 11, 2025","Ancestral Legendary: 40 Common Salvage, 15 Veiled Crystals, 2 Legendary Salvage, and 1 Forgotten Soul.",Other,fallback
+2.5.0_69713_583,2.5.0,"December 11, 2025",Rare: 25 Common Salvage and 5 Veiled Crystals.,Other,fallback
+2.5.0_69713_584,2.5.0,"December 11, 2025",Legendary: 15 Veiled Crystals and 5 Legendary Salvage.,Other,fallback
+2.5.0_69713_585,2.5.0,"December 11, 2025",Ancestral Legendary: 25 Legendary Salvage and 25 Forgotten Souls.,Other,fallback
+2.5.0_69713_586,2.5.0,"December 11, 2025","Masterworking has been redesigned. Items have a new stat, Refinement, which is displayed on the item tooltip.",QoL,rule_qol
+2.5.0_69713_587,2.5.0,"December 11, 2025","Each time the player Masterworks an item, the refinement value of the item is increased by a random tunable amount (1-3%), up to a Max Refinement Threshold (20%).",Buff,player_increase
+2.5.0_69713_588,2.5.0,"December 11, 2025","Once at the cap, the item is considered Masterworked.",Other,fallback
+2.5.0_69713_589,2.5.0,"December 11, 2025",The base properties of an item are scaled by Refinement at a 1:1 bonus.,Buff,player_increase
+2.5.0_69713_590,2.5.0,"December 11, 2025",A Chest item with 100 armor,Other,fallback
+2.5.0_69713_591,2.5.0,"December 11, 2025",Refinement 0% = 100 Armor,Other,fallback
+2.5.0_69713_592,2.5.0,"December 11, 2025",Refinement 5% = 105 Armor,Other,fallback
+2.5.0_69713_593,2.5.0,"December 11, 2025",Refinement 20% = 120 Armor,Other,fallback
+2.5.0_69713_594,2.5.0,"December 11, 2025",A Masterworked item can be refined one more time to upgrade an affix to a Greater Affix.,QoL,rule_qol
+2.5.0_69713_595,2.5.0,"December 11, 2025","Players may re-roll the Masterworked Greater Affix by spending Neathiron, a returning resource to once again discover in Sanctuary.",Buff,player_increase
+2.5.0_69713_596,2.5.0,"December 11, 2025","The quantity of Obducite you earn has been adjusted. Players will earn 85% less Obducite, and recipes requiring Obducite have been similarly reduced.",QoL,rule_qol
+2.5.0_69713_597,2.5.0,"December 11, 2025",Items no longer need to have been tempered to be Masterworked.,Nerf,player_decrease
+2.5.0_69713_598,2.5.0,"December 11, 2025",The sell value of items has been reduced by 60%.,Nerf,player_decrease
+2.5.0_69713_599,2.5.0,"December 11, 2025",The gold cost of items has been reduced by 90%.,QoL,rule_qol
+2.5.0_69713_600,2.5.0,"December 11, 2025","Healing potions now heal 35% max Life instantly, and no longer grant Healing over Time.",Buff,player_increase
+2.5.0_69713_601,2.5.0,"December 11, 2025",Potions no longer need to be upgraded.,QoL,rule_qol
+2.5.0_69713_602,2.5.0,"December 11, 2025",Potion charges will refill once every 30 12 seconds.,Buff,rule_explicit_buff
+2.5.0_69713_603,2.5.0,"December 11, 2025",Potion Count affix can now be found on leg armor.,Buff,player_increase
+2.5.0_69713_604,2.5.0,"December 11, 2025","""Lesser"" Life Regen available on Chest, Helm, Legs, Boots, and Shield.",Buff,rule_explicit_buff
+2.5.0_69713_605,2.5.0,"December 11, 2025","""Greater"" Life Regen available on Amulet, Rings, and Gloves.",Buff,rule_explicit_buff
+2.5.0_69713_606,2.5.0,"December 11, 2025",Increased healing effectiveness of both.,Buff,player_increase
+2.5.0_69713_607,2.5.0,"December 11, 2025","""Lesser"" available on Chest, Helm, Legs, Boots, and Shields.",Other,fallback
+2.5.0_69713_608,2.5.0,"December 11, 2025","""Greater"" available on Amulet, Rings, Gloves, and Weapons.",Other,fallback
+2.5.0_69713_609,2.5.0,"December 11, 2025",Increased healing effectiveness of both.,Buff,player_increase
+2.5.0_69713_610,2.5.0,"December 11, 2025","Re-added to the base affix pool, available on Glove, Weapons, Shields, Amulets, and Rings.",Buff,player_increase
+2.5.0_69713_611,2.5.0,"December 11, 2025","Available on Chest, Helm, Legs, Boots, Amulet, Rings, and Shields.",Other,fallback
+2.5.0_69713_612,2.5.0,"December 11, 2025",Increased healing % amount.,Buff,player_increase
+2.5.0_69713_613,2.5.0,"December 11, 2025","The chance to get another Nightmare Dungeon Sigil when completing a Nightmare Dungeon has been reduced. When a Sigil does not drop, Sigil Powder will drop.",Nerf,player_decrease
+2.5.0_69713_614,2.5.0,"December 11, 2025",Improved loot quality and loot quality scaling as the player climbs Torments and reaches higher tiers within Horadric Strongrooms.,Other,fallback
+2.5.0_69713_615,2.5.0,"December 11, 2025","Added a moderate amount of gold, scaling with higher tiers within the Strongroom.",Buff,player_increase
+2.5.0_69713_616,2.5.0,"December 11, 2025",Increased the chance for a Nightmare Escalation Sigil to drop from a Horadric Strongroom.,Buff,player_increase
+2.5.0_69713_617,2.5.0,"December 11, 2025",Reduced the base likelihood of a Strongroom appearing within a Nightmare Dungeon. The likelihood of the Horadric Strongroom affix appearing on a Nightmare Sigil is unchanged.,Nerf,player_decrease
+2.5.0_69713_618,2.5.0,"December 11, 2025",Duration has been doubled.,Other,fallback
+2.5.0_69713_619,2.5.0,"December 11, 2025",Damage has been doubled.,Other,fallback
+2.5.0_69713_620,2.5.0,"December 11, 2025",Walls now block player projectiles.,Nerf,rule_explicit_nerf
+2.5.0_69713_621,2.5.0,"December 11, 2025",Walls no longer disappear when the associated elite dies.,Bugfix,rule_bugfix
+2.5.0_69713_622,2.5.0,"December 11, 2025",Radius Increased.,Buff,player_increase
+2.5.0_69713_623,2.5.0,"December 11, 2025",Poison duration significantly increased.,Buff,player_increase
+2.5.0_69713_624,2.5.0,"December 11, 2025",Damage now ramps up the longer you stand in the puddle.,Buff,player_increase
+2.5.0_69713_625,2.5.0,"December 11, 2025",Amount of Totems spawned has been doubled.,Other,fallback
+2.5.0_69713_626,2.5.0,"December 11, 2025",Damage significantly increased.,Buff,player_increase
+2.5.0_69713_627,2.5.0,"December 11, 2025",Damage Increased.,Buff,player_increase
+2.5.0_69713_628,2.5.0,"December 11, 2025",Suppressor field is now immediately active when the monster spawns.,Nerf,enemy_increase
+2.5.0_69713_629,2.5.0,"December 11, 2025",The suppressor field now lasts until the monster is killed.,Nerf,enemy_increase
+2.5.0_69713_630,2.5.0,"December 11, 2025",Damage Increased.,Buff,player_increase
+2.5.0_69713_631,2.5.0,"December 11, 2025",Instances of single element resistance affixes can now roll higher values than instances of All Resistance affixes.,Buff,player_increase
+2.5.0_69713_632,2.5.0,"December 11, 2025",A Jeweler and an Occultist have been added to the training grounds.,Buff,player_increase
+2.5.0_69713_633,2.5.0,"December 11, 2025",There is no longer a cost to enter The Pit.,QoL,rule_qol
+2.5.0_69713_634,2.5.0,"December 11, 2025",The Pit can now be entered before Level 60. The base pit tier unlocked is now Tier 10.,QoL,rule_qol
+2.5.0_69713_635,2.5.0,"December 11, 2025",Maximum Capacity of Murmuring Obols has been increased by 500.,Buff,player_increase
+2.5.0_69713_636,2.5.0,"December 11, 2025",Increased from 30 armor to 250 armor.,Buff,player_increase
+2.5.0_69713_637,2.5.0,"December 11, 2025",Increased from 50 armor to 500 armor.,Buff,player_increase
+2.5.0_69713_638,2.5.0,"December 11, 2025",Decreased from +10% max life to +5% max life.,Buff,player_increase
+2.5.0_69713_639,2.5.0,"December 11, 2025",Decreased from +20% max life to +10% max life.,Buff,player_increase
+2.5.0_69713_640,2.5.0,"December 11, 2025",Updated from 300 flat armor to +10% armor.,Buff,player_increase
+2.5.0_69713_641,2.5.0,"December 11, 2025",Rare tempering manuals now start dropping at level 30 instead of at level 45.,Buff,player_increase
+2.5.0_69713_642,2.5.0,"December 11, 2025",Characters that skip either campaign now unlock all non-stronghold waypoints for their respective region.,QoL,rule_qol
+2.5.0_69713_643,2.5.0,"December 11, 2025",All skill slots are now unlocked from level 1.,Buff,player_increase
+2.5.0_69713_644,2.5.0,"December 11, 2025","Progression down the Skill tree is now faster, Core Skills get unlocked after spending one skill point and then the next skill group is unlocked after spending two skill points.",Buff,player_increase
+2.5.0_69713_645,2.5.0,"December 11, 2025",Aether rewards for Chaos Rifts and Chaos Waves in Infernal Hordes have been increased.,Buff,player_increase
+2.5.0_69713_646,2.5.0,"December 11, 2025",Monsters now scale attack speed as difficulty goes up in addition to movement speed.,Nerf,enemy_increase
+2.5.0_69713_647,2.5.0,"December 11, 2025",Tempering affixes now have greater variance now that you aren't limited to how many times you can re-temper.,Buff,player_increase
+2.5.0_69713_648,2.5.0,"December 11, 2025",Resistance and Armor values from affixes have been broadly adjusted to account for the introduction of Toughness.,Buff,rule_explicit_buff
+2.5.0_69713_649,2.5.0,"December 11, 2025","For more details on Season Rank, please read the section detailing it in the Season of Divine Intervention overview blog here .",Other,fallback
+2.5.0_69713_650,2.5.0,"December 11, 2025",Fixed an issue where the Screen Reader did not read the interact buttons during conversations with NPCs when playing on controller.,Bugfix,rule_bugfix
+2.5.0_69713_651,2.5.0,"December 11, 2025",Fixed an issue where the Screen Reader did not read controller buttons for Upgrading and Reallocating Blessings.,Bugfix,rule_bugfix
+2.5.0_69713_652,2.5.0,"December 11, 2025",Fixed an issue where Barbarian's Rumble Glyph did not accurately track the number of active Earthquakes.,Bugfix,rule_bugfix
+2.5.0_69713_653,2.5.0,"December 11, 2025",Fixed an issue where there was no UI indicator for the buff duration for Wrath of the Berserker.,Bugfix,rule_bugfix
+2.5.0_69713_654,2.5.0,"December 11, 2025",Fixed an issue where the third attack for Iron Maelstrom could occur twice.,Bugfix,rule_bugfix
+2.5.0_69713_655,2.5.0,"December 11, 2025",Fixed an issue where Ring of Red Furor would occasionally track resources spent inconsistently.,Bugfix,rule_bugfix
+2.5.0_69713_656,2.5.0,"December 11, 2025",Fixed an issue where the Damage Bonus from Supernatural Blood Surge applied twice to the explosion from Blood-Bathed Aspect.,Bugfix,rule_bugfix
+2.5.0_69713_657,2.5.0,"December 11, 2025",Fixed an issue where Essence Per Enemy Drained by Blood Surge affix was not properly granting Essence.,Bugfix,rule_bugfix
+2.5.0_69713_658,2.5.0,"December 11, 2025",Fixed an issue where Rogue's Cunning Stratagem Paragon Node would not increase the damage of non-Core Skills that used Combo Points.,Bugfix,rule_bugfix
+2.5.0_69713_659,2.5.0,"December 11, 2025",Fixed an issue where Aspect of Quickening Fog did not properly grant both bonuses from Aspect of Synergy.,Bugfix,rule_bugfix
+2.5.0_69713_660,2.5.0,"December 11, 2025",Fixed an issue with Infiltrator's Aspect where Poison Traps placed before entering Stealth would not properly detonate when exiting Stealth.,Bugfix,rule_bugfix
+2.5.0_69713_661,2.5.0,"December 11, 2025",Fixed an issue where Ambush did not increase damage when Stun Grenades deal damage with Explosive Verve Aspect equipped.,Bugfix,rule_bugfix
+2.5.0_69713_662,2.5.0,"December 11, 2025",Fixed an issue where Shadow Clone was not properly benefiting from the increased Penetrating Shot damage from Eaglehorn.,Bugfix,rule_bugfix
+2.5.0_69713_663,2.5.0,"December 11, 2025",Fixed an issue where Lightning Familiar would not properly trigger the Charged effect from Vyr's Mastery.,Bugfix,rule_bugfix
+2.5.0_69713_664,2.5.0,"December 11, 2025",Fixed an issue where Barbarian Earthquakes could spawn Chaos Portals in Infernal Hordes.,Bugfix,rule_bugfix
+2.5.0_69713_665,2.5.0,"December 11, 2025",Fixed an issue where Belial's transition between phases could be delayed if recovering from Stagger during transition.,Bugfix,rule_bugfix
+2.5.0_69713_666,2.5.0,"December 11, 2025",Fixed an issue where Skeletal Mages could fail to upgrade to Arch-Mages when using the Hand of Naz.,Bugfix,rule_bugfix
+2.5.0_69713_667,2.5.0,"December 11, 2025",Fixed an issue where hostages during a Hostage event started at half health.,Bugfix,rule_bugfix
+2.5.0_69713_668,2.5.0,"December 11, 2025",Fixed an issue where activating a Nightmare Dungeon sigil with the Horadric Strongroom affix would also apply that affix to other dungeons.,Bugfix,rule_bugfix
+2.5.0_69713_669,2.5.0,"December 11, 2025",Fixed an issue where killing the Cannibal Champion too quickly in the Temple of Rot could block Stronghold progression.,Bugfix,rule_bugfix
+2.5.0_69713_670,2.5.0,"December 11, 2025",Fixed an issue where the fire in the Chapel in Nostrava could cause the player to deal on-hit damage to themselves.,Bugfix,rule_bugfix
+2.5.0_69713_671,2.5.0,"December 11, 2025",Fixed an issue where some Execute effects could occasionally affect Immune enemies.,Bugfix,rule_bugfix
+2.5.0_69713_672,2.5.0,"December 11, 2025",Fixed an issue where Ravenous Soulspires and Hellspires could sometimes last indefinitely.,Bugfix,rule_bugfix
+2.5.0_69713_673,2.5.0,"December 11, 2025",Fixed an issue where Barrier granted by Temerity could be drained by health regeneration from a life per second affix.,Bugfix,rule_bugfix
+2.5.0_69713_674,2.5.0,"December 11, 2025",Fixed an issue where quest progression could be blocked for Inside the Black Tomb if the player's character was killed by Locran's Fire.,Bugfix,rule_bugfix
+2.5.0_69713_675,2.5.0,"December 11, 2025","Fixed an issue where the associated item for the Raising Spears quest didn't spawn, which would block quest progression.",Bugfix,rule_bugfix
+2.5.0_69713_676,2.5.0,"December 11, 2025",Fixed an issue where the Portal when using Leave Dungeon sometimes didn't properly appear.,Bugfix,rule_bugfix
+2.5.0_69713_677,2.5.0,"December 11, 2025",Fixed an issue where the Stockades Dungeon's gate was inoperable in the Eternal Realm.,Bugfix,rule_bugfix
+2.5.0_69713_678,2.5.0,"December 11, 2025",Fixed an issue where newly dropped items could despawn when there was a lot of loot on the ground.,Bugfix,rule_bugfix
+2.5.0_69713_679,2.5.0,"December 11, 2025",Fixed an issue where players on PlayStation™ could not use Trade Chat.,Bugfix,rule_bugfix
+2.5.0_69713_680,2.5.0,"December 11, 2025",Fixed an issue where some console and Steam achievements for Vessel of Hatred wouldn't unlock properly if the requirements were met before buying the Expansion on console.,Bugfix,rule_bugfix
+2.5.0_69713_681,2.5.0,"December 11, 2025",Fixed an issue where the Devoted Protector Steam Achievement wouldn't be unlocked when reaching Paragon 300.,Bugfix,rule_bugfix
+2.5.0_69713_682,2.5.0,"December 11, 2025",Fixed an issue where some previously unlocked titles became unavailable.,Bugfix,rule_bugfix
+2.5.0_69713_683,2.5.0,"December 11, 2025","Various performance, stability, UI, visual, and audio improvements.",QoL,rule_qol
